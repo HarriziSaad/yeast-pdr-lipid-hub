@@ -12,4 +12,4 @@ Code and result tables for "A pre-registered, structure-resolved analysis of fun
 
 Input data are public; sources are listed in the Data Availability Statement of the paper.
 
-Author: Saad Harrizi. Licence: MIT.
+Authors: Saad Harrizi, Kaouthar Elbirgui, Imane Nait Irahal and Mostafa Kabine. Licence: MIT.
