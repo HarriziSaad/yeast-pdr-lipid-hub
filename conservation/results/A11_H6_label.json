@@ -1,0 +1,14 @@
+{
+  "label": "not supported",
+  "checks": {
+    "1_significance_R0_p<0.05": false,
+    "2_both_aligners_delta>0_and_p<0.05": false,
+    "3_subset_sign_both_aligners": true,
+    "4_score_variants_sign_>=3_of_4": true,
+    "5_confound_controls_sign_comp_exposed_indep": true
+  },
+  "failed": [
+    "1_significance_R0_p<0.05",
+    "2_both_aligners_delta>0_and_p<0.05"
+  ]
+}

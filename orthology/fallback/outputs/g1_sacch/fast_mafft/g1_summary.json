@@ -1,0 +1,325 @@
+{
+ "tree": "/home/pdr/work/phase1c/mafft/fast_sacch_mafft.treefile",
+ "ufb_present": false,
+ "thresholds": {
+  "sh": 80.0,
+  "ufb": 95.0,
+  "violators_max": 0.05
+ },
+ "rooting": {
+  "outgroup_n": 35,
+  "outgroup_side_size": 35,
+  "outgroup_in_side": 35,
+  "F1": 1.0,
+  "outgroup_monophyletic": true,
+  "root_edge_sh": 100.0,
+  "root_edge_ufb": null,
+  "dikarya_on_outgroup_side": 0,
+  "dikarya_total": 0
+ },
+ "criterion1_T_all_five": false,
+ "criterion1_L_all_five": false,
+ "criterion2_pairs": false,
+ "criterion2_ygob": false,
+ "criterion2": false,
+ "n_clades_pass_1T": 4,
+ "n_clades_pass_1L": 3,
+ "criterion3_T": false,
+ "criterion3_L": false,
+ "G1_PASS_T": false,
+ "G1_PASS_L": false,
+ "pairs": {
+  "PDR5/PDR15": {
+   "sister": true,
+   "sh": 36.5,
+   "ufb": null,
+   "support_ok": false,
+   "n_seq": 137,
+   "n_species": 80,
+   "orders_non_sacch": [],
+   "nested_in_Saccharomycetales": true,
+   "n_wgd": 123,
+   "n_nonwgd_ingroup": 14,
+   "other_s288c_in_pair": []
+  },
+  "PDR11/AUS1": {
+   "sister": true,
+   "sh": 99.8,
+   "ufb": null,
+   "support_ok": true,
+   "n_seq": 106,
+   "n_species": 74,
+   "orders_non_sacch": [],
+   "nested_in_Saccharomycetales": true,
+   "n_wgd": 106,
+   "n_nonwgd_ingroup": 0,
+   "other_s288c_in_pair": []
+  }
+ },
+ "ygob_counts": {
+  "N": 11,
+  "Y": 62,
+  "NA": 6
+ },
+ "ygob_failures": [
+  [
+   "Anc_3.220",
+   "Kpol_1037.47",
+   "Vanderwaltozyma_polyspora|g004697.m1",
+   "C_PDR18"
+  ],
+  [
+   "Anc_3.220",
+   "TPHA0A04220",
+   "Tetrapisispora_phaffii|g004050.m1",
+   "C_PDR18"
+  ],
+  [
+   "Anc_3.220",
+   "KLLA0D03432g",
+   "Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278|g002362.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "ABR125C",
+   "Eremothecium_gossypii|g000711.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "Ecym_3604",
+   "Eremothecium_cymbalariae|g001889.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "SAKL0C11616g",
+   "Lachancea_kluyveri|g002980.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "KLTH0A01914g",
+   "Lachancea_thermotolerans|g004139.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "Kwal_23.5161",
+   "Lachancea_waltii|g002568.m1",
+   "none"
+  ],
+  [
+   "Anc_5.500",
+   "TBLA0A02440",
+   "Tetrapisispora_blattae|g004943.m1",
+   "none"
+  ],
+  [
+   "Anc_5.500",
+   "ZYRO0D11880g",
+   "Zygosaccharomyces_rouxii|g003780.m1",
+   "C_PDR15"
+  ],
+  [
+   "Anc_5.500",
+   "TDEL0A03640",
+   "Torulaspora_delbrueckii|g001309.m1",
+   "C_PDR15"
+  ]
+ ],
+ "two_copy_failures": [],
+ "clades": {
+  "PDR5": {
+   "n_seq": 63,
+   "n_species": 48,
+   "n_ingroup": 63,
+   "n_wgd_species": 48,
+   "sh": 92.2,
+   "ufb": null,
+   "support_ok": true,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 94,
+   "violators": 31,
+   "violator_rate": 0.32978723404255317,
+   "pass_1T": true,
+   "pass_1L": false
+  },
+  "PDR15": {
+   "n_seq": 74,
+   "n_species": 67,
+   "n_ingroup": 74,
+   "n_wgd_species": 59,
+   "sh": 97.6,
+   "ufb": null,
+   "support_ok": true,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 41,
+   "violators": 0,
+   "violator_rate": 0.0,
+   "pass_1T": true,
+   "pass_1L": true
+  },
+  "PDR10": {
+   "n_seq": 8,
+   "n_species": 8,
+   "n_ingroup": 8,
+   "n_wgd_species": 8,
+   "sh": 100.0,
+   "ufb": null,
+   "support_ok": true,
+   "scoring_group_3f": false,
+   "assigned_best_hit": 8,
+   "violators": 0,
+   "violator_rate": 0.0,
+   "pass_1T": true,
+   "pass_1L": true
+  },
+  "SNQ2": {
+   "n_seq": 104,
+   "n_species": 80,
+   "n_ingroup": 104,
+   "n_wgd_species": 71,
+   "sh": 37.7,
+   "ufb": null,
+   "support_ok": false,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 134,
+   "violators": 30,
+   "violator_rate": 0.22388059701492538,
+   "pass_1T": false,
+   "pass_1L": false
+  },
+  "PDR18": {
+   "n_seq": 19,
+   "n_species": 19,
+   "n_ingroup": 19,
+   "n_wgd_species": 19,
+   "sh": 17.9,
+   "ufb": null,
+   "support_ok": false,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 7,
+   "violators": 0,
+   "violator_rate": 0.0,
+   "pass_1T": false,
+   "pass_1L": false
+  },
+  "PDR12": {
+   "n_seq": 88,
+   "n_species": 86,
+   "n_ingroup": 88,
+   "n_wgd_species": 71,
+   "sh": 100.0,
+   "ufb": null,
+   "support_ok": true,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 88,
+   "violators": 0,
+   "violator_rate": 0.0,
+   "pass_1T": true,
+   "pass_1L": true
+  },
+  "PDR11": {
+   "n_seq": 46,
+   "n_species": 45,
+   "n_ingroup": 46,
+   "n_wgd_species": 45,
+   "sh": 73.7,
+   "ufb": null,
+   "support_ok": false,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 59,
+   "violators": 13,
+   "violator_rate": 0.22033898305084745,
+   "pass_1T": false,
+   "pass_1L": false
+  },
+  "AUS1": {
+   "n_seq": 60,
+   "n_species": 60,
+   "n_ingroup": 60,
+   "n_wgd_species": 60,
+   "sh": 50.6,
+   "ufb": null,
+   "support_ok": false,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 47,
+   "violators": 0,
+   "violator_rate": 0.0,
+   "pass_1T": false,
+   "pass_1L": false
+  }
+ },
+ "s288c_consistency": {
+  "PDR5": [
+   "PDR15",
+   "Y"
+  ],
+  "PDR15": [
+   "PDR5",
+   "Y"
+  ],
+  "PDR10": [
+   "PDR5",
+   "Y"
+  ],
+  "SNQ2": [
+   "PDR18",
+   "Y"
+  ],
+  "PDR18": [
+   "SNQ2",
+   "Y"
+  ],
+  "PDR12": [
+   "SNQ2",
+   "Y"
+  ],
+  "PDR11": [
+   "AUS1",
+   "Y"
+  ],
+  "AUS1": [
+   "PDR11",
+   "Y"
+  ]
+ },
+ "ygob_split_by_pillar_type": {
+  "non-ohnolog pillars (SNQ2, PDR12)|N": 8,
+  "non-ohnolog pillars (SNQ2, PDR12)|Y": 28,
+  "non-ohnolog pillars (SNQ2, PDR12)|NA": 2,
+  "ohnolog pillars|Y": 34,
+  "ohnolog pillars|NA": 4,
+  "ohnolog pillars|N": 3
+ },
+ "pair_sibling_context": {
+  "PDR5/PDR15": {
+   "sibling_n_seq": [
+    7
+   ],
+   "sibling_has_s288c": [
+    []
+   ],
+   "sibling_orders": [
+    {
+     "Saccharomycetales": 7
+    }
+   ]
+  },
+  "PDR11/AUS1": {
+   "sibling_n_seq": [
+    1
+   ],
+   "sibling_has_s288c": [
+    []
+   ],
+   "sibling_orders": [
+    {
+     "Saccharomycetales": 1
+    }
+   ]
+  }
+ }
+}

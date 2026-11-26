@@ -1,0 +1,9 @@
+clade	family	n_sequences	n_ingroup	n_species	n_wgd_species	stem_SH_aLRT	stem_UFBoot	support_ok	scoring_group_3f	family_purity	assigned_best_hit_in_universe	violators_outside_clade	violator_rate	violators_where	pass_1T	pass_1L	orders
+PDR5	PDR5-like	63	63	50	50	98.3		Y	Y	1.0	94	31	0.3298	"{""in_C_PDR15"": 19, ""elsewhere"": 7, ""in_C_PDR10"": 5}"	Y	N	"{""Saccharomycetales"": 63}"
+PDR15	PDR5-like	60	60	59	59	99.5		Y	Y	1.0	41	0	0.0	{}	Y	Y	"{""Saccharomycetales"": 60}"
+PDR10	PDR5-like	13	13	13	13	99.0		Y	Y	1.0	9	1	0.1111	"{""elsewhere"": 1}"	Y	N	"{""Saccharomycetales"": 13}"
+SNQ2	SNQ2-like	85	85	65	58	98.0		Y	Y	1.0	424	339	0.7995	"{""elsewhere"": 282, ""in_C_PDR12"": 53, ""in_C_PDR18"": 4}"	Y	N	"{""Saccharomycetales"": 85}"
+PDR18	SNQ2-like	11	11	9	7	79.9		N	Y	1.0	12	5	0.4167	"{""elsewhere"": 5}"	N	N	"{""Saccharomycetales"": 11}"
+PDR12	PDR12-like	211	211	163	71	65.2		N	Y	0.749	158	0	0.0	{}	N	N	"{""Alloscoideatales"": 7, ""Dipodascales"": 28, ""Phaffomycetales"": 2, ""Pichiales"": 26, ""Alaninetales"": 4, ""Serinetales"": 6, ""Saccharomycetales"": 88, ""Saccharomycodales"": 12, ""Ascoideales"": 6, ""Sporopachydermiales"": 3, ""Lipomycetales"": 23, ""Trigonopsidales"": 6}"
+PDR11	PDR11/AUS1-like	46	46	45	45	99.0		Y	Y	1.0	59	13	0.2203	"{""elsewhere"": 13}"	Y	N	"{""Saccharomycetales"": 46}"
+AUS1	PDR11/AUS1-like	46	46	46	46	100.0		Y	Y	1.0	47	1	0.0213	"{""elsewhere"": 1}"	Y	Y	"{""Saccharomycetales"": 46}"

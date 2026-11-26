@@ -1,0 +1,4 @@
+Cdr1_Cg_residue	Cdr1_aa	n_entries_ERG_contact	entries_ERG_contact	n_entries_mapping_accepted	discard_reason
+510	G	4	9S2C,9S2H,9S4S,9S4T	0	no_accepted_mapping(no_aligned_residue:1;CA_gt3A:1;ambiguous_2_candidates_within_3A:3)
+514	F	5	9S2C,9S2H,9S4S,9S4T,9S4U	0	no_accepted_mapping(CA_gt3A:1;ambiguous_2_candidates_within_3A:4)
+1336	F	5	9S2C,9S2H,9S4S,9S4T,9S4U	0	no_accepted_mapping(P33302_partner_not_in_Harris_TM_helix:5)

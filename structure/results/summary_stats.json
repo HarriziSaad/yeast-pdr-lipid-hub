@@ -1,0 +1,137 @@
+{
+ "pdr5_selftest_n": 273,
+ "pdr5_selftest_correct": {
+  "paralog_residue": 258,
+  "residue_bestref": 269,
+  "residue_domainwise": 273,
+  "residue_seqaln": 273,
+  "consensus_residue": 273,
+  "structure_only_consensus": 273
+ },
+ "cdr1_AF_vs_9VT1_n": 273,
+ "cdr1_AF_vs_9VT1_agree": {
+  "paralog_residue": 258,
+  "residue_bestref": 273,
+  "residue_domainwise": 273,
+  "residue_seqaln": 273,
+  "consensus_residue": 273,
+  "structure_only_consensus": 273
+ },
+ "CA_le3A": {
+  "Pdr5": {
+   "n_domainwise_pairs": 273,
+   "le3_domainwise": 259,
+   "le3_primary": 186,
+   "n_primary": 273
+  },
+  "Snq2": {
+   "n_domainwise_pairs": 272,
+   "le3_domainwise": 258,
+   "le3_primary": 166,
+   "n_primary": 273
+  },
+  "Pdr10": {
+   "n_domainwise_pairs": 273,
+   "le3_domainwise": 261,
+   "le3_primary": 181,
+   "n_primary": 273
+  },
+  "Pdr11": {
+   "n_domainwise_pairs": 263,
+   "le3_domainwise": 243,
+   "le3_primary": 139,
+   "n_primary": 266
+  },
+  "Pdr12": {
+   "n_domainwise_pairs": 273,
+   "le3_domainwise": 261,
+   "le3_primary": 160,
+   "n_primary": 273
+  },
+  "Pdr15": {
+   "n_domainwise_pairs": 273,
+   "le3_domainwise": 259,
+   "le3_primary": 177,
+   "n_primary": 273
+  },
+  "Pdr18": {
+   "n_domainwise_pairs": 260,
+   "le3_domainwise": 245,
+   "le3_primary": 141,
+   "n_primary": 261
+  },
+  "Aus1": {
+   "n_domainwise_pairs": 261,
+   "le3_domainwise": 241,
+   "le3_primary": 137,
+   "n_primary": 266
+  }
+ },
+ "distinct_residue_flags": {
+  "Pdr5": {
+   "pLDDT>=80": 185,
+   "sidechain_ok": 170,
+   "pLDDT70-80": 57,
+   "pLDDT<70": 31,
+   "mapping_differs": 15,
+   "mapping_uncertain": 15
+  },
+  "Snq2": {
+   "pLDDT>=80": 212,
+   "sidechain_ok": 190,
+   "mapping_differs": 21,
+   "mapping_uncertain": 21,
+   "pLDDT70-80": 41,
+   "pLDDT<70": 20
+  },
+  "Pdr10": {
+   "pLDDT>=80": 200,
+   "sidechain_ok": 198,
+   "pLDDT70-80": 44,
+   "pLDDT<70": 29
+  },
+  "Pdr11": {
+   "pLDDT>=80": 220,
+   "sidechain_ok": 206,
+   "pLDDT70-80": 27,
+   "pLDDT<70": 19,
+   "mapping_differs": 5,
+   "mapping_uncertain": 7,
+   "not_alignable": 3
+  },
+  "Pdr12": {
+   "pLDDT>=80": 215,
+   "sidechain_ok": 207,
+   "pLDDT70-80": 39,
+   "pLDDT<70": 19,
+   "mapping_differs": 6,
+   "mapping_uncertain": 6
+  },
+  "Pdr15": {
+   "pLDDT>=80": 206,
+   "sidechain_ok": 189,
+   "pLDDT70-80": 41,
+   "pLDDT<70": 26,
+   "mapping_differs": 15,
+   "mapping_uncertain": 15
+  },
+  "Pdr18": {
+   "pLDDT>=80": 205,
+   "sidechain_ok": 176,
+   "mapping_differs": 26,
+   "pLDDT70-80": 38,
+   "not_alignable": 12,
+   "mapping_uncertain": 26,
+   "pLDDT<70": 18
+  },
+  "Aus1": {
+   "pLDDT>=80": 212,
+   "sidechain_ok": 200,
+   "pLDDT70-80": 35,
+   "pLDDT<70": 19,
+   "mapping_differs": 9,
+   "mapping_uncertain": 14,
+   "not_alignable": 3
+  }
+ }
+}

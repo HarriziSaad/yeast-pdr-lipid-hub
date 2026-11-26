@@ -1,0 +1,53 @@
+dias_species	y1000_species_key	matched	note	y1000_genome
+Saccharomyces cerevisiae	Saccharomyces_cerevisiae	Y		Saccharomyces_cerevisiae
+Saccharomyces paradoxus	Saccharomyces_paradoxus	Y		Saccharomyces_paradoxus
+Saccharomyces mikatae	Saccharomyces_mikatae	Y		Saccharomyces_mikatae
+Saccharomyces kudriavzevii	Saccharomyces_kudriavzevii	Y		Saccharomyces_kudriavzevii
+Saccharomyces arboricola	Saccharomyces_arboricola	Y		Saccharomyces_arboricola
+Saccharomyces eubayanus	Saccharomyces_eubayanus	Y		Saccharomyces_eubayanus
+Saccharomyces bayanus (HYBRID)		N	hybrid, not matched	
+Saccharomyces uvarum	Saccharomyces_uvarum	Y		Saccharomyces_uvarum
+Kazachstania africana	Kazachstania_africana	Y		Kazachstania_africana
+Kazachstania naganishii	Kazachstania_naganishii	Y		Kazachstania_naganishii
+Naumovozyma castellii	Naumovozyma_castellii	Y		Naumovozyma_castellii
+Naumovozyma dairenensis	Naumovozyma_dairenensis	Y		Naumovozyma_dairenensis
+Candida glabrata	Nakaseomyces_glabratus	Y	synonym table	Nakaseomyces_glabratus
+Tetrapisispora blattae	Tetrapisispora_blattae	Y		Tetrapisispora_blattae
+Tetrapisispora phaffii	Tetrapisispora_phaffii	Y		Tetrapisispora_phaffii
+Vanderwaltozyma polyspora	Vanderwaltozyma_polyspora	Y		Vanderwaltozyma_polyspora
+Zygosaccharomyces bailii (HYBRID)		N	hybrid, not matched	
+Zygosaccharomyces bailii	Zygosaccharomyces_bailii	Y		Zygosaccharomyces_bailii
+Zygosaccharomyces rouxii	Zygosaccharomyces_rouxii	Y		Zygosaccharomyces_rouxii
+Torulaspora delbrueckii	Torulaspora_delbrueckii	Y		Torulaspora_delbrueckii
+Lachancea kluyvery	Lachancea_kluyveri	Y	synonym table	Lachancea_kluyveri
+Lachancea thermotolerans	Lachancea_thermotolerans	Y		Lachancea_thermotolerans
+Lachancea waltii	Lachancea_waltii	Y		Lachancea_waltii
+Kluyveromyces aestuarii	Kluyveromyces_aestuarii	Y		Kluyveromyces_aestuarii_NRRL_YB-4510
+Kluyveromyces lactis	Kluyveromyces_lactis	Y		Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278
+Kluyveromyces marxianus var. marxianus	Kluyveromyces_marxianus	Y	synonym table	Kluyveromyces_marxianus_DMB1
+Kluyveromyces wickerhamii	Kluyveromyces_wickerhamii	Y		Kluyveromyces_wickerhamii
+Ashbya aceri	Ashbya_aceri	Y		Ashbya_aceri
+Eremothecium cymbalariae	Eremothecium_cymbalariae	Y		Eremothecium_cymbalariae
+Eremothecium gossypii	Eremothecium_gossypii	Y		Eremothecium_gossypii
+Candida albicans	Candida_albicans	Y		Candida_albicans_SC5314
+Candida dubliniensis	Candida_dubliniensis	Y		Candida_dubliniensis_CD36
+Candida orthopsilosis	Candida_orthopsilosis	Y		Candida_orthopsilosis_90-125
+Candida parapsilosis	Candida_parapsilosis	Y		Candida_parapsilosis_NRRL_Y-12969
+Candida tropicalis	Candida_tropicalis	Y		Candida_tropicalis_NRRL_Y-12968
+Debaryomyces hansenii	Debaryomyces_hansenii	Y		Debaryomyces_hansenii
+Lodderomyces elongisporus	Lodderomyces_elongisporus	Y		Lodderomyces_elongisporus
+Scheffersomyces stipitis	Scheffersomyces_stipitis	Y		Scheffersomyces_stipitis_NRRL_Y-7124
+Spathaspora arborariae	Spathaspora_arborariae	Y		Spathaspora_arborariae
+Spathaspora passalidarum	Spathaspora_passalidarum	Y		Spathaspora_passalidarum
+Metschnikowia bicuspidata	Metschnikowia_bicuspidata	Y		Metschnikowia_bicuspidata_var._chathamia
+Babjeviella inositovora	Babjeviella_inositovora	Y		Babjeviella_inositovora
+Pachysolen tannophilus	Pachysolen_tannophilus	Y		Pachysolen_tannophilus
+Komagataella pastoris	Komagataella_pastoris	Y		Komagataella_pastoris_NRRL_Y-1603
+Dekkera bruxellensis	Brettanomyces_bruxellensis	Y	synonym table	Brettanomyces_bruxellensis
+Pichia kudriavzevii	Pichia_kudriavzevii	Y		Pichia_kudriavzevii_SD108
+Pichia membranifaciens	Pichia_membranifaciens	Y		Pichia_membranifaciens
+Ogataea parapolymorpha	Ogataea_parapolymorpha	Y		Ogataea_parapolymorpha_DL-1
+Hansenula polymorpha	Ogataea_polymorpha	Y	synonym table	Ogataea_polymorpha_NCYC_495
+Candida arabinofermentans	Candida_arabinofermentans	Y		Candida_arabinofermentans
+Wickerhamomyces anomalus	Wickerhamomyces_anomalus	Y		Wickerhamomyces_anomalus
+Ascoidea rubescens	Ascoidea_rubescens	Y		Ascoidea_rubescens

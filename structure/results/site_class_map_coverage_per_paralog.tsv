@@ -1,0 +1,16 @@
+model	evidence	distinct_class_residues	mapped	mapped_CA_le3A	not_alignable	no_aligned_residue	flags_OK_only	sidechain_ok_Y	mapped_n_agree_ge2	Pdr5_AF_selftest_primary_eq_identity	Pdr5_AF_selftest_consensus_eq_identity
+Pdr5	C-AlphaFold	273	273	186	0	0	129	170	258	258	273
+Snq2	C-AlphaFold	273	273	166	0	0	127	190	251		
+Pdr10	C-AlphaFold	273	273	181	0	0	137	198	273		
+Pdr11	C-AlphaFold	273	266	139	3	4	123	206	250		
+Pdr12	C-AlphaFold	273	273	160	0	0	134	207	267		
+Pdr15	C-AlphaFold	273	273	177	0	0	132	189	258		
+Pdr18	C-AlphaFold	273	261	141	12	0	106	176	234		
+Aus1	C-AlphaFold	273	266	137	3	4	121	200	245		
+YOL075C	C-AlphaFold	273	260	166	10	3	137	174	240		
+Adp1	C-AlphaFold	273	129	119	140	4	109	110	126		
+CaCdr1_AF	C-AlphaFold	273	273	184	0	0	138	199	258		
+22FR	E-cryoEM	273	258	252	14	1	252	0	258		
+9VT1	E-cryoEM	273	273	255	0	0	255	0	273		
+9VTO	E-cryoEM	273	272	126	0	1	113	0	242		
+9IUK	E-cryoEM	273	264	258	9	0	258	0	264		

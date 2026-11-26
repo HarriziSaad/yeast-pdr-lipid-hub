@@ -1,0 +1,103 @@
+species_code	species_key	genus	family_2018	wgd	layer	n_seq	n_PDR5like	n_SNQ2like	n_PDR12like	n_PDR11AUS1like
+Ashbya_aceri	Ashbya_aceri	Ashbya	Saccharomycetaceae	N	DIAS	4	2	1	0	1
+Eremothecium_coryli	Eremothecium_coryli	Eremothecium	Saccharomycetaceae	N	STRATIFIED	3	2	1	0	0
+Eremothecium_cymbalariae	Eremothecium_cymbalariae	Eremothecium	Saccharomycetaceae	N	DIAS+YGOB	3	2	1	0	0
+Eremothecium_gossypii	Eremothecium_gossypii	Eremothecium	Saccharomycetaceae	N	DIAS+YGOB	4	2	1	0	1
+Eremothecium_sinecaudum	Eremothecium_sinecaudum	Eremothecium	Saccharomycetaceae	N	STRATIFIED	1	0	1	0	0
+Grigorovia_humatica	Grigorovia_humatica	Grigorovia		Y	WGD	6	2	1	2	1
+Grigorovia_jiainica	Grigorovia_jiainica	Grigorovia		Y	WGD	6	3	1	1	1
+Grigorovia_transvaalensis	Grigorovia_transvaalensis	Grigorovia	Saccharomycetaceae	Y	WGD	5	2	1	1	1
+Grigorovia_yakushimaensis	Grigorovia_yakushimaensis	Grigorovia	Saccharomycetaceae	Y	WGD	5	2	1	0	2
+Hagleromyces_aurorensis	Hagleromyces_aurorensis	Hagleromyces		N	STRATIFIED	4	1	1	1	1
+Kazachstania_aerobia	Kazachstania_aerobia	Kazachstania	Saccharomycetaceae	Y	WGD	6	2	2	1	1
+Kazachstania_africana	Kazachstania_africana	Kazachstania		Y	DIAS+WGD+YGOB	4	1	0	1	2
+Kazachstania_aquatica	Kazachstania_aquatica	Kazachstania		Y	WGD	4	2	1	1	0
+Kazachstania_barnettii	Kazachstania_barnettii	Kazachstania		Y	WGD	7	2	2	1	2
+Kazachstania_bovina	Kazachstania_bovina	Kazachstania		Y	WGD	5	2	1	1	1
+Kazachstania_bromeliacearum	Kazachstania_bromeliacearum	Kazachstania	Saccharomycetaceae	Y	WGD	5	2	1	1	1
+Kazachstania_bulderi	Kazachstania_bulderi	Kazachstania		Y	WGD	6	2	1	1	2
+Kazachstania_exigua	Kazachstania_exigua	Kazachstania		Y	WGD	9	1	4	1	3
+Kazachstania_gamospora	Kazachstania_gamospora	Kazachstania		Y	WGD	2	0	0	1	1
+Kazachstania_hellenica	Kazachstania_hellenica	Kazachstania		Y	WGD	4	1	1	1	1
+Kazachstania_heterogenica	Kazachstania_heterogenica	Kazachstania		Y	WGD	5	2	1	1	1
+Kazachstania_humilis_NRRL_Y-17074	Kazachstania_humilis	Kazachstania		Y	WGD	7	2	2	1	2
+Kazachstania_ichnusensis	Kazachstania_ichnusensis	Kazachstania		Y	WGD	5	2	1	1	1
+Kazachstania_intestinalis	Kazachstania_intestinalis	Kazachstania	Saccharomycetaceae	Y	WGD	5	2	1	1	1
+Kazachstania_jinghongensis	Kazachstania_jinghongensis	Kazachstania		Y	WGD	5	1	1	1	2
+Kazachstania_kunashirensis	Kazachstania_kunashirensis	Kazachstania	Saccharomycetaceae	Y	WGD	6	2	1	1	2
+Kazachstania_lodderae	Kazachstania_lodderae	Kazachstania		Y	WGD	9	3	3	1	2
+Kazachstania_martiniae	Kazachstania_martiniae	Kazachstania	Saccharomycetaceae	Y	WGD	7	3	1	1	2
+Kazachstania_naganishii	Kazachstania_naganishii	Kazachstania	Saccharomycetaceae	Y	DIAS+WGD+YGOB	6	2	1	1	2
+Kazachstania_piceae	Kazachstania_piceae	Kazachstania		Y	WGD	7	4	1	1	1
+Kazachstania_pintolopesii	Kazachstania_pintolopesii	Kazachstania		Y	WGD	5	2	1	1	1
+Kazachstania_pseudohumilis	Kazachstania_pseudohumilis	Kazachstania		Y	WGD	6	1	2	1	2
+Kazachstania_psychrophila	Kazachstania_psychrophila	Kazachstania		Y	WGD	6	2	1	1	2
+Kazachstania_rosinii	Kazachstania_rosinii	Kazachstania	Saccharomycetaceae	Y	WGD	6	2	1	1	2
+Kazachstania_saulgeensis	Kazachstania_saulgeensis	Kazachstania		Y	WGD	7	2	2	1	2
+Kazachstania_servazzii	Kazachstania_servazzii	Kazachstania		Y	WGD	4	1	2	1	0
+Kazachstania_siamensis	Kazachstania_siamensis	Kazachstania	Saccharomycetaceae	Y	WGD	6	3	1	1	1
+Kazachstania_sinensis	Kazachstania_sinensis	Kazachstania		Y	WGD	6	2	1	1	2
+Kazachstania_slooffiae	Kazachstania_slooffiae	Kazachstania		Y	WGD	4	2	1	0	1
+Kazachstania_solicola	Kazachstania_solicola	Kazachstania		Y	WGD	6	2	2	1	1
+Kazachstania_sp._UFMG-CM-Y273	Kazachstania_sp._UFMG-CM-Y273	Kazachstania		Y	WGD	7	2	2	1	2
+Kazachstania_spencerorum	Kazachstania_spencerorum	Kazachstania	Saccharomycetaceae	Y	WGD	7	3	1	1	2
+Kazachstania_taianensis	Kazachstania_taianensis	Kazachstania	Saccharomycetaceae	Y	WGD	5	1	1	1	2
+Kazachstania_telluris	Kazachstania_telluris	Kazachstania		Y	WGD	5	2	1	1	1
+Kazachstania_turicensis	Kazachstania_turicensis	Kazachstania		Y	WGD	7	2	2	1	2
+Kazachstania_unispora	Kazachstania_unispora	Kazachstania	Saccharomycetaceae	Y	WGD	6	2	2	1	1
+Kazachstania_viticola	Kazachstania_viticola	Kazachstania		Y	WGD	6	2	1	1	2
+Kazachstania_yasuniensis	Kazachstania_yasuniensis	Kazachstania		Y	WGD	4	1	2	0	1
+Kluyveromyces_aestuarii_NRRL_YB-4510	Kluyveromyces_aestuarii	Kluyveromyces	Saccharomycetaceae	N	DIAS	4	2	1	1	0
+Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278	Kluyveromyces_lactis	Kluyveromyces		N	DIAS+YGOB	4	2	1	1	0
+Kluyveromyces_marxianus_DMB1	Kluyveromyces_marxianus	Kluyveromyces	Saccharomycetaceae	N	DIAS	6	3	1	2	0
+Kluyveromyces_wickerhamii	Kluyveromyces_wickerhamii	Kluyveromyces		N	DIAS	4	2	1	1	0
+Lachancea_cidri_NRRL_Y-12635	Lachancea_cidri	Lachancea	Saccharomycetaceae	N	STRATIFIED	3	0	1	1	1
+Lachancea_fermentati	Lachancea_fermentati	Lachancea		N	STRATIFIED	4	1	1	1	1
+Lachancea_kluyveri	Lachancea_kluyveri	Lachancea		N	DIAS+YGOB	7	3	2	1	1
+Lachancea_mirantina	Lachancea_mirantina	Lachancea		N	STRATIFIED	3	1	1	1	0
+Lachancea_sp._yHQL494	Lachancea_sp._yHQL494	Lachancea		N	STRATIFIED	3	1	2	0	0
+Lachancea_thermotolerans	Lachancea_thermotolerans	Lachancea		N	DIAS+YGOB	2	1	1	0	0
+Lachancea_waltii	Lachancea_waltii	Lachancea		N	DIAS+YGOB	4	3	1	0	0
+Nakaseomyces_bacillisporus	Nakaseomyces_bacillisporus	Nakaseomyces		Y	WGD	3	2	0	0	1
+Nakaseomyces_bracarensis	Nakaseomyces_bracarensis	Nakaseomyces		Y	WGD	5	2	1	1	1
+Nakaseomyces_castellii	Nakaseomyces_castellii	Nakaseomyces		Y	WGD	3	1	1	0	1
+Nakaseomyces_delphensis	Nakaseomyces_delphensis	Nakaseomyces		Y	WGD	5	2	1	1	1
+Nakaseomyces_glabratus	Nakaseomyces_glabratus	Nakaseomyces		Y	ANCHOR+DIAS+WGD+YGOB	5	2	1	1	1
+Nakaseomyces_kungkrabaensis	Nakaseomyces_kungkrabaensis	Nakaseomyces		Y	WGD	5	2	1	1	1
+Nakaseomyces_nivariensis	Nakaseomyces_nivariensis	Nakaseomyces		Y	WGD	5	2	1	1	1
+Nakaseomyces_sp._yHDO568	Nakaseomyces_sp._yHDO568	Nakaseomyces		Y	WGD	5	2	1	1	1
+Nakaseomyces_uthaithaninus	Nakaseomyces_uthaithaninus	Nakaseomyces		Y	WGD	5	2	1	1	1
+Naumovozyma_baii	Naumovozyma_baii	Naumovozyma		Y	WGD	6	2	2	1	1
+Naumovozyma_castellii	Naumovozyma_castellii	Naumovozyma		Y	DIAS+WGD+YGOB	9	3	3	1	2
+Naumovozyma_dairenensis	Naumovozyma_dairenensis	Naumovozyma		Y	DIAS+WGD+YGOB	7	2	2	1	2
+Saccharomyces_arboricola	Saccharomyces_arboricola	Saccharomyces	Saccharomycetaceae	Y	DIAS+WGD	7	2	2	1	2
+Saccharomyces_cerevisiae	Saccharomyces_cerevisiae	Saccharomyces	Saccharomycetaceae	Y	ANCHOR+DIAS+WGD+YGOB	8	3	2	1	2
+Saccharomyces_eubayanus	Saccharomyces_eubayanus	Saccharomyces	Saccharomycetaceae	Y	DIAS+WGD	8	3	2	1	2
+Saccharomyces_jurei	Saccharomyces_jurei	Saccharomyces		Y	WGD	7	3	1	1	2
+Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii	Saccharomyces	Saccharomycetaceae	Y	DIAS+WGD+YGOB	8	3	2	1	2
+Saccharomyces_mikatae	Saccharomyces_mikatae	Saccharomyces	Saccharomycetaceae	Y	DIAS+WGD+YGOB	8	3	2	1	2
+Saccharomyces_paradoxus	Saccharomyces_paradoxus	Saccharomyces	Saccharomycetaceae	Y	DIAS+WGD	7	3	2	0	2
+Saccharomyces_uvarum	Saccharomyces_uvarum	Saccharomyces	Saccharomycetaceae	Y	DIAS+WGD+YGOB	7	3	1	1	2
+Tetrapisispora_arboricola	Tetrapisispora_arboricola	Tetrapisispora		Y	WGD	5	1	2	1	1
+Tetrapisispora_blattae	Tetrapisispora_blattae	Tetrapisispora		Y	DIAS+WGD+YGOB	5	1	2	1	1
+Tetrapisispora_fleetii	Tetrapisispora_fleetii	Tetrapisispora	Saccharomycetaceae	Y	WGD	4	1	1	1	1
+Tetrapisispora_iriomotensis	Tetrapisispora_iriomotensis	Tetrapisispora		Y	WGD	5	1	2	1	1
+Tetrapisispora_namnaoensis	Tetrapisispora_namnaoensis	Tetrapisispora	Saccharomycetaceae	Y	WGD	5	1	2	1	1
+Tetrapisispora_nanseiensis	Tetrapisispora_nanseiensis	Tetrapisispora		Y	WGD	5	1	2	1	1
+Tetrapisispora_phaffii	Tetrapisispora_phaffii	Tetrapisispora		Y	DIAS+WGD+YGOB	4	0	2	1	1
+Tetrapisispora_pingtungensis	Tetrapisispora_pingtungensis	Tetrapisispora		Y	WGD	5	1	2	1	1
+Tetrapisispora_taiwanensis	Tetrapisispora_taiwanensis	Tetrapisispora		Y	WGD	5	1	2	1	1
+Torulaspora_delbrueckii	Torulaspora_delbrueckii	Torulaspora		N	DIAS+YGOB	3	1	1	1	0
+Torulaspora_maleeae	Torulaspora_maleeae	Torulaspora	Saccharomycetaceae	N	STRATIFIED	4	1	1	1	1
+Torulaspora_microellipsoides	Torulaspora_microellipsoides	Torulaspora		N	STRATIFIED	4	1	1	1	1
+Vanderwaltozyma_polyspora	Vanderwaltozyma_polyspora	Vanderwaltozyma		Y	DIAS+WGD+YGOB	4	1	2	1	0
+Vanderwaltozyma_sp._yHKB289	Vanderwaltozyma_sp._yHKB289	Vanderwaltozyma		Y	WGD	6	2	2	1	1
+Vanderwaltozyma_tropicalis	Vanderwaltozyma_tropicalis	Vanderwaltozyma		Y	WGD	5	1	2	1	1
+Vanderwaltozyma_verrucispora	Vanderwaltozyma_verrucispora	Vanderwaltozyma		Y	WGD	5	1	2	1	1
+Vanderwaltozyma_yarrowii	Vanderwaltozyma_yarrowii	Vanderwaltozyma		Y	WGD	4	1	1	1	1
+Yueomyces_sinensis	Yueomyces_sinensis	Yueomyces		Y	WGD	4	1	1	1	1
+Zygosaccharomyces_bailii	Zygosaccharomyces_bailii	Zygosaccharomyces	Saccharomycetaceae	N	DIAS	6	4	2	0	0
+Zygosaccharomyces_rouxii	Zygosaccharomyces_rouxii	Zygosaccharomyces		N	DIAS+YGOB	6	4	2	0	0
+Zygotorulaspora_chibaensis	Zygotorulaspora_chibaensis	Zygotorulaspora		N	STRATIFIED	4	1	1	1	1
+Zygotorulaspora_danielsina	Zygotorulaspora_danielsina	Zygotorulaspora		N	STRATIFIED	4	1	1	1	1
+Zygotorulaspora_sp._yHDO592	Zygotorulaspora_sp._yHDO592	Zygotorulaspora		N	STRATIFIED	3	0	1	1	1

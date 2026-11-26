@@ -1,0 +1,1155 @@
+speciesCode	FINAL_Tip_ID	species_key	order	n_genomes_of_species	representative_of_species	layer	selected	n_sequences	hash
+Ambrosiozyma_ambrosiae	Ambrosiozyma_ambrosiae	Ambrosiozyma_ambrosiae	Pichiales	1	Y		N	4	82356644
+Ambrosiozyma_platypodis	Ambrosiozyma_platypodis	Ambrosiozyma_platypodis	Pichiales	1	Y		N	5	71339361
+Ascobotryozyma_americana	Ascobotryozyma_americana	Ascobotryozyma_americana	Trigonopsidales	1	Y	STRATIFIED	Y	3	84590177
+Ascobotryozyma_cognata	Ascobotryozyma_cognata	Ascobotryozyma_cognata	Trigonopsidales	1	Y		N	3	67890677
+Blastobotrys_americanus	Blastobotrys_americanus	Blastobotrys_americanus	Dipodascales	1	Y		N	2	50774427
+Blastobotrys_capitulatus	Blastobotrys_capitulatus	Blastobotrys_capitulatus	Dipodascales	1	Y	STRATIFIED	Y	4	2062263
+Candida_duobushaemuli	Candida_duobushaemuli	Candida_duobushaemuli	Serinetales	1	Y		N	4	24596863
+Candida_flosculorum	Candida_flosculorum	Candida_flosculorum	Serinetales	1	Y		N	4	96089588
+Candida_haemuli	Candida_haemuli	Candida_haemuli	Serinetales	1	Y		N	5	16026719
+Candida_ipomoeae	Candida_ipomoeae	Candida_ipomoeae	Serinetales	1	Y		N	3	96106221
+Candida_loeiensis	Candida_loeiensis	Candida_loeiensis	Serinetales	1	Y		N	2	12713427
+Candida_orthopsilosis_90-125	Candida_orthopsilosis_90-125	Candida_orthopsilosis	Serinetales	2	Y	DIAS	Y	2	41641414
+Candida_pseudohaemuli	Candida_pseudohaemuli	Candida_pseudohaemuli	Serinetales	1	Y		N	4	98926076
+Candida_psychrophila	Candida_psychrophila	Candida_psychrophila	Serinetales	1	Y		N	3	79530399
+Candida_trypodendri	Candida_trypodendri	Candida_trypodendri	Serinetales	1	Y		N	3	57053716
+Hanseniaspora_smithiae	Hanseniaspora_smithiae	Hanseniaspora_smithiae	Saccharomycodales	1	Y		N	4	13891683
+Lipomyces_spencermartinsiae	Lipomyces_spencermartinsiae	Lipomyces_spencermartinsiae	Lipomycetales	1	Y		N	4	67857146
+Metschnikowia_matae_var._maris_NRRL_Y-63737	Metschnikowia_matae_var._maris_NRRL_Y-63737	Metschnikowia_matae	Serinetales	2	Y		N	3	90333695
+Metschnikowia_matae_var._matae_NRRL_Y-63736	Metschnikowia_matae_var._matae_NRRL_Y-63736	Metschnikowia_matae	Serinetales	2	N		N	3	90168576
+Metschnikowia_ziziphicola	Metschnikowia_ziziphicola	Metschnikowia_ziziphicola	Serinetales	1	Y		N	1	89977636
+Nakaseomyces_bracarensis	Nakaseomyces_bracarensis	Nakaseomyces_bracarensis	Saccharomycetales	1	Y	WGD	Y	5	381821
+Nakaseomyces_castellii	Nakaseomyces_castellii	Nakaseomyces_castellii	Saccharomycetales	1	Y	WGD	Y	3	99669685
+Nakaseomyces_uthaithaninus	Nakaseomyces_uthaithaninus	Nakaseomyces_uthaithaninus	Saccharomycetales	1	Y	WGD	Y	5	33993541
+Pichia_galeolata	Pichia_galeolata	Pichia_galeolata	Pichiales	1	Y		N	2	33321943
+Pichia_kudriavzevii_SD108	Pichia_kudriavzevii_SD108	Pichia_kudriavzevii	Pichiales	2	Y	DIAS	Y	3	50810287
+Scheffersomyces_lignosus	Scheffersomyces_lignosus	Scheffersomyces_lignosus	Serinetales	1	Y		N	5	1096605
+Wickerhamomyces_sp._UFMG-CM-Y6624	Wickerhamomyces_sp._UFMG-CM-Y6624	Wickerhamomyces_sp._UFMG-CM-Y6624	Phaffomycetales	1	Y		N	4	61027592
+Wickerhamomyces_sp._NRRL_YB-2243	Wickerhamomyces_sp._NRRL_YB-2243	Wickerhamomyces_sp._NRRL_YB-2243	Phaffomycetales	1	Y		N	6	21534078
+Aciculoconidium_aculeatum	Aciculoconidium_aculeatum	Aciculoconidium_aculeatum	Serinetales	1	Y		N	1	82671820
+Alloascoidea_africana	Alloascoidea_africana	Alloascoidea_africana	Alloscoideatales	1	Y	STRATIFIED	Y	6	51670202
+Alloascoidea_hylecoeti_JCM_7604	Alloascoidea_hylecoeti_JCM_7604	Alloascoidea_hylecoeti	Alloscoideatales	2	Y	STRATIFIED	Y	11	87235557
+Alloascoidea_hylecoeti_NRRL_Y-17703	Alloascoidea_hylecoeti_NRRL_Y-17703	Alloascoidea_hylecoeti	Alloscoideatales	2	N		N	0	32921695
+Allodekkera_sacchari	Allodekkera_sacchari	Allodekkera_sacchari	Pichiales	1	Y	STRATIFIED	Y	5	30162967
+Ambrosiozyma_angophorae	Ambrosiozyma_angophorae	Ambrosiozyma_angophorae	Pichiales	1	Y		N	5	17800759
+Ambrosiozyma_cicatricosa	Ambrosiozyma_cicatricosa	Ambrosiozyma_cicatricosa	Pichiales	1	Y		N	7	85057411
+Ambrosiozyma_kamigamensis	Ambrosiozyma_kamigamensis	Ambrosiozyma_kamigamensis	Pichiales	1	Y	STRATIFIED	Y	11	58138486
+Ambrosiozyma_kashinagicola	Ambrosiozyma_kashinagicola	Ambrosiozyma_kashinagicola	Pichiales	1	Y		N	7	89735849
+Ambrosiozyma_llanquihuensis	Ambrosiozyma_llanquihuensis	Ambrosiozyma_llanquihuensis	Pichiales	1	Y	STRATIFIED	Y	8	16103172
+Ambrosiozyma_maleeae	Ambrosiozyma_maleeae	Ambrosiozyma_maleeae	Pichiales	1	Y	STRATIFIED	Y	5	8404500
+Ambrosiozyma_monospora	Ambrosiozyma_monospora	Ambrosiozyma_monospora	Pichiales	1	Y		N	12	17059816
+Ambrosiozyma_neoplatypodis	Ambrosiozyma_neoplatypodis	Ambrosiozyma_neoplatypodis	Pichiales	1	Y		N	12	48256765
+Ambrosiozyma_oregonensis	Ambrosiozyma_oregonensis	Ambrosiozyma_oregonensis	Pichiales	1	Y		N	5	89169286
+Ambrosiozyma_philentoma	Ambrosiozyma_philentoma	Ambrosiozyma_philentoma	Pichiales	1	Y		N	10	5805358
+Ambrosiozyma_pseudovanderkliftii	Ambrosiozyma_pseudovanderkliftii	Ambrosiozyma_pseudovanderkliftii	Pichiales	1	Y		N	5	75939929
+Ambrosiozyma_vanderkliftii	Ambrosiozyma_vanderkliftii	Ambrosiozyma_vanderkliftii	Pichiales	1	Y		N	5	95712653
+Ascoidea_asiatica	Ascoidea_asiatica	Ascoidea_asiatica	Ascoideales	1	Y	STRATIFIED	Y	9	27298429
+Ascoidea_rubescens	Ascoidea_rubescens	Ascoidea_rubescens	Ascoideales	1	Y	ANCHOR+DIAS	Y	6	32141081
+Ascoidea_tarda	Ascoidea_tarda	Ascoidea_tarda	Ascoideales	1	Y		N	5	38923533
+Ashbya_aceri	Ashbya_aceri	Ashbya_aceri	Saccharomycetales	1	Y	DIAS	Y	4	9031326
+Babjeviella_inositovora	Babjeviella_inositovora	Babjeviella_inositovora	Serinetales	1	Y	DIAS	Y	7	51038953
+Barnettozyma_californica	Barnettozyma_californica	Barnettozyma_californica	Phaffomycetales	1	Y		N	3	33507098
+Barnettozyma_hawaiiensis	Barnettozyma_hawaiiensis	Barnettozyma_hawaiiensis	Phaffomycetales	1	Y	STRATIFIED	Y	5	55033847
+Barnettozyma_populi	Barnettozyma_populi	Barnettozyma_populi	Phaffomycetales	1	Y		N	4	41948841
+Barnettozyma_pratensis	Barnettozyma_pratensis	Barnettozyma_pratensis	Phaffomycetales	1	Y		N	7	78629462
+Barnettozyma_salicaria	Barnettozyma_salicaria	Barnettozyma_salicaria	Phaffomycetales	1	Y		N	2	64889162
+Barnettozyma_siamensis	Barnettozyma_siamensis	Barnettozyma_siamensis	Phaffomycetales	1	Y		N	5	16401690
+Barnettozyma_sp._yHDO593	Barnettozyma_sp._yHDO593	Barnettozyma_sp._yHDO593	Phaffomycetales	1	Y		N	4	48084736
+Barnettozyma_sucrosica	Barnettozyma_sucrosica	Barnettozyma_sucrosica	Phaffomycetales	1	Y		N	5	87747643
+Barnettozyma_vustinii	Barnettozyma_vustinii	Barnettozyma_vustinii	Phaffomycetales	1	Y		N	8	72302605
+Barnettozyma_wickerhamii	Barnettozyma_wickerhamii	Barnettozyma_wickerhamii	Phaffomycetales	1	Y		N	7	7479570
+Blastobotrys_adeninivorans_LS3	Blastobotrys_adeninivorans_LS3	Blastobotrys_adeninivorans	Dipodascales	2	Y		N	4	54253842
+Blastobotrys_adeninivorans_NRRL_Y-17692	Blastobotrys_adeninivorans_NRRL_Y-17692	Blastobotrys_adeninivorans	Dipodascales	2	N		N	1	13976734
+Blastobotrys_arbuscula	Blastobotrys_arbuscula	Blastobotrys_arbuscula	Dipodascales	1	Y		N	3	29657530
+Blastobotrys_attinorum	Blastobotrys_attinorum	Blastobotrys_attinorum	Dipodascales	1	Y		N	2	43517233
+Blastobotrys_buckinghamii	Blastobotrys_buckinghamii	Blastobotrys_buckinghamii	Dipodascales	1	Y		N	5	34692987
+Blastobotrys_chiropterorum	Blastobotrys_chiropterorum	Blastobotrys_chiropterorum	Dipodascales	1	Y		N	3	35863025
+Blastobotrys_elegans	Blastobotrys_elegans	Blastobotrys_elegans	Dipodascales	1	Y		N	6	43295921
+Blastobotrys_illinoisensis	Blastobotrys_illinoisensis	Blastobotrys_illinoisensis	Dipodascales	1	Y		N	3	36470418
+Blastobotrys_indianensis	Blastobotrys_indianensis	Blastobotrys_indianensis	Dipodascales	1	Y		N	5	28648059
+Blastobotrys_malaysiensis	Blastobotrys_malaysiensis	Blastobotrys_malaysiensis	Dipodascales	1	Y	STRATIFIED	Y	3	92321290
+Blastobotrys_mokoenaii	Blastobotrys_mokoenaii	Blastobotrys_mokoenaii	Dipodascales	1	Y		N	3	83312926
+Blastobotrys_muscicola	Blastobotrys_muscicola	Blastobotrys_muscicola	Dipodascales	1	Y		N	2	87855838
+Blastobotrys_niveus	Blastobotrys_niveus	Blastobotrys_niveus	Dipodascales	1	Y		N	2	6594733
+Blastobotrys_parvus	Blastobotrys_parvus	Blastobotrys_parvus	Dipodascales	1	Y		N	5	72196246
+Blastobotrys_peoriensis	Blastobotrys_peoriensis	Blastobotrys_peoriensis	Dipodascales	1	Y		N	2	85040439
+Blastobotrys_persicus	Blastobotrys_persicus	Blastobotrys_persicus	Dipodascales	1	Y		N	2	62648674
+Blastobotrys_proliferans	Blastobotrys_proliferans	Blastobotrys_proliferans	Dipodascales	1	Y		N	6	30008472
+Blastobotrys_raffinosifermentans	Blastobotrys_raffinosifermentans	Blastobotrys_raffinosifermentans	Dipodascales	1	Y	STRATIFIED	Y	4	22172212
+Blastobotrys_robertii	Blastobotrys_robertii	Blastobotrys_robertii	Dipodascales	1	Y	STRATIFIED	Y	2	44669000
+Blastobotrys_serpentis	Blastobotrys_serpentis	Blastobotrys_serpentis	Dipodascales	1	Y		N	3	4285487
+Blastobotrys_terrestris	Blastobotrys_terrestris	Blastobotrys_terrestris	Dipodascales	1	Y		N	3	60895215
+Botryozyma_mucatilis	Botryozyma_mucatilis	Botryozyma_mucatilis	Trigonopsidales	1	Y		N	3	31050064
+Botryozyma_nematodophila	Botryozyma_nematodophila	Botryozyma_nematodophila	Trigonopsidales	1	Y		N	4	4474636
+Brettanomyces_anomalus_NRRL_Y-17522	Brettanomyces_anomalus_NRRL_Y-17522	Brettanomyces_anomalus	Pichiales	2	Y		N	4	78362022
+Brettanomyces_anomalus_YV396	Brettanomyces_anomalus_YV396	Brettanomyces_anomalus	Pichiales	2	N		N	2	75663314
+Brettanomyces_bruxellensis	Brettanomyces_bruxellensis	Brettanomyces_bruxellensis	Pichiales	1	Y	DIAS	Y	4	19525674
+Brettanomyces_custersianus	Brettanomyces_custersianus	Brettanomyces_custersianus	Pichiales	1	Y		N	6	97038204
+Brettanomyces_naardenensis	Brettanomyces_naardenensis	Brettanomyces_naardenensis	Pichiales	1	Y		N	8	99446195
+Brettanomyces_nanus	Brettanomyces_nanus	Brettanomyces_nanus	Pichiales	1	Y		N	5	65990651
+Candida_aaseri	Candida_aaseri	Candida_aaseri	Serinetales	1	Y		N	3	42669619
+Candida_adriatica	Candida_adriatica	Candida_adriatica	Phaffomycetales	1	Y		N	1	32699241
+Candida_aechmeae	Candida_aechmeae	Candida_aechmeae	Serinetales	1	Y		N	4	77014663
+Candida_alai	Candida_alai	Candida_alai	Serinetales	1	Y		N	2	53222886
+Candida_albicans_NRRL_Y-12983	Candida_albicans_NRRL_Y-12983	Candida_albicans	Serinetales	2	N		N	6	89665198
+Candida_albicans_SC5314	Candida_albicans_SC5314	Candida_albicans	Serinetales	2	Y	ANCHOR+DIAS	Y	2	24669375
+Candida_andamanensis	Candida_andamanensis	Candida_andamanensis	Serinetales	1	Y		N	3	81273716
+Candida_anglica	Candida_anglica	Candida_anglica	Serinetales	1	Y	STRATIFIED	Y	4	69218404
+Candida_anutae	Candida_anutae	Candida_anutae	Serinetales	1	Y	STRATIFIED	Y	1	37522566
+Candida_arabinofermentans	Candida_arabinofermentans	Candida_arabinofermentans	Pichiales	1	Y	DIAS	Y	8	7721684
+Candida_argentea	Candida_argentea	Candida_argentea	Serinetales	1	Y		N	1	48355457
+Candida_ascalaphidarum	Candida_ascalaphidarum	Candida_ascalaphidarum	Serinetales	1	Y	STRATIFIED	Y	3	55913919
+Candida_asparagi	Candida_asparagi	Candida_asparagi	Serinetales	1	Y		N	2	38008577
+Candida_atlantica	Candida_atlantica	Candida_atlantica	Serinetales	1	Y		N	4	16291092
+Candida_atmosphaerica	Candida_atmosphaerica	Candida_atmosphaerica	Serinetales	1	Y		N	3	64584824
+Candida_auris_CBS_10913	Candida_auris_CBS_10913	Candida_auris	Serinetales	2	N		N	3	55594040
+Candida_auris_Ci_6684	Candida_auris_Ci_6684	Candida_auris	Serinetales	2	Y	ANCHOR	Y	3	69481670
+Candida_aurita	Candida_aurita	Candida_aurita	Serinetales	1	Y	STRATIFIED	Y	4	1362750
+Candida_awuae	Candida_awuae	Candida_awuae	Pichiales	1	Y		N	6	41297538
+Candida_bambusicola	Candida_bambusicola	Candida_bambusicola	Serinetales	1	Y		N	2	34257722
+Candida_baotianmanensis	Candida_baotianmanensis	Candida_baotianmanensis	Serinetales	1	Y		N	2	78429082
+Candida_bentonensis	Candida_bentonensis	Candida_bentonensis	Dipodascales	1	Y	STRATIFIED	Y	1	34107564
+Candida_berkhoutiae	Candida_berkhoutiae	Candida_berkhoutiae	Serinetales	1	Y		N	2	56620489
+Candida_berthetii	Candida_berthetii	Candida_berthetii	Phaffomycetales	1	Y		N	4	90545649
+Candida_blackwelliae	Candida_blackwelliae	Candida_blackwelliae	Serinetales	1	Y		N	2	70464118
+Candida_blankii	Candida_blankii	Candida_blankii	Dipodascales	1	Y	STRATIFIED	Y	3	97822296
+Candida_blattae	Candida_blattae	Candida_blattae	Serinetales	1	Y		N	4	70787774
+Candida_blattariae	Candida_blattariae	Candida_blattariae	Serinetales	1	Y		N	3	1954451
+Candida_bohioensis	Candida_bohioensis	Candida_bohioensis	Serinetales	1	Y		N	5	13680217
+Candida_boidinii	Candida_boidinii	Candida_boidinii	Pichiales	1	Y	STRATIFIED	Y	8	86913361
+Candida_boleticola	Candida_boleticola	Candida_boleticola	Serinetales	1	Y		N	5	32244876
+Candida_broadrunensis	Candida_broadrunensis	Candida_broadrunensis	Serinetales	1	Y		N	3	34455640
+Candida_buenavistaensis	Candida_buenavistaensis	Candida_buenavistaensis	Serinetales	1	Y		N	4	81752680
+Candida_buinensis	Candida_buinensis	Candida_buinensis	Serinetales	1	Y		N	3	54953921
+Candida_cabralensis	Candida_cabralensis	Candida_cabralensis	Pichiales	1	Y		N	4	25130404
+Candida_californica	Candida_californica	Candida_californica	Pichiales	1	Y		N	6	76835197
+Candida_carvajalis	Candida_carvajalis	Candida_carvajalis	Serinetales	1	Y		N	1	31154593
+Candida_caryicola	Candida_caryicola	Candida_caryicola	Serinetales	1	Y	STRATIFIED	Y	3	64565890
+Candida_cerambycidarum	Candida_cerambycidarum	Candida_cerambycidarum	Serinetales	1	Y		N	4	87335514
+Candida_chanthaburiensis	Candida_chanthaburiensis	Candida_chanthaburiensis	Serinetales	1	Y		N	3	56318192
+Candida_chauliodis	Candida_chauliodis	Candida_chauliodis	Serinetales	1	Y		N	6	55282088
+Candida_chilensis	Candida_chilensis	Candida_chilensis	Serinetales	1	Y	STRATIFIED	Y	6	84369304
+Candida_citri	Candida_citri	Candida_citri	Serinetales	1	Y		N	4	21365268
+Candida_coleopterorum	Candida_coleopterorum	Candida_coleopterorum	Serinetales	1	Y		N	3	33537221
+Candida_conglobata	Candida_conglobata	Candida_conglobata	Serinetales	1	Y		N	3	52533347
+Candida_coquimbonensis	Candida_coquimbonensis	Candida_coquimbonensis	Phaffomycetales	1	Y		N	6	86509308
+Candida_corydali	Candida_corydali	Candida_corydali	Serinetales	1	Y		N	6	18906391
+Candida_dajiaensis	Candida_dajiaensis	Candida_dajiaensis	Phaffomycetales	1	Y	STRATIFIED	Y	4	26924655
+Candida_danieliae	Candida_danieliae	Candida_danieliae	Serinetales	1	Y		N	3	15451259
+Candida_dendrica	Candida_dendrica	Candida_dendrica	Phaffomycetales	1	Y		N	1	24460311
+Candida_dendronema	Candida_dendronema	Candida_dendronema	Serinetales	1	Y	STRATIFIED	Y	3	15100368
+Candida_diddensiae	Candida_diddensiae	Candida_diddensiae	Serinetales	1	Y		N	1	52987055
+Candida_digboiensis	Candida_digboiensis	Candida_digboiensis	Dipodascales	1	Y		N	2	16720235
+Candida_diospyri	Candida_diospyri	Candida_diospyri	Serinetales	1	Y		N	5	39710672
+Candida_dosseyi	Candida_dosseyi	Candida_dosseyi	Serinetales	1	Y		N	3	43923753
+Candida_dubliniensis_CD36	Candida_dubliniensis_CD36	Candida_dubliniensis	Serinetales	2	Y	DIAS	Y	4	82749205
+Candida_dubliniensis_NRRL_Y-17841	Candida_dubliniensis_NRRL_Y-17841	Candida_dubliniensis	Serinetales	2	N		N	1	76886610
+Candida_easanensis	Candida_easanensis	Candida_easanensis	Phaffomycetales	1	Y	STRATIFIED	Y	1	18242915
+Candida_ecuadorensis	Candida_ecuadorensis	Candida_ecuadorensis	Serinetales	1	Y		N	4	97516560
+Candida_endomychidarum	Candida_endomychidarum	Candida_endomychidarum	Serinetales	1	Y		N	3	14301097
+Candida_entomophila	Candida_entomophila	Candida_entomophila	Serinetales	1	Y	STRATIFIED	Y	3	96985471
+Candida_ethanolica	Candida_ethanolica	Candida_ethanolica	Pichiales	1	Y		N	5	94748917
+Candida_ezoensis	Candida_ezoensis	Candida_ezoensis	Serinetales	1	Y		N	2	80420844
+Candida_ficus	Candida_ficus	Candida_ficus	Phaffomycetales	1	Y		N	7	85031063
+Candida_fluviatilis	Candida_fluviatilis	Candida_fluviatilis	Serinetales	1	Y		N	3	86273986
+Candida_freyschussii	Candida_freyschussii	Candida_freyschussii	Phaffomycetales	1	Y	STRATIFIED	Y	2	70193711
+Candida_friedrichii	Candida_friedrichii	Candida_friedrichii	Serinetales	1	Y		N	3	56678642
+Candida_frijolesensis	Candida_frijolesensis	Candida_frijolesensis	Serinetales	1	Y		N	5	32535746
+Candida_galis	Candida_galis	Candida_galis	Phaffomycetales	1	Y		N	4	62253889
+Candida_germanica	Candida_germanica	Candida_germanica	Serinetales	1	Y		N	4	12660569
+Candida_gigantensis	Candida_gigantensis	Candida_gigantensis	Serinetales	1	Y		N	5	32731932
+Candida_glaebosa	Candida_glaebosa	Candida_glaebosa	Serinetales	1	Y		N	3	28230333
+Candida_glucosophila	Candida_glucosophila	Candida_glucosophila	Serinetales	1	Y	STRATIFIED	Y	8	59959501
+Candida_golubevii	Candida_golubevii	Candida_golubevii	Serinetales	1	Y		N	2	43678669
+Candida_gorgasii	Candida_gorgasii	Candida_gorgasii	Serinetales	1	Y		N	4	18566193
+Candida_hainanensis	Candida_hainanensis	Candida_hainanensis	Serinetales	1	Y		N	2	18602333
+Candida_heveicola	Candida_heveicola	Candida_heveicola	Serinetales	1	Y		N	3	87725922
+Candida_hispaniensis	Candida_hispaniensis	Candida_hispaniensis	Dipodascales	1	Y	STRATIFIED	Y	4	1470009
+Candida_hungchunana	Candida_hungchunana	Candida_hungchunana	Phaffomycetales	1	Y		N	1	35997031
+Candida_incommunis	Candida_incommunis	Candida_incommunis	Dipodascales	1	Y		N	1	26146060
+Candida_inconspicua	Candida_inconspicua	Candida_inconspicua	Pichiales	1	Y		N	3	87405088
+Candida_insectalens	Candida_insectalens	Candida_insectalens	Pichiales	1	Y		N	4	97904618
+Candida_insectorum	Candida_insectorum	Candida_insectorum	Serinetales	1	Y		N	5	18050061
+Candida_intermedia	Candida_intermedia	Candida_intermedia	Serinetales	1	Y		N	4	92970831
+Candida_inulinophila	Candida_inulinophila	Candida_inulinophila	Serinetales	1	Y		N	2	39847790
+Candida_jaroonii	Candida_jaroonii	Candida_jaroonii	Serinetales	1	Y		N	3	52176253
+Candida_jianshihensis	Candida_jianshihensis	Candida_jianshihensis	Phaffomycetales	1	Y		N	5	35492613
+Candida_jiufengensis	Candida_jiufengensis	Candida_jiufengensis	Serinetales	1	Y		N	4	39805606
+Candida_kanchanaburiensis	Candida_kanchanaburiensis	Candida_kanchanaburiensis	Serinetales	1	Y		N	5	57886409
+Candida_kazuoi	Candida_kazuoi	Candida_kazuoi	Dipodascales	1	Y		N	2	71074772
+Candida_khao-thaluensis	Candida_khao-thaluensis	Candida_khao-thaluensis	Serinetales	1	Y		N	4	52801107
+Candida_konsanensis	Candida_konsanensis	Candida_konsanensis	Serinetales	1	Y		N	3	42123179
+Candida_koratica	Candida_koratica	Candida_koratica	Serinetales	1	Y		N	3	98253028
+Candida_krabiensis	Candida_krabiensis	Candida_krabiensis	Pichiales	1	Y	STRATIFIED	Y	5	92615306
+Candida_kutaoensis	Candida_kutaoensis	Candida_kutaoensis	Serinetales	1	Y	STRATIFIED	Y	3	59494023
+Candida_labiduridarum	Candida_labiduridarum	Candida_labiduridarum	Serinetales	1	Y		N	6	58687629
+Candida_lessepsii	Candida_lessepsii	Candida_lessepsii	Serinetales	1	Y		N	3	47171845
+Candida_lundiana	Candida_lundiana	Candida_lundiana	Dipodascales	1	Y		N	3	28693507
+Candida_lyxosophila	Candida_lyxosophila	Candida_lyxosophila	Serinetales	1	Y		N	5	58014044
+Candida_maesae	Candida_maesae	Candida_maesae	Phaffomycetales	1	Y		N	1	92010754
+Candida_maltosa	Candida_maltosa	Candida_maltosa	Serinetales	1	Y		N	6	40161419
+Candida_manassasensis	Candida_manassasensis	Candida_manassasensis	Serinetales	1	Y		N	2	6797741
+Candida_margitis	Candida_margitis	Candida_margitis	Serinetales	1	Y		N	2	67351754
+Candida_maris	Candida_maris	Candida_maris	Pichiales	1	Y		N	4	10631151
+Candida_mattraensis	Candida_mattraensis	Candida_mattraensis	Pichiales	1	Y		N	5	7538877
+Candida_melibiosica	Candida_melibiosica	Candida_melibiosica	Serinetales	1	Y		N	2	93209124
+Candida_membranifaciens	Candida_membranifaciens	Candida_membranifaciens	Serinetales	1	Y		N	2	28290622
+Candida_mesenterica	Candida_mesenterica	Candida_mesenterica	Serinetales	1	Y		N	6	14336426
+Candida_metapsilosis	Candida_metapsilosis	Candida_metapsilosis	Serinetales	1	Y		N	6	13626278
+Candida_methanosorbosa	Candida_methanosorbosa	Candida_methanosorbosa	Pichiales	1	Y	STRATIFIED	Y	3	25282173
+Candida_michaelii	Candida_michaelii	Candida_michaelii	Serinetales	1	Y		N	4	25626626
+Candida_middelhoveniana	Candida_middelhoveniana	Candida_middelhoveniana	Serinetales	1	Y		N	2	67237308
+Candida_mogii	Candida_mogii	Candida_mogii	Serinetales	1	Y		N	6	47327122
+Candida_montana	Candida_montana	Candida_montana	Phaffomycetales	1	Y		N	6	95620363
+Candida_morakotiae	Candida_morakotiae	Candida_morakotiae	Serinetales	1	Y		N	6	13656288
+Candida_multigemmis	Candida_multigemmis	Candida_multigemmis	Serinetales	1	Y	STRATIFIED	Y	1	50418562
+Candida_namnaoensis	Candida_namnaoensis	Candida_namnaoensis	Phaffomycetales	1	Y	STRATIFIED	Y	6	95138927
+Candida_nanaspora	Candida_nanaspora	Candida_nanaspora	Pichiales	1	Y		N	5	60888901
+Candida_neerlandica	Candida_neerlandica	Candida_neerlandica	Serinetales	1	Y		N	6	72552630
+Candida_nemodendra	Candida_nemodendra	Candida_nemodendra	Pichiales	1	Y		N	6	56561954
+Candida_nitratophila	Candida_nitratophila	Candida_nitratophila	Pichiales	1	Y		N	5	39176328
+Candida_nongkhaiensis	Candida_nongkhaiensis	Candida_nongkhaiensis	Serinetales	1	Y		N	2	2754119
+Candida_nonsorbophila	Candida_nonsorbophila	Candida_nonsorbophila	Serinetales	1	Y	STRATIFIED	Y	2	94694961
+Candida_norvegica	Candida_norvegica	Candida_norvegica	Phaffomycetales	1	Y		N	1	86521638
+Candida_oceani	Candida_oceani	Candida_oceani	Serinetales	1	Y		N	3	25997730
+Candida_odintsovae	Candida_odintsovae	Candida_odintsovae	Phaffomycetales	1	Y		N	4	6218944
+Candida_orba	Candida_orba	Candida_orba	Phaffomycetales	1	Y		N	4	49778091
+Candida_oregonensis	Candida_oregonensis	Candida_oregonensis	Serinetales	1	Y		N	5	43919212
+Candida_orthopsilosis_NRRL_Y-48468	Candida_orthopsilosis_NRRL_Y-48468	Candida_orthopsilosis	Serinetales	2	N		N	4	4400568
+Candida_ortonii	Candida_ortonii	Candida_ortonii	Pichiales	1	Y		N	4	94426734
+Candida_ovalis	Candida_ovalis	Candida_ovalis	Pichiales	1	Y		N	6	49548269
+Candida_oxycetoniae	Candida_oxycetoniae	Candida_oxycetoniae	Serinetales	1	Y		N	3	71571902
+Candida_palmioleophila	Candida_palmioleophila	Candida_palmioleophila	Serinetales	1	Y		N	3	22155232
+Candida_palmyrensis	Candida_palmyrensis	Candida_palmyrensis	Serinetales	1	Y		N	4	82592499
+Candida_parablackwelliae	Candida_parablackwelliae	Candida_parablackwelliae	Serinetales	1	Y		N	3	53707652
+Candida_parachauliodis	Candida_parachauliodis	Candida_parachauliodis	Serinetales	1	Y		N	6	26725038
+Candida_parapsilosis_CDC_317	Candida_parapsilosis_CDC_317	Candida_parapsilosis	Serinetales	2	N		N	9	12899028
+Candida_parapsilosis_NRRL_Y-12969	Candida_parapsilosis_NRRL_Y-12969	Candida_parapsilosis	Serinetales	2	Y	DIAS	Y	0	67956211
+Candida_patagonica	Candida_patagonica	Candida_patagonica	Dipodascales	1	Y		N	2	91225726
+Candida_peoriensis	Candida_peoriensis	Candida_peoriensis	Phaffomycetales	1	Y	STRATIFIED	Y	5	22089760
+Candida_phayaonensis	Candida_phayaonensis	Candida_phayaonensis	Pichiales	1	Y		N	4	71217422
+Candida_phyllophila	Candida_phyllophila	Candida_phyllophila	Serinetales	1	Y		N	2	77908975
+Candida_piceae	Candida_piceae	Candida_piceae	Pichiales	1	Y		N	5	83869862
+Candida_picinguabensis	Candida_picinguabensis	Candida_picinguabensis	Serinetales	1	Y		N	1	94984579
+Candida_pignaliae	Candida_pignaliae	Candida_pignaliae	Pichiales	1	Y		N	5	89560476
+Candida_pini	Candida_pini	Candida_pini	Pichiales	1	Y	STRATIFIED	Y	8	27250033
+Candida_ponderosae	Candida_ponderosae	Candida_ponderosae	Phaffomycetales	1	Y	STRATIFIED	Y	5	35656645
+Candida_pseudoaaseri	Candida_pseudoaaseri	Candida_pseudoaaseri	Serinetales	1	Y		N	3	19344853
+Candida_pseudocylindracea	Candida_pseudocylindracea	Candida_pseudocylindracea	Serinetales	1	Y		N	0	53563770
+Candida_pseudofarinosa	Candida_pseudofarinosa	Candida_pseudofarinosa	Serinetales	1	Y	STRATIFIED	Y	2	39784645
+Candida_pseudoflosculorum	Candida_pseudoflosculorum	Candida_pseudoflosculorum	Serinetales	1	Y		N	4	44899842
+Candida_pseudoglaebosa	Candida_pseudoglaebosa	Candida_pseudoglaebosa	Serinetales	1	Y		N	2	66739471
+Candida_pseudointermedia	Candida_pseudointermedia	Candida_pseudointermedia	Serinetales	1	Y		N	4	92099031
+Candida_pseudojiufengensis	Candida_pseudojiufengensis	Candida_pseudojiufengensis	Serinetales	1	Y		N	4	96443604
+Candida_pseudolambica	Candida_pseudolambica	Candida_pseudolambica	Pichiales	1	Y		N	2	70189193
+Candida_pseudoviswanathii	Candida_pseudoviswanathii	Candida_pseudoviswanathii	Serinetales	1	Y		N	6	1009929
+Candida_qinlingensis	Candida_qinlingensis	Candida_qinlingensis	Phaffomycetales	1	Y		N	5	20443611
+Candida_quercuum	Candida_quercuum	Candida_quercuum	Phaffomycetales	1	Y		N	6	29998786
+Candida_railenensis	Candida_railenensis	Candida_railenensis	Serinetales	1	Y		N	5	97844603
+Candida_rhizophorensis	Candida_rhizophorensis	Candida_rhizophorensis	Serinetales	1	Y		N	2	75356699
+Candida_rishiriensis	Candida_rishiriensis	Candida_rishiriensis	Pichiales	1	Y	STRATIFIED	Y	5	71846528
+Candida_robnettiae	Candida_robnettiae	Candida_robnettiae	Serinetales	1	Y		N	1	92011736
+Candida_ruelliae	Candida_ruelliae	Candida_ruelliae	Serinetales	1	Y		N	5	77728246
+Candida_rugopelliculosa	Candida_rugopelliculosa	Candida_rugopelliculosa	Pichiales	1	Y		N	5	8467062
+Candida_saitoana	Candida_saitoana	Candida_saitoana	Serinetales	1	Y		N	1	97134561
+Candida_sakaeoensis	Candida_sakaeoensis	Candida_sakaeoensis	Serinetales	1	Y		N	4	49222693
+Candida_sake	Candida_sake	Candida_sake	Serinetales	1	Y	STRATIFIED	Y	2	59335597
+Candida_santamariae	Candida_santamariae	Candida_santamariae	Serinetales	1	Y	STRATIFIED	Y	5	8349
+Candida_sanyaensis	Candida_sanyaensis	Candida_sanyaensis	Serinetales	1	Y		N	6	9915258
+Candida_sanyiensis	Candida_sanyiensis	Candida_sanyiensis	Phaffomycetales	1	Y		N	5	23366529
+Candida_saopauloensis	Candida_saopauloensis	Candida_saopauloensis	Serinetales	1	Y		N	1	6414581
+Candida_savonica	Candida_savonica	Candida_savonica	Serinetales	1	Y		N	3	29276028
+Candida_schatavii	Candida_schatavii	Candida_schatavii	Serinetales	1	Y		N	3	65463516
+Candida_sequanensis	Candida_sequanensis	Candida_sequanensis	Serinetales	1	Y	STRATIFIED	Y	3	8882190
+Candida_sharkensis	Candida_sharkensis	Candida_sharkensis	Serinetales	1	Y		N	4	51073836
+Candida_silvanorum	Candida_silvanorum	Candida_silvanorum	Serinetales	1	Y	STRATIFIED	Y	2	31599334
+Candida_silvatica	Candida_silvatica	Candida_silvatica	Pichiales	1	Y		N	5	47227548
+Candida_silvicultrix	Candida_silvicultrix	Candida_silvicultrix	Phaffomycetales	1	Y	STRATIFIED	Y	4	44979302
+Candida_sithepensis	Candida_sithepensis	Candida_sithepensis	Pichiales	1	Y		N	9	59169400
+Candida_smagusa	Candida_smagusa	Candida_smagusa	Serinetales	1	Y		N	1	45062260
+Candida_sojae_GF41	Candida_sojae_GF41	Candida_sojae	Serinetales	2	Y		N	2	72401561
+Candida_sojae_NRRL_Y-17909	Candida_sojae_NRRL_Y-17909	Candida_sojae	Serinetales	2	N		N	4	13146415
+Candida_solani	Candida_solani	Candida_solani	Phaffomycetales	1	Y		N	1	67798844
+Candida_songkhlaensis	Candida_songkhlaensis	Candida_songkhlaensis	Serinetales	1	Y		N	3	46345545
+Candida_sonorensis	Candida_sonorensis	Candida_sonorensis	Pichiales	1	Y		N	6	59661474
+Candida_sophiae-reginae	Candida_sophiae-reginae	Candida_sophiae-reginae	Serinetales	1	Y		N	4	41636414
+Candida_sorboxylosa	Candida_sorboxylosa	Candida_sorboxylosa	Pichiales	1	Y		N	3	35533635
+Candida_sp._NRRL_Y-12764	Candida_sp._NRRL_Y-12764	Candida_sp._NRRL_Y-12764	Pichiales	1	Y		N	5	38687343
+Candida_sp._NRRL_Y-27127	Candida_sp._NRRL_Y-27127	Candida_sp._NRRL_Y-27127	Phaffomycetales	1	Y		N	11	59315494
+Candida_sp._NRRL_YB-4088	Candida_sp._NRRL_YB-4088	Candida_sp._NRRL_YB-4088	Phaffomycetales	1	Y		N	2	10684331
+Candida_sp._yHDO569	Candida_sp._yHDO569	Candida_sp._yHDO569	Serinetales	1	Y		N	3	86062920
+Candida_sp._yHKB357	Candida_sp._yHKB357	Candida_sp._yHKB357	Serinetales	1	Y		N	1	42505152
+Candida_spandovensis	Candida_spandovensis	Candida_spandovensis	Dipodascales	1	Y		N	2	60315682
+Candida_spencermartinsiae	Candida_spencermartinsiae	Candida_spencermartinsiae	Serinetales	1	Y		N	3	30347727
+Candida_sphagnicola	Candida_sphagnicola	Candida_sphagnicola	Serinetales	1	Y	STRATIFIED	Y	3	51827302
+Candida_stauntonica	Candida_stauntonica	Candida_stauntonica	Phaffomycetales	1	Y		N	0	39240697
+Candida_subhashii	Candida_subhashii	Candida_subhashii	Serinetales	1	Y		N	3	25318830
+Candida_succicola	Candida_succicola	Candida_succicola	Serinetales	1	Y		N	1	9437419
+Candida_succiphila	Candida_succiphila	Candida_succiphila	Pichiales	1	Y	STRATIFIED	Y	3	52393265
+Candida_suratensis	Candida_suratensis	Candida_suratensis	Serinetales	1	Y		N	4	42429460
+Candida_suthepensis	Candida_suthepensis	Candida_suthepensis	Dipodascales	1	Y		N	2	91756673
+Candida_suzukii	Candida_suzukii	Candida_suzukii	Pichiales	1	Y	STRATIFIED	Y	4	60226729
+Candida_takata	Candida_takata	Candida_takata	Phaffomycetales	1	Y		N	2	86858704
+Candida_tallmaniae	Candida_tallmaniae	Candida_tallmaniae	Serinetales	1	Y		N	2	18095365
+Candida_tammaniensis	Candida_tammaniensis	Candida_tammaniensis	Serinetales	1	Y		N	4	6925021
+Candida_tanticharoeniae	Candida_tanticharoeniae	Candida_tanticharoeniae	Serinetales	1	Y	STRATIFIED	Y	2	37583655
+Candida_taoyuanica	Candida_taoyuanica	Candida_taoyuanica	Phaffomycetales	1	Y		N	1	66128683
+Candida_taylorii	Candida_taylorii	Candida_taylorii	Serinetales	1	Y		N	4	17024716
+Candida_tetrigidarum	Candida_tetrigidarum	Candida_tetrigidarum	Serinetales	1	Y		N	7	11227876
+Candida_thailandica	Candida_thailandica	Candida_thailandica	Serinetales	1	Y		N	4	16331479
+Candida_thaimueangensis	Candida_thaimueangensis	Candida_thaimueangensis	Pichiales	1	Y		N	5	10231707
+Candida_theae	Candida_theae	Candida_theae	Serinetales	1	Y		N	3	97016414
+Candida_tibetensis	Candida_tibetensis	Candida_tibetensis	Serinetales	1	Y		N	2	38897345
+Candida_tolerans	Candida_tolerans	Candida_tolerans	Serinetales	1	Y		N	5	18944380
+Candida_touchengensis	Candida_touchengensis	Candida_touchengensis	Serinetales	1	Y		N	2	92744730
+Candida_tropicalis_MYA-3404	Candida_tropicalis_MYA-3404	Candida_tropicalis	Serinetales	2	N		N	7	85104519
+Candida_tropicalis_NRRL_Y-12968	Candida_tropicalis_NRRL_Y-12968	Candida_tropicalis	Serinetales	2	Y	DIAS	Y	5	42441438
+Candida_tsuchiyae	Candida_tsuchiyae	Candida_tsuchiyae	Serinetales	1	Y		N	2	81714937
+Candida_tunisiensis	Candida_tunisiensis	Candida_tunisiensis	Dipodascales	1	Y	STRATIFIED	Y	1	56160727
+Candida_ubatubensis	Candida_ubatubensis	Candida_ubatubensis	Serinetales	1	Y		N	3	96830035
+Candida_ulmi	Candida_ulmi	Candida_ulmi	Phaffomycetales	1	Y	STRATIFIED	Y	4	64063215
+Candida_vartiovaarae	Candida_vartiovaarae	Candida_vartiovaarae	Phaffomycetales	1	Y		N	3	73514887
+Candida_vaughaniae	Candida_vaughaniae	Candida_vaughaniae	Serinetales	1	Y		N	2	5226159
+Candida_verbasci	Candida_verbasci	Candida_verbasci	Serinetales	1	Y		N	5	68650966
+Candida_viswanathii	Candida_viswanathii	Candida_viswanathii	Serinetales	1	Y		N	11	41142053
+Candida_vitiphila	Candida_vitiphila	Candida_vitiphila	Serinetales	1	Y		N	2	47753342
+Candida_vulturna	Candida_vulturna	Candida_vulturna	Serinetales	1	Y		N	4	84437927
+Candida_wancherniae	Candida_wancherniae	Candida_wancherniae	Serinetales	1	Y		N	3	88447922
+Candida_xiaguanensis	Candida_xiaguanensis	Candida_xiaguanensis	Serinetales	1	Y		N	5	75734659
+Candida_xylanilytica	Candida_xylanilytica	Candida_xylanilytica	Serinetales	1	Y		N	5	45441562
+Candida_xyloterini	Candida_xyloterini	Candida_xyloterini	Pichiales	1	Y		N	3	83356550
+Candida_yuanshanica	Candida_yuanshanica	Candida_yuanshanica	Phaffomycetales	1	Y		N	5	43495494
+Candida_zeylanoides	Candida_zeylanoides	Candida_zeylanoides	Serinetales	1	Y	STRATIFIED	Y	4	34766488
+Cephaloascus_albidus	Cephaloascus_albidus	Cephaloascus_albidus	Serinetales	1	Y	STRATIFIED	Y	6	24001346
+Cephaloascus_fragrans	Cephaloascus_fragrans	Cephaloascus_fragrans	Serinetales	1	Y	STRATIFIED	Y	4	78917106
+Citeromyces_hawaiiensis	Citeromyces_hawaiiensis	Citeromyces_hawaiiensis	Pichiales	1	Y		N	3	21982926
+Citeromyces_matritensis	Citeromyces_matritensis	Citeromyces_matritensis	Pichiales	1	Y	STRATIFIED	Y	3	14312622
+Citeromyces_nyonsensis	Citeromyces_nyonsensis	Citeromyces_nyonsensis	Pichiales	1	Y		N	2	33052979
+Clavispora_fructus_NRRL_Y-17072	Clavispora_fructus_NRRL_Y-17072	Clavispora_fructus	Serinetales	2	Y		N	2	50430273
+Clavispora_fructus_NRRL_Y-17088	Clavispora_fructus_NRRL_Y-17088	Clavispora_fructus	Serinetales	2	N		N	0	44509703
+Clavispora_lusitaniae_ATCC_42720	Clavispora_lusitaniae_ATCC_42720	Clavispora_lusitaniae	Serinetales	2	Y		N	3	90694339
+Clavispora_lusitaniae_NRRL_Y-11827	Clavispora_lusitaniae_NRRL_Y-11827	Clavispora_lusitaniae	Serinetales	2	N		N	2	1627870
+Clavispora_opuntiae	Clavispora_opuntiae	Clavispora_opuntiae	Serinetales	1	Y		N	1	25283167
+Clavispora_reshetovae	Clavispora_reshetovae	Clavispora_reshetovae	Serinetales	1	Y		N	1	94979347
+Crinitomyces_ghanaensis	Crinitomyces_ghanaensis	Crinitomyces_ghanaensis	Dipodascales	1	Y	STRATIFIED	Y	2	45276452
+Cyberlindnera_americana	Cyberlindnera_americana	Cyberlindnera_americana	Phaffomycetales	1	Y		N	2	5342746
+Cyberlindnera_amylophila	Cyberlindnera_amylophila	Cyberlindnera_amylophila	Phaffomycetales	1	Y		N	2	15301401
+Cyberlindnera_bimundalis	Cyberlindnera_bimundalis	Cyberlindnera_bimundalis	Phaffomycetales	1	Y		N	2	8749040
+Cyberlindnera_euphorbiae	Cyberlindnera_euphorbiae	Cyberlindnera_euphorbiae	Phaffomycetales	1	Y		N	2	14645886
+Cyberlindnera_euphorbiiphila	Cyberlindnera_euphorbiiphila	Cyberlindnera_euphorbiiphila	Phaffomycetales	1	Y		N	1	20012400
+Cyberlindnera_fabianii	Cyberlindnera_fabianii	Cyberlindnera_fabianii	Phaffomycetales	1	Y		N	2	6952060
+Cyberlindnera_galapagoensis	Cyberlindnera_galapagoensis	Cyberlindnera_galapagoensis	Phaffomycetales	1	Y		N	0	50217779
+Cyberlindnera_jadinii	Cyberlindnera_jadinii	Cyberlindnera_jadinii	Phaffomycetales	1	Y		N	2	39379759
+Cyberlindnera_japonica	Cyberlindnera_japonica	Cyberlindnera_japonica	Phaffomycetales	1	Y		N	1	58664505
+Cyberlindnera_lachancei	Cyberlindnera_lachancei	Cyberlindnera_lachancei	Phaffomycetales	1	Y		N	2	10861262
+Cyberlindnera_maclurae	Cyberlindnera_maclurae	Cyberlindnera_maclurae	Phaffomycetales	1	Y		N	2	68234017
+Cyberlindnera_maritima	Cyberlindnera_maritima	Cyberlindnera_maritima	Phaffomycetales	1	Y		N	1	58907482
+Cyberlindnera_meyerae	Cyberlindnera_meyerae	Cyberlindnera_meyerae	Phaffomycetales	1	Y		N	2	95179381
+Cyberlindnera_mississippiensis	Cyberlindnera_mississippiensis	Cyberlindnera_mississippiensis	Phaffomycetales	1	Y		N	1	46656287
+Cyberlindnera_misumaiensis	Cyberlindnera_misumaiensis	Cyberlindnera_misumaiensis	Phaffomycetales	1	Y		N	2	98117687
+Cyberlindnera_mrakii	Cyberlindnera_mrakii	Cyberlindnera_mrakii	Phaffomycetales	1	Y		N	4	44611906
+Cyberlindnera_mycetangii	Cyberlindnera_mycetangii	Cyberlindnera_mycetangii	Phaffomycetales	1	Y		N	1	72593263
+Cyberlindnera_nakhonratchasimensis	Cyberlindnera_nakhonratchasimensis	Cyberlindnera_nakhonratchasimensis	Phaffomycetales	1	Y		N	1	76071360
+Cyberlindnera_petersonii	Cyberlindnera_petersonii	Cyberlindnera_petersonii	Phaffomycetales	1	Y		N	1	77765623
+Cyberlindnera_rhodanensis	Cyberlindnera_rhodanensis	Cyberlindnera_rhodanensis	Phaffomycetales	1	Y		N	2	61750280
+Cyberlindnera_samutprakarnensis	Cyberlindnera_samutprakarnensis	Cyberlindnera_samutprakarnensis	Phaffomycetales	1	Y		N	3	14702402
+Cyberlindnera_sargentensis	Cyberlindnera_sargentensis	Cyberlindnera_sargentensis	Phaffomycetales	1	Y		N	3	75662237
+Cyberlindnera_saturnus	Cyberlindnera_saturnus	Cyberlindnera_saturnus	Phaffomycetales	1	Y		N	3	56418483
+Cyberlindnera_sp._NRRL_Y-27103	Cyberlindnera_sp._NRRL_Y-27103	Cyberlindnera_sp._NRRL_Y-27103	Phaffomycetales	1	Y	STRATIFIED	Y	2	66992623
+Cyberlindnera_sp._NRRL_Y-27267	Cyberlindnera_sp._NRRL_Y-27267	Cyberlindnera_sp._NRRL_Y-27267	Phaffomycetales	1	Y		N	1	24555834
+Cyberlindnera_sp._NRRL_Y-7615	Cyberlindnera_sp._NRRL_Y-7615	Cyberlindnera_sp._NRRL_Y-7615	Phaffomycetales	1	Y		N	1	24615496
+Cyberlindnera_suaveolens	Cyberlindnera_suaveolens	Cyberlindnera_suaveolens	Phaffomycetales	1	Y		N	2	28040633
+Cyberlindnera_subsufficiens	Cyberlindnera_subsufficiens	Cyberlindnera_subsufficiens	Phaffomycetales	1	Y		N	4	76517061
+Cyberlindnera_veronae	Cyberlindnera_veronae	Cyberlindnera_veronae	Phaffomycetales	1	Y		N	1	29330437
+Cyberlindnera_xishuangbannaensis	Cyberlindnera_xishuangbannaensis	Cyberlindnera_xishuangbannaensis	Phaffomycetales	1	Y		N	1	35844702
+Cyberlindnera_xylosilytica	Cyberlindnera_xylosilytica	Cyberlindnera_xylosilytica	Phaffomycetales	1	Y		N	1	28025734
+Danielozyma_ontarioensis	Danielozyma_ontarioensis	Danielozyma_ontarioensis	Serinetales	1	Y		N	3	78619944
+Deakozyma_indianensis	Deakozyma_indianensis	Deakozyma_indianensis	Dipodascales	1	Y		N	1	28278615
+Debaryomyces_coudertii	Debaryomyces_coudertii	Debaryomyces_coudertii	Serinetales	1	Y		N	3	20113666
+Debaryomyces_fabryi	Debaryomyces_fabryi	Debaryomyces_fabryi	Serinetales	1	Y		N	1	45164219
+Debaryomyces_hansenii	Debaryomyces_hansenii	Debaryomyces_hansenii	Serinetales	1	Y	DIAS	Y	2	97807640
+Debaryomyces_marama	Debaryomyces_marama	Debaryomyces_marama	Serinetales	1	Y		N	4	40886787
+Debaryomyces_nepalensis	Debaryomyces_nepalensis	Debaryomyces_nepalensis	Serinetales	1	Y		N	2	59519658
+Debaryomyces_prosopidis	Debaryomyces_prosopidis	Debaryomyces_prosopidis	Serinetales	1	Y		N	1	62940102
+Debaryomyces_robertsiae	Debaryomyces_robertsiae	Debaryomyces_robertsiae	Serinetales	1	Y		N	3	54395037
+Debaryomyces_singareniensis	Debaryomyces_singareniensis	Debaryomyces_singareniensis	Serinetales	1	Y	STRATIFIED	Y	3	42671273
+Debaryomyces_subglobosus	Debaryomyces_subglobosus	Debaryomyces_subglobosus	Serinetales	1	Y		N	3	14085937
+Debaryomyces_udenii	Debaryomyces_udenii	Debaryomyces_udenii	Serinetales	1	Y		N	4	34809219
+Diddensiella_caesifluorescens	Diddensiella_caesifluorescens	Diddensiella_caesifluorescens	Dipodascales	1	Y		N	2	82086523
+Diddensiella_santjacobensis	Diddensiella_santjacobensis	Diddensiella_santjacobensis	Dipodascales	1	Y		N	2	39423610
+Diddensiella_transvaalensis	Diddensiella_transvaalensis	Diddensiella_transvaalensis	Dipodascales	1	Y	STRATIFIED	Y	2	99926923
+Dipodascopsis_anomala	Dipodascopsis_anomala	Dipodascopsis_anomala	Lipomycetales	1	Y	STRATIFIED	Y	2	60425401
+Dipodascopsis_tothii	Dipodascopsis_tothii	Dipodascopsis_tothii	Lipomycetales	1	Y	STRATIFIED	Y	2	21534254
+Dipodascopsis_uninucleata_var._uninucleata	Dipodascopsis_uninucleata_var._uninucleata	Dipodascopsis_uninucleata	Lipomycetales	2	Y	STRATIFIED	Y	7	74453428
+Dipodascopsis_uninucleata_var._wickerhamii	Dipodascopsis_uninucleata_var._wickerhamii	Dipodascopsis_uninucleata	Lipomycetales	2	N		N	0	74266084
+Dipodascus_aggregatus	Dipodascus_aggregatus	Dipodascus_aggregatus	Dipodascales	1	Y		N	5	63218690
+Dipodascus_albidus	Dipodascus_albidus	Dipodascus_albidus	Dipodascales	1	Y		N	5	70774400
+Dipodascus_armillariae	Dipodascus_armillariae	Dipodascus_armillariae	Dipodascales	1	Y		N	3	23187921
+Dipodascus_australiensis	Dipodascus_australiensis	Dipodascus_australiensis	Dipodascales	1	Y		N	8	49776313
+Dipodascus_carabidarus	Dipodascus_carabidarus	Dipodascus_carabidarus	Dipodascales	1	Y		N	6	95484132
+Dipodascus_cucujoidarus	Dipodascus_cucujoidarus	Dipodascus_cucujoidarus	Dipodascales	1	Y		N	5	12012791
+Dipodascus_fermentans	Dipodascus_fermentans	Dipodascus_fermentans	Dipodascales	1	Y		N	8	20001748
+Dipodascus_geniculatus	Dipodascus_geniculatus	Dipodascus_geniculatus	Dipodascales	1	Y		N	4	40218983
+Dipodascus_ghanensis	Dipodascus_ghanensis	Dipodascus_ghanensis	Dipodascales	1	Y	STRATIFIED	Y	7	47130525
+Dipodascus_histeridarus	Dipodascus_histeridarus	Dipodascus_histeridarus	Dipodascales	1	Y		N	6	18327751
+Dipodascus_klebahnii	Dipodascus_klebahnii	Dipodascus_klebahnii	Dipodascales	1	Y		N	5	10843809
+Dipodascus_macrosporus	Dipodascus_macrosporus	Dipodascus_macrosporus	Dipodascales	1	Y		N	5	88630396
+Dipodascus_restrictus	Dipodascus_restrictus	Dipodascus_restrictus	Dipodascales	1	Y		N	6	62395811
+Dipodascus_siamensis	Dipodascus_siamensis	Dipodascus_siamensis	Dipodascales	1	Y		N	4	83925769
+Diutina_catenulata	Diutina_catenulata	Diutina_catenulata	Serinetales	1	Y		N	6	8437849
+Diutina_mesorugosa	Diutina_mesorugosa	Diutina_mesorugosa	Serinetales	1	Y		N	5	93384666
+Diutina_neorugosa	Diutina_neorugosa	Diutina_neorugosa	Serinetales	1	Y		N	5	45216080
+Diutina_pseudorugosa	Diutina_pseudorugosa	Diutina_pseudorugosa	Serinetales	1	Y		N	5	28781195
+Diutina_ranongensis	Diutina_ranongensis	Diutina_ranongensis	Serinetales	1	Y		N	5	54711934
+Diutina_rugosa	Diutina_rugosa	Diutina_rugosa	Serinetales	1	Y		N	5	77847049
+Diutina_scorzettiae	Diutina_scorzettiae	Diutina_scorzettiae	Serinetales	1	Y	STRATIFIED	Y	3	85102049
+Diutina_siamensis	Diutina_siamensis	Diutina_siamensis	Serinetales	1	Y		N	4	91973413
+Eremothecium_coryli	Eremothecium_coryli	Eremothecium_coryli	Saccharomycetales	1	Y	STRATIFIED	Y	3	11729431
+Eremothecium_cymbalariae	Eremothecium_cymbalariae	Eremothecium_cymbalariae	Saccharomycetales	1	Y	DIAS+YGOB	Y	3	11833505
+Eremothecium_gossypii	Eremothecium_gossypii	Eremothecium_gossypii	Saccharomycetales	1	Y	DIAS+YGOB	Y	4	86386243
+Eremothecium_sinecaudum	Eremothecium_sinecaudum	Eremothecium_sinecaudum	Saccharomycetales	1	Y	STRATIFIED	Y	1	48178265
+Galactomyces_geotrichum	Galactomyces_geotrichum	Galactomyces_geotrichum	Dipodascales	1	Y		N	6	65341382
+Galactomyces_reessii	Galactomyces_reessii	Galactomyces_reessii	Dipodascales	1	Y		N	7	95345650
+Geotrichum_candidum_CBS_178.71	Geotrichum_candidum_CBS_178.71	Geotrichum_candidum	Dipodascales	2	N		N	7	76328824
+Geotrichum_candidum_CLIB_918	Geotrichum_candidum_CLIB_918	Geotrichum_candidum	Dipodascales	2	Y		N	4	11621628
+Geotrichum_citri-aurantii	Geotrichum_citri-aurantii	Geotrichum_citri-aurantii	Dipodascales	1	Y		N	7	44075163
+Geotrichum_europaeum	Geotrichum_europaeum	Geotrichum_europaeum	Dipodascales	1	Y		N	5	91947179
+Geotrichum_phurueaensis	Geotrichum_phurueaensis	Geotrichum_phurueaensis	Dipodascales	1	Y		N	6	64645297
+Grigorovia_humatica	Grigorovia_humatica	Grigorovia_humatica	Saccharomycetales	1	Y	WGD	Y	6	71942898
+Grigorovia_jiainica	Grigorovia_jiainica	Grigorovia_jiainica	Saccharomycetales	1	Y	WGD	Y	6	69706841
+Grigorovia_transvaalensis	Grigorovia_transvaalensis	Grigorovia_transvaalensis	Saccharomycetales	1	Y	WGD	Y	5	81788979
+Grigorovia_yakushimaensis	Grigorovia_yakushimaensis	Grigorovia_yakushimaensis	Saccharomycetales	1	Y	WGD	Y	5	2586737
+Groenewaldozyma_auringiensis	Groenewaldozyma_auringiensis	Groenewaldozyma_auringiensis	Dipodascales	1	Y		N	2	99520781
+Groenewaldozyma_salmanticensis	Groenewaldozyma_salmanticensis	Groenewaldozyma_salmanticensis	Dipodascales	1	Y	STRATIFIED	Y	2	90311836
+Groenewaldozyma_sp._yHMH443	Groenewaldozyma_sp._yHMH443	Groenewaldozyma_sp._yHMH443	Dipodascales	1	Y		N	2	73823372
+Groenewaldozyma_tartarivorans	Groenewaldozyma_tartarivorans	Groenewaldozyma_tartarivorans	Dipodascales	1	Y		N	2	95027668
+Hagleromyces_aurorensis	Hagleromyces_aurorensis	Hagleromyces_aurorensis	Saccharomycetales	1	Y	STRATIFIED	Y	4	79509007
+Hanseniaspora_clermontiae	Hanseniaspora_clermontiae	Hanseniaspora_clermontiae	Saccharomycodales	1	Y		N	4	81162368
+Hanseniaspora_gamundiae	Hanseniaspora_gamundiae	Hanseniaspora_gamundiae	Saccharomycodales	1	Y	STRATIFIED	Y	3	46241393
+Hanseniaspora_guilliermondii	Hanseniaspora_guilliermondii	Hanseniaspora_guilliermondii	Saccharomycodales	1	Y		N	4	64667302
+Hanseniaspora_hatyaiensis	Hanseniaspora_hatyaiensis	Hanseniaspora_hatyaiensis	Saccharomycodales	1	Y		N	4	92707153
+Hanseniaspora_jakobsenii	Hanseniaspora_jakobsenii	Hanseniaspora_jakobsenii	Saccharomycodales	1	Y	STRATIFIED	Y	5	44885672
+Hanseniaspora_lachancei	Hanseniaspora_lachancei	Hanseniaspora_lachancei	Saccharomycodales	1	Y		N	3	68992208
+Hanseniaspora_lindneri	Hanseniaspora_lindneri	Hanseniaspora_lindneri	Saccharomycodales	1	Y	STRATIFIED	Y	4	50318695
+Hanseniaspora_meyeri	Hanseniaspora_meyeri	Hanseniaspora_meyeri	Saccharomycodales	1	Y		N	4	88149203
+Hanseniaspora_mollemarum	Hanseniaspora_mollemarum	Hanseniaspora_mollemarum	Saccharomycodales	1	Y		N	4	30024668
+Hanseniaspora_nectarophila	Hanseniaspora_nectarophila	Hanseniaspora_nectarophila	Saccharomycodales	1	Y		N	5	68005486
+Hanseniaspora_occidentalis_var._citrica	Hanseniaspora_occidentalis_var._citrica	Hanseniaspora_occidentalis	Saccharomycodales	2	N		N	4	11328979
+Hanseniaspora_occidentalis_var._occidentalis	Hanseniaspora_occidentalis_var._occidentalis	Hanseniaspora_occidentalis	Saccharomycodales	2	Y	STRATIFIED	Y	4	51921581
+Hanseniaspora_opuntiae	Hanseniaspora_opuntiae	Hanseniaspora_opuntiae	Saccharomycodales	1	Y	STRATIFIED	Y	4	5861157
+Hanseniaspora_osmophila	Hanseniaspora_osmophila	Hanseniaspora_osmophila	Saccharomycodales	1	Y		N	1	54353296
+Hanseniaspora_pseudoguilliermondii	Hanseniaspora_pseudoguilliermondii	Hanseniaspora_pseudoguilliermondii	Saccharomycodales	1	Y		N	4	91277148
+Hanseniaspora_singularis	Hanseniaspora_singularis	Hanseniaspora_singularis	Saccharomycodales	1	Y	STRATIFIED	Y	4	44566698
+Hanseniaspora_taiwanica	Hanseniaspora_taiwanica	Hanseniaspora_taiwanica	Saccharomycodales	1	Y	STRATIFIED	Y	2	88618690
+Hanseniaspora_thailandica	Hanseniaspora_thailandica	Hanseniaspora_thailandica	Saccharomycodales	1	Y		N	4	4768690
+Hanseniaspora_uvarum_DSMZ_2768	Hanseniaspora_uvarum_DSMZ_2768	Hanseniaspora_uvarum	Saccharomycodales	2	Y		N	1	42076488
+Hanseniaspora_uvarum_NRRL_Y-1614	Hanseniaspora_uvarum_NRRL_Y-1614	Hanseniaspora_uvarum	Saccharomycodales	2	N		N	3	73479023
+Hanseniaspora_valbyensis	Hanseniaspora_valbyensis	Hanseniaspora_valbyensis	Saccharomycodales	1	Y	ANCHOR	Y	1	79198513
+Hanseniaspora_vineae	Hanseniaspora_vineae	Hanseniaspora_vineae	Saccharomycodales	1	Y	STRATIFIED	Y	1	455692
+Hemisphaericaspora_insectamans	Hemisphaericaspora_insectamans	Hemisphaericaspora_insectamans	Serinetales	1	Y		N	3	13221754
+Hemisphaericaspora_nanyangensis	Hemisphaericaspora_nanyangensis	Hemisphaericaspora_nanyangensis	Serinetales	1	Y		N	4	95688462
+Hyphopichia_burtonii	Hyphopichia_burtonii	Hyphopichia_burtonii	Serinetales	1	Y		N	2	8189461
+Hyphopichia_buzzinii	Hyphopichia_buzzinii	Hyphopichia_buzzinii	Serinetales	1	Y		N	2	68516620
+Hyphopichia_fennica	Hyphopichia_fennica	Hyphopichia_fennica	Serinetales	1	Y		N	3	42645146
+Hyphopichia_gotoi	Hyphopichia_gotoi	Hyphopichia_gotoi	Serinetales	1	Y		N	5	23426393
+Hyphopichia_heimii	Hyphopichia_heimii	Hyphopichia_heimii	Serinetales	1	Y		N	3	41111440
+Hyphopichia_homilentoma	Hyphopichia_homilentoma	Hyphopichia_homilentoma	Serinetales	1	Y	STRATIFIED	Y	3	15552811
+Hyphopichia_khmerensis	Hyphopichia_khmerensis	Hyphopichia_khmerensis	Serinetales	1	Y		N	4	70670771
+Hyphopichia_pseudoburtonii	Hyphopichia_pseudoburtonii	Hyphopichia_pseudoburtonii	Serinetales	1	Y		N	3	4369013
+Hyphopichia_pseudorhagii	Hyphopichia_pseudorhagii	Hyphopichia_pseudorhagii	Serinetales	1	Y	STRATIFIED	Y	3	24545110
+Hyphopichia_rhagii	Hyphopichia_rhagii	Hyphopichia_rhagii	Serinetales	1	Y		N	3	29547230
+Hyphopichia_wangnamkhiaoensis	Hyphopichia_wangnamkhiaoensis	Hyphopichia_wangnamkhiaoensis	Serinetales	1	Y	STRATIFIED	Y	4	17437308
+Kazachstania_aerobia	Kazachstania_aerobia	Kazachstania_aerobia	Saccharomycetales	1	Y	WGD	Y	6	24406324
+Kazachstania_africana	Kazachstania_africana	Kazachstania_africana	Saccharomycetales	1	Y	DIAS+WGD+YGOB	Y	4	18901877
+Kazachstania_aquatica	Kazachstania_aquatica	Kazachstania_aquatica	Saccharomycetales	1	Y	WGD	Y	4	60898893
+Kazachstania_barnettii	Kazachstania_barnettii	Kazachstania_barnettii	Saccharomycetales	1	Y	WGD	Y	7	52301939
+Kazachstania_bovina	Kazachstania_bovina	Kazachstania_bovina	Saccharomycetales	1	Y	WGD	Y	5	76039655
+Kazachstania_bromeliacearum	Kazachstania_bromeliacearum	Kazachstania_bromeliacearum	Saccharomycetales	1	Y	WGD	Y	5	68467088
+Kazachstania_bulderi	Kazachstania_bulderi	Kazachstania_bulderi	Saccharomycetales	1	Y	WGD	Y	6	26303342
+Kazachstania_exigua	Kazachstania_exigua	Kazachstania_exigua	Saccharomycetales	1	Y	WGD	Y	9	45921181
+Kazachstania_gamospora	Kazachstania_gamospora	Kazachstania_gamospora	Saccharomycetales	1	Y	WGD	Y	2	2441167
+Kazachstania_hellenica	Kazachstania_hellenica	Kazachstania_hellenica	Saccharomycetales	1	Y	WGD	Y	4	25598926
+Kazachstania_heterogenica	Kazachstania_heterogenica	Kazachstania_heterogenica	Saccharomycetales	1	Y	WGD	Y	5	79537529
+Kazachstania_humilis_NRRL_Y-17074	Kazachstania_humilis_NRRL_Y-17074	Kazachstania_humilis	Saccharomycetales	2	Y	WGD	Y	6	40227015
+Kazachstania_humilis_NRRL_Y-7245	Kazachstania_humilis_NRRL_Y-7245	Kazachstania_humilis	Saccharomycetales	2	N		N	2	99838967
+Kazachstania_ichnusensis	Kazachstania_ichnusensis	Kazachstania_ichnusensis	Saccharomycetales	1	Y	WGD	Y	5	25631294
+Kazachstania_intestinalis	Kazachstania_intestinalis	Kazachstania_intestinalis	Saccharomycetales	1	Y	WGD	Y	5	74899803
+Kazachstania_jinghongensis	Kazachstania_jinghongensis	Kazachstania_jinghongensis	Saccharomycetales	1	Y	WGD	Y	5	13572579
+Kazachstania_kunashirensis	Kazachstania_kunashirensis	Kazachstania_kunashirensis	Saccharomycetales	1	Y	WGD	Y	6	97294195
+Kazachstania_lodderae	Kazachstania_lodderae	Kazachstania_lodderae	Saccharomycetales	1	Y	WGD	Y	9	19014113
+Kazachstania_martiniae	Kazachstania_martiniae	Kazachstania_martiniae	Saccharomycetales	1	Y	WGD	Y	7	19672992
+Kazachstania_naganishii	Kazachstania_naganishii	Kazachstania_naganishii	Saccharomycetales	1	Y	DIAS+WGD+YGOB	Y	6	47626402
+Kazachstania_piceae	Kazachstania_piceae	Kazachstania_piceae	Saccharomycetales	1	Y	WGD	Y	7	25886150
+Kazachstania_pintolopesii	Kazachstania_pintolopesii	Kazachstania_pintolopesii	Saccharomycetales	1	Y	WGD	Y	5	77172686
+Kazachstania_pseudohumilis	Kazachstania_pseudohumilis	Kazachstania_pseudohumilis	Saccharomycetales	1	Y	WGD	Y	6	96394735
+Kazachstania_psychrophila	Kazachstania_psychrophila	Kazachstania_psychrophila	Saccharomycetales	1	Y	WGD	Y	6	88091001
+Kazachstania_rosinii	Kazachstania_rosinii	Kazachstania_rosinii	Saccharomycetales	1	Y	WGD	Y	6	96398632
+Kazachstania_saulgeensis	Kazachstania_saulgeensis	Kazachstania_saulgeensis	Saccharomycetales	1	Y	WGD	Y	7	7562822
+Kazachstania_servazzii	Kazachstania_servazzii	Kazachstania_servazzii	Saccharomycetales	1	Y	WGD	Y	4	47106793
+Kazachstania_siamensis	Kazachstania_siamensis	Kazachstania_siamensis	Saccharomycetales	1	Y	WGD	Y	6	39729858
+Kazachstania_sinensis	Kazachstania_sinensis	Kazachstania_sinensis	Saccharomycetales	1	Y	WGD	Y	6	33107061
+Kazachstania_slooffiae	Kazachstania_slooffiae	Kazachstania_slooffiae	Saccharomycetales	1	Y	WGD	Y	4	6557067
+Kazachstania_solicola	Kazachstania_solicola	Kazachstania_solicola	Saccharomycetales	1	Y	WGD	Y	6	13683628
+Kazachstania_sp._UFMG-CM-Y273	Kazachstania_sp._UFMG-CM-Y273	Kazachstania_sp._UFMG-CM-Y273	Saccharomycetales	1	Y	WGD	Y	7	44182298
+Kazachstania_spencerorum	Kazachstania_spencerorum	Kazachstania_spencerorum	Saccharomycetales	1	Y	WGD	Y	7	23681117
+Kazachstania_taianensis	Kazachstania_taianensis	Kazachstania_taianensis	Saccharomycetales	1	Y	WGD	Y	5	4658357
+Kazachstania_telluris	Kazachstania_telluris	Kazachstania_telluris	Saccharomycetales	1	Y	WGD	Y	5	32760702
+Kazachstania_turicensis	Kazachstania_turicensis	Kazachstania_turicensis	Saccharomycetales	1	Y	WGD	Y	7	73553275
+Kazachstania_unispora	Kazachstania_unispora	Kazachstania_unispora	Saccharomycetales	1	Y	WGD	Y	6	36628131
+Kazachstania_viticola	Kazachstania_viticola	Kazachstania_viticola	Saccharomycetales	1	Y	WGD	Y	6	39586126
+Kazachstania_yasuniensis	Kazachstania_yasuniensis	Kazachstania_yasuniensis	Saccharomycetales	1	Y	WGD	Y	4	87022603
+Kluyveromyces_aestuarii_ATCC_18862	Kluyveromyces_aestuarii_ATCC_18862	Kluyveromyces_aestuarii	Saccharomycetales	2	N		N	4	46399490
+Kluyveromyces_aestuarii_NRRL_YB-4510	Kluyveromyces_aestuarii_NRRL_YB-4510	Kluyveromyces_aestuarii	Saccharomycetales	2	Y	DIAS	Y	1	92655813
+Kluyveromyces_dobzhanskii	Kluyveromyces_dobzhanskii	Kluyveromyces_dobzhanskii	Saccharomycetales	1	Y		N	4	74925955
+Kluyveromyces_lactis_CBS_2359	Kluyveromyces_lactis_CBS_2359	Kluyveromyces_lactis	Saccharomycetales	3	N		N	4	95993436
+Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278	Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278	Kluyveromyces_lactis	Saccharomycetales	3	Y	DIAS+YGOB	Y	3	88150173
+Kluyveromyces_lactis_var._lactis_NRRL_Y-8279	Kluyveromyces_lactis_var._lactis_NRRL_Y-8279	Kluyveromyces_lactis	Saccharomycetales	3	N		N	0	65260373
+Kluyveromyces_marxianus_DMB1	Kluyveromyces_marxianus_DMB1	Kluyveromyces_marxianus	Saccharomycetales	2	Y	DIAS	Y	6	93306791
+Kluyveromyces_marxianus_NRRL_Y-8281	Kluyveromyces_marxianus_NRRL_Y-8281	Kluyveromyces_marxianus	Saccharomycetales	2	N		N	2	45330438
+Kluyveromyces_nonfermentans	Kluyveromyces_nonfermentans	Kluyveromyces_nonfermentans	Saccharomycetales	1	Y		N	4	53524
+Kluyveromyces_siamensis	Kluyveromyces_siamensis	Kluyveromyces_siamensis	Saccharomycetales	1	Y		N	4	83177904
+Kluyveromyces_sp._yHMH660	Kluyveromyces_sp._yHMH660	Kluyveromyces_sp._yHMH660	Saccharomycetales	1	Y		N	4	24363490
+Kluyveromyces_starmeri	Kluyveromyces_starmeri	Kluyveromyces_starmeri	Saccharomycetales	1	Y		N	4	74696800
+Kluyveromyces_wickerhamii	Kluyveromyces_wickerhamii	Kluyveromyces_wickerhamii	Saccharomycetales	1	Y	DIAS	Y	4	6833518
+Kockiozyma_suomiensis	Kockiozyma_suomiensis	Kockiozyma_suomiensis	Lipomycetales	1	Y		N	6	50963232
+Kodamaea_alishanica	Kodamaea_alishanica	Kodamaea_alishanica	Serinetales	1	Y		N	1	52369544
+Kodamaea_anthophila	Kodamaea_anthophila	Kodamaea_anthophila	Serinetales	1	Y		N	2	16803710
+Kodamaea_arcana	Kodamaea_arcana	Kodamaea_arcana	Serinetales	1	Y	STRATIFIED	Y	1	75374568
+Kodamaea_derodonti	Kodamaea_derodonti	Kodamaea_derodonti	Serinetales	1	Y		N	1	36677046
+Kodamaea_fukazawae	Kodamaea_fukazawae	Kodamaea_fukazawae	Serinetales	1	Y		N	3	8327121
+Kodamaea_fungicola	Kodamaea_fungicola	Kodamaea_fungicola	Serinetales	1	Y		N	1	81787893
+Kodamaea_hsintzibuensis	Kodamaea_hsintzibuensis	Kodamaea_hsintzibuensis	Serinetales	1	Y		N	4	2190837
+Kodamaea_jinghongensis	Kodamaea_jinghongensis	Kodamaea_jinghongensis	Serinetales	1	Y		N	3	31784936
+Kodamaea_kakaduensis	Kodamaea_kakaduensis	Kodamaea_kakaduensis	Serinetales	1	Y		N	2	55877250
+Kodamaea_kaohsiungensis	Kodamaea_kaohsiungensis	Kodamaea_kaohsiungensis	Serinetales	1	Y		N	4	44834330
+Kodamaea_laetipori	Kodamaea_laetipori	Kodamaea_laetipori	Serinetales	1	Y		N	2	59905090
+Kodamaea_leandrae	Kodamaea_leandrae	Kodamaea_leandrae	Serinetales	1	Y		N	2	2389285
+Kodamaea_lidongshanica	Kodamaea_lidongshanica	Kodamaea_lidongshanica	Serinetales	1	Y		N	3	96231173
+Kodamaea_neixiangensis	Kodamaea_neixiangensis	Kodamaea_neixiangensis	Serinetales	1	Y		N	3	38492206
+Kodamaea_nitidulidarum	Kodamaea_nitidulidarum	Kodamaea_nitidulidarum	Serinetales	1	Y		N	2	83199635
+Kodamaea_ohmeri	Kodamaea_ohmeri	Kodamaea_ohmeri	Serinetales	1	Y		N	2	94916442
+Kodamaea_plutei	Kodamaea_plutei	Kodamaea_plutei	Serinetales	1	Y		N	3	75353018
+Kodamaea_restingae	Kodamaea_restingae	Kodamaea_restingae	Serinetales	1	Y		N	2	5147162
+Kodamaea_sagamina	Kodamaea_sagamina	Kodamaea_sagamina	Serinetales	1	Y		N	2	19979925
+Kodamaea_sp._yHQL449	Kodamaea_sp._yHQL449	Kodamaea_sp._yHQL449	Serinetales	1	Y		N	1	61650892
+Kodamaea_sp._yHQL451	Kodamaea_sp._yHQL451	Kodamaea_sp._yHQL451	Serinetales	1	Y		N	4	88494237
+Kodamaea_suecica	Kodamaea_suecica	Kodamaea_suecica	Serinetales	1	Y		N	3	92528182
+Komagataella_kurtzmanii	Komagataella_kurtzmanii	Komagataella_kurtzmanii	Pichiales	1	Y		N	4	70437034
+Komagataella_mondaviorum	Komagataella_mondaviorum	Komagataella_mondaviorum	Pichiales	1	Y		N	4	11060232
+Komagataella_pastoris_ATCC_28485	Komagataella_pastoris_ATCC_28485	Komagataella_pastoris	Pichiales	2	N		N	4	75754537
+Komagataella_pastoris_NRRL_Y-1603	Komagataella_pastoris_NRRL_Y-1603	Komagataella_pastoris	Pichiales	2	Y	DIAS	Y	0	81485027
+Komagataella_phaffii_GS115	Komagataella_phaffii_GS115	Komagataella_phaffii	Pichiales	2	Y	ANCHOR	Y	4	98597199
+Komagataella_phaffii_NRRL_Y-7556	Komagataella_phaffii_NRRL_Y-7556	Komagataella_phaffii	Pichiales	2	N		N	0	61533323
+Komagataella_populi	Komagataella_populi	Komagataella_populi	Pichiales	1	Y		N	4	55299448
+Komagataella_pseudopastoris	Komagataella_pseudopastoris	Komagataella_pseudopastoris	Pichiales	1	Y		N	4	40129383
+Komagataella_ulmi	Komagataella_ulmi	Komagataella_ulmi	Pichiales	1	Y		N	4	91587810
+Kregervanrija_delftensis	Kregervanrija_delftensis	Kregervanrija_delftensis	Pichiales	1	Y		N	4	74063249
+Kregervanrija_fluxuum	Kregervanrija_fluxuum	Kregervanrija_fluxuum	Pichiales	1	Y		N	5	20691899
+Kregervanrija_pseudodelftensis	Kregervanrija_pseudodelftensis	Kregervanrija_pseudodelftensis	Pichiales	1	Y	STRATIFIED	Y	5	52404635
+Kuraishia_borneana	Kuraishia_borneana	Kuraishia_borneana	Pichiales	1	Y	STRATIFIED	Y	2	68096175
+Kuraishia_capsulata	Kuraishia_capsulata	Kuraishia_capsulata	Pichiales	1	Y		N	6	44440109
+Kuraishia_cidri	Kuraishia_cidri	Kuraishia_cidri	Pichiales	1	Y	STRATIFIED	Y	8	69048943
+Kuraishia_floccosa	Kuraishia_floccosa	Kuraishia_floccosa	Pichiales	1	Y	STRATIFIED	Y	8	94730365
+Kuraishia_hungarica	Kuraishia_hungarica	Kuraishia_hungarica	Pichiales	1	Y		N	6	17340953
+Kuraishia_molischiana	Kuraishia_molischiana	Kuraishia_molischiana	Pichiales	1	Y	STRATIFIED	Y	5	36316527
+Kuraishia_ogatae	Kuraishia_ogatae	Kuraishia_ogatae	Pichiales	1	Y	STRATIFIED	Y	6	26522404
+Kuraishia_piskuri	Kuraishia_piskuri	Kuraishia_piskuri	Pichiales	1	Y		N	6	10402538
+Kurtzmaniella_cleridarum	Kurtzmaniella_cleridarum	Kurtzmaniella_cleridarum	Serinetales	1	Y		N	2	75670897
+Kurtzmaniella_fragi	Kurtzmaniella_fragi	Kurtzmaniella_fragi	Serinetales	1	Y	STRATIFIED	Y	3	76993365
+Kurtzmaniella_natalensis	Kurtzmaniella_natalensis	Kurtzmaniella_natalensis	Serinetales	1	Y		N	3	88260765
+Kurtzmaniella_oleophila	Kurtzmaniella_oleophila	Kurtzmaniella_oleophila	Serinetales	1	Y		N	6	26205492
+Kurtzmaniella_quercitrusa	Kurtzmaniella_quercitrusa	Kurtzmaniella_quercitrusa	Serinetales	1	Y		N	2	72313088
+Lachancea_cidri_NRRL_Y-12634	Lachancea_cidri_NRRL_Y-12634	Lachancea_cidri	Saccharomycetales	2	N		N	3	24646387
+Lachancea_cidri_NRRL_Y-12635	Lachancea_cidri_NRRL_Y-12635	Lachancea_cidri	Saccharomycetales	2	Y	STRATIFIED	Y	2	9631299
+Lachancea_dasiensis	Lachancea_dasiensis	Lachancea_dasiensis	Saccharomycetales	1	Y		N	2	38356907
+Lachancea_fantastica_nom._nud.	Lachancea_fantastica_nom._nud.	Lachancea_fantastica	Saccharomycetales	1	Y		N	2	58875676
+Lachancea_fermentati	Lachancea_fermentati	Lachancea_fermentati	Saccharomycetales	1	Y	STRATIFIED	Y	4	28678723
+Lachancea_kluyveri	Lachancea_kluyveri	Lachancea_kluyveri	Saccharomycetales	1	Y	DIAS+YGOB	Y	7	54011768
+Lachancea_lanzarotensis	Lachancea_lanzarotensis	Lachancea_lanzarotensis	Saccharomycetales	1	Y		N	2	73281347
+Lachancea_meyersii	Lachancea_meyersii	Lachancea_meyersii	Saccharomycetales	1	Y		N	2	72036695
+Lachancea_mirantina	Lachancea_mirantina	Lachancea_mirantina	Saccharomycetales	1	Y	STRATIFIED	Y	3	36485676
+Lachancea_nothofagi	Lachancea_nothofagi	Lachancea_nothofagi	Saccharomycetales	1	Y		N	2	28758444
+Lachancea_quebecensis	Lachancea_quebecensis	Lachancea_quebecensis	Saccharomycetales	1	Y		N	3	92506045
+Lachancea_sp._yHQL494	Lachancea_sp._yHQL494	Lachancea_sp._yHQL494	Saccharomycetales	1	Y	STRATIFIED	Y	3	40526985
+Lachancea_thermotolerans	Lachancea_thermotolerans	Lachancea_thermotolerans	Saccharomycetales	1	Y	DIAS+YGOB	Y	2	23853846
+Lachancea_waltii	Lachancea_waltii	Lachancea_waltii	Saccharomycetales	1	Y	DIAS+YGOB	Y	4	82848360
+Limtongia_smithiae	Limtongia_smithiae	Limtongia_smithiae	Lipomycetales	1	Y		N	5	99490638
+Limtongozyma_cylindracea	Limtongozyma_cylindracea	Limtongozyma_cylindracea	Serinetales	1	Y	STRATIFIED	Y	0	49034609
+Lipomyces_arxii	Lipomyces_arxii	Lipomyces_arxii	Lipomycetales	1	Y	STRATIFIED	Y	4	72427533
+Lipomyces_chichibuensis	Lipomyces_chichibuensis	Lipomyces_chichibuensis	Lipomycetales	1	Y		N	3	25636625
+Lipomyces_japonicus	Lipomyces_japonicus	Lipomyces_japonicus	Lipomycetales	1	Y	STRATIFIED	Y	5	63779430
+Lipomyces_kockii	Lipomyces_kockii	Lipomyces_kockii	Lipomycetales	1	Y		N	5	72053086
+Lipomyces_kononenkoae	Lipomyces_kononenkoae	Lipomyces_kononenkoae	Lipomycetales	1	Y		N	5	38352496
+Lipomyces_lipofer	Lipomyces_lipofer	Lipomyces_lipofer	Lipomycetales	1	Y	STRATIFIED	Y	6	40716486
+Lipomyces_mesembrius	Lipomyces_mesembrius	Lipomyces_mesembrius	Lipomycetales	1	Y		N	4	16327480
+Lipomyces_oligophaga	Lipomyces_oligophaga	Lipomyces_oligophaga	Lipomycetales	1	Y	STRATIFIED	Y	4	92184792
+Lipomyces_orientalis	Lipomyces_orientalis	Lipomyces_orientalis	Lipomycetales	1	Y		N	5	22082056
+Lipomyces_sp._NRRL_Y-11553	Lipomyces_sp._NRRL_Y-11553	Lipomyces_sp._NRRL_Y-11553	Lipomycetales	1	Y		N	4	47041063
+Lipomyces_sp._NRRL_Y-27488	Lipomyces_sp._NRRL_Y-27488	Lipomyces_sp._NRRL_Y-27488	Lipomycetales	1	Y	STRATIFIED	Y	4	84250508
+Lipomyces_sp._NRRL_Y-7042	Lipomyces_sp._NRRL_Y-7042	Lipomyces_sp._NRRL_Y-7042	Lipomycetales	1	Y		N	6	53479008
+Lipomyces_starkeyi	Lipomyces_starkeyi	Lipomyces_starkeyi	Lipomycetales	1	Y	ANCHOR	Y	8	84741532
+Lipomyces_tetrasporus	Lipomyces_tetrasporus	Lipomyces_tetrasporus	Lipomycetales	1	Y		N	7	35095527
+Lipomyces_yamadae	Lipomyces_yamadae	Lipomyces_yamadae	Lipomycetales	1	Y		N	5	42229464
+Lipomyces_yamanashiensis	Lipomyces_yamanashiensis	Lipomyces_yamanashiensis	Lipomycetales	1	Y		N	6	81267529
+Lipomyces_yarrowii	Lipomyces_yarrowii	Lipomyces_yarrowii	Lipomycetales	1	Y		N	3	66663060
+Lodderomyces_beijingensis	Lodderomyces_beijingensis	Lodderomyces_beijingensis	Serinetales	1	Y		N	1	84555188
+Lodderomyces_elongisporus	Lodderomyces_elongisporus	Lodderomyces_elongisporus	Serinetales	1	Y	DIAS	Y	4	70289210
+Magnusiomyces_capitatus	Magnusiomyces_capitatus	Magnusiomyces_capitatus	Dipodascales	1	Y		N	7	42179910
+Magnusiomyces_clavatus	Magnusiomyces_clavatus	Magnusiomyces_clavatus	Dipodascales	1	Y		N	3	81048512
+Magnusiomyces_ingens	Magnusiomyces_ingens	Magnusiomyces_ingens	Dipodascales	1	Y		N	6	82946507
+Magnusiomyces_magnusii	Magnusiomyces_magnusii	Magnusiomyces_magnusii	Dipodascales	1	Y		N	4	4420443
+Magnusiomyces_starmeri	Magnusiomyces_starmeri	Magnusiomyces_starmeri	Dipodascales	1	Y		N	4	50299083
+Magnusiomyces_tetraspermus	Magnusiomyces_tetraspermus	Magnusiomyces_tetraspermus	Dipodascales	1	Y		N	2	98473002
+Martiniozyma_abietophila	Martiniozyma_abietophila	Martiniozyma_abietophila	Pichiales	1	Y		N	5	9140033
+Martiniozyma_asiatica	Martiniozyma_asiatica	Martiniozyma_asiatica	Pichiales	1	Y		N	2	1542217
+Metschnikowia_aberdeeniae	Metschnikowia_aberdeeniae	Metschnikowia_aberdeeniae	Serinetales	1	Y		N	3	92923116
+Metschnikowia_agaves	Metschnikowia_agaves	Metschnikowia_agaves	Serinetales	1	Y		N	3	65931145
+Metschnikowia_andauensis	Metschnikowia_andauensis	Metschnikowia_andauensis	Serinetales	1	Y		N	0	15772276
+Metschnikowia_anglica	Metschnikowia_anglica	Metschnikowia_anglica	Serinetales	1	Y		N	3	6849573
+Metschnikowia_arizonensis	Metschnikowia_arizonensis	Metschnikowia_arizonensis	Serinetales	1	Y		N	2	29643638
+Metschnikowia_australis	Metschnikowia_australis	Metschnikowia_australis	Serinetales	1	Y		N	2	4874945
+Metschnikowia_baotianmanensis	Metschnikowia_baotianmanensis	Metschnikowia_baotianmanensis	Serinetales	1	Y		N	2	61946651
+Metschnikowia_bicuspidata_var._bicuspidata	Metschnikowia_bicuspidata_var._bicuspidata	Metschnikowia_bicuspidata	Serinetales	3	N		N	1	44912865
+Metschnikowia_bicuspidata_var._californica	Metschnikowia_bicuspidata_var._californica	Metschnikowia_bicuspidata	Serinetales	3	N		N	1	93554144
+Metschnikowia_bicuspidata_var._chathamia	Metschnikowia_bicuspidata_var._chathamia	Metschnikowia_bicuspidata	Serinetales	3	Y	DIAS	Y	2	48227786
+Metschnikowia_borealis	Metschnikowia_borealis	Metschnikowia_borealis	Serinetales	1	Y		N	2	21326430
+Metschnikowia_bowlesiae	Metschnikowia_bowlesiae	Metschnikowia_bowlesiae	Serinetales	1	Y		N	2	90932729
+Metschnikowia_caudata	Metschnikowia_caudata	Metschnikowia_caudata	Serinetales	1	Y		N	1	6399953
+Metschnikowia_cerradonensis	Metschnikowia_cerradonensis	Metschnikowia_cerradonensis	Serinetales	1	Y		N	3	4822563
+Metschnikowia_chrysomelidarum	Metschnikowia_chrysomelidarum	Metschnikowia_chrysomelidarum	Serinetales	1	Y		N	2	79852441
+Metschnikowia_chrysoperlae	Metschnikowia_chrysoperlae	Metschnikowia_chrysoperlae	Serinetales	1	Y		N	2	82360397
+Metschnikowia_colocasiae	Metschnikowia_colocasiae	Metschnikowia_colocasiae	Serinetales	1	Y		N	3	57039957
+Metschnikowia_continentalis	Metschnikowia_continentalis	Metschnikowia_continentalis	Serinetales	1	Y		N	3	73772576
+Metschnikowia_corniflorae	Metschnikowia_corniflorae	Metschnikowia_corniflorae	Serinetales	1	Y		N	2	29272069
+Metschnikowia_dekortorum	Metschnikowia_dekortorum	Metschnikowia_dekortorum	Serinetales	1	Y		N	3	271560
+Metschnikowia_drakensbergensis	Metschnikowia_drakensbergensis	Metschnikowia_drakensbergensis	Serinetales	1	Y		N	2	91100699
+Metschnikowia_drosophilae	Metschnikowia_drosophilae	Metschnikowia_drosophilae	Serinetales	1	Y		N	2	16017790
+Metschnikowia_fructicola	Metschnikowia_fructicola	Metschnikowia_fructicola	Serinetales	1	Y		N	2	37329555
+Metschnikowia_gelsemii	Metschnikowia_gelsemii	Metschnikowia_gelsemii	Serinetales	1	Y		N	3	43521584
+Metschnikowia_gruessii	Metschnikowia_gruessii	Metschnikowia_gruessii	Serinetales	1	Y		N	4	44215239
+Metschnikowia_hamakuensis	Metschnikowia_hamakuensis	Metschnikowia_hamakuensis	Serinetales	1	Y		N	2	84927062
+Metschnikowia_hawaiiana	Metschnikowia_hawaiiana	Metschnikowia_hawaiiana	Serinetales	1	Y		N	3	92243650
+Metschnikowia_hawaiiensis_NRRL_Y-17272	Metschnikowia_hawaiiensis_NRRL_Y-17272	Metschnikowia_hawaiiensis	Serinetales	2	N		N	1	7466519
+Metschnikowia_hawaiiensis_UWOPS_87-2203.2	Metschnikowia_hawaiiensis_UWOPS_87-2203.2	Metschnikowia_hawaiiensis	Serinetales	2	Y		N	1	17931089
+Metschnikowia_henanensis	Metschnikowia_henanensis	Metschnikowia_henanensis	Serinetales	1	Y		N	3	16752355
+Metschnikowia_hibisci	Metschnikowia_hibisci	Metschnikowia_hibisci	Serinetales	1	Y		N	2	63783042
+Metschnikowia_kamakouana	Metschnikowia_kamakouana	Metschnikowia_kamakouana	Serinetales	1	Y		N	2	9782984
+Metschnikowia_kipukae	Metschnikowia_kipukae	Metschnikowia_kipukae	Serinetales	1	Y		N	2	7624531
+Metschnikowia_kofuensis	Metschnikowia_kofuensis	Metschnikowia_kofuensis	Serinetales	1	Y		N	3	34908690
+Metschnikowia_koreensis	Metschnikowia_koreensis	Metschnikowia_koreensis	Serinetales	1	Y		N	2	9988094
+Metschnikowia_krissii	Metschnikowia_krissii	Metschnikowia_krissii	Serinetales	1	Y		N	2	77150813
+Metschnikowia_kunwiensis	Metschnikowia_kunwiensis	Metschnikowia_kunwiensis	Serinetales	1	Y		N	3	54202191
+Metschnikowia_lachancei	Metschnikowia_lachancei	Metschnikowia_lachancei	Serinetales	1	Y		N	3	73140013
+Metschnikowia_laotica	Metschnikowia_laotica	Metschnikowia_laotica	Serinetales	1	Y		N	2	56559481
+Metschnikowia_leonuri	Metschnikowia_leonuri	Metschnikowia_leonuri	Serinetales	1	Y		N	1	64466604
+Metschnikowia_lochheadii	Metschnikowia_lochheadii	Metschnikowia_lochheadii	Serinetales	1	Y		N	2	49008093
+Metschnikowia_lopburiensis	Metschnikowia_lopburiensis	Metschnikowia_lopburiensis	Serinetales	1	Y		N	2	76794668
+Metschnikowia_lunata	Metschnikowia_lunata	Metschnikowia_lunata	Serinetales	1	Y		N	2	72300747
+Metschnikowia_mauinuiana	Metschnikowia_mauinuiana	Metschnikowia_mauinuiana	Serinetales	1	Y		N	2	76131330
+Metschnikowia_noctiluminum	Metschnikowia_noctiluminum	Metschnikowia_noctiluminum	Serinetales	1	Y		N	1	37569642
+Metschnikowia_orientalis	Metschnikowia_orientalis	Metschnikowia_orientalis	Serinetales	1	Y		N	3	73959282
+Metschnikowia_peoriensis	Metschnikowia_peoriensis	Metschnikowia_peoriensis	Serinetales	1	Y		N	4	24317792
+Metschnikowia_picachoensis	Metschnikowia_picachoensis	Metschnikowia_picachoensis	Serinetales	1	Y		N	2	95324597
+Metschnikowia_pimensis	Metschnikowia_pimensis	Metschnikowia_pimensis	Serinetales	1	Y		N	1	65837259
+Metschnikowia_proteae	Metschnikowia_proteae	Metschnikowia_proteae	Serinetales	1	Y		N	2	41893546
+Metschnikowia_pulcherrima	Metschnikowia_pulcherrima	Metschnikowia_pulcherrima	Serinetales	1	Y		N	4	77949431
+Metschnikowia_reukaufii	Metschnikowia_reukaufii	Metschnikowia_reukaufii	Serinetales	1	Y		N	1	82292575
+Metschnikowia_rubicola	Metschnikowia_rubicola	Metschnikowia_rubicola	Serinetales	1	Y		N	5	56456077
+Metschnikowia_saccharicola	Metschnikowia_saccharicola	Metschnikowia_saccharicola	Serinetales	1	Y		N	1	74302526
+Metschnikowia_santaceciliae	Metschnikowia_santaceciliae	Metschnikowia_santaceciliae	Serinetales	1	Y		N	3	265563
+Metschnikowia_shanxiensis	Metschnikowia_shanxiensis	Metschnikowia_shanxiensis	Serinetales	1	Y		N	5	78422772
+Metschnikowia_shivogae	Metschnikowia_shivogae	Metschnikowia_shivogae	Serinetales	1	Y		N	2	93341
+Metschnikowia_similis_NRRL_Y-27627	Metschnikowia_similis_NRRL_Y-27627	Metschnikowia_similis	Serinetales	2	N		N	2	55407830
+Metschnikowia_similis_UWOPS_03-133.4	Metschnikowia_similis_UWOPS_03-133.4	Metschnikowia_similis	Serinetales	2	Y		N	0	26849896
+Metschnikowia_sinensis	Metschnikowia_sinensis	Metschnikowia_sinensis	Serinetales	1	Y		N	5	54958843
+Metschnikowia_sp._yHJM9	Metschnikowia_sp._yHJM9	Metschnikowia_sp._yHJM9	Serinetales	1	Y		N	2	51911242
+Metschnikowia_sp._yHKB443	Metschnikowia_sp._yHKB443	Metschnikowia_sp._yHKB443	Serinetales	1	Y		N	2	43967655
+Metschnikowia_sp._yHQL527	Metschnikowia_sp._yHQL527	Metschnikowia_sp._yHQL527	Serinetales	1	Y		N	2	48154321
+Metschnikowia_torresii	Metschnikowia_torresii	Metschnikowia_torresii	Serinetales	1	Y		N	2	52132734
+Metschnikowia_vanudenii	Metschnikowia_vanudenii	Metschnikowia_vanudenii	Serinetales	1	Y		N	2	92247039
+Metschnikowia_viticola	Metschnikowia_viticola	Metschnikowia_viticola	Serinetales	1	Y		N	2	64049888
+Metschnikowia_zobellii	Metschnikowia_zobellii	Metschnikowia_zobellii	Serinetales	1	Y		N	2	57073530
+Meyerozyma_athensensis	Meyerozyma_athensensis	Meyerozyma_athensensis	Serinetales	1	Y		N	2	29458611
+Meyerozyma_caribbica	Meyerozyma_caribbica	Meyerozyma_caribbica	Serinetales	1	Y	STRATIFIED	Y	3	51911920
+Meyerozyma_carpophila	Meyerozyma_carpophila	Meyerozyma_carpophila	Serinetales	1	Y		N	3	98476955
+Meyerozyma_elateridarum	Meyerozyma_elateridarum	Meyerozyma_elateridarum	Serinetales	1	Y		N	5	37487956
+Meyerozyma_guilliermondii_NRRL_Y-2075	Meyerozyma_guilliermondii_NRRL_Y-2075	Meyerozyma_guilliermondii	Serinetales	2	N		N	3	86863374
+Meyerozyma_guilliermondii_NRRL_Y-324	Meyerozyma_guilliermondii_NRRL_Y-324	Meyerozyma_guilliermondii	Serinetales	2	Y		N	3	85629388
+Meyerozyma_smithsonii	Meyerozyma_smithsonii	Meyerozyma_smithsonii	Serinetales	1	Y		N	2	52036458
+Middelhovenomyces_tepae	Middelhovenomyces_tepae	Middelhovenomyces_tepae	Dipodascales	1	Y	STRATIFIED	Y	3	57000400
+Millerozyma_acaciae	Millerozyma_acaciae	Millerozyma_acaciae	Serinetales	1	Y	STRATIFIED	Y	2	92289656
+Millerozyma_farinosa	Millerozyma_farinosa	Millerozyma_farinosa	Serinetales	1	Y		N	2	14407744
+Millerozyma_miso	Millerozyma_miso	Millerozyma_miso	Serinetales	1	Y		N	2	61780891
+Myxozyma_geophila	Myxozyma_geophila	Myxozyma_geophila	Lipomycetales	1	Y		N	6	20323332
+Myxozyma_kluyveri	Myxozyma_kluyveri	Myxozyma_kluyveri	Lipomycetales	1	Y	STRATIFIED	Y	4	42292493
+Myxozyma_lipomycoides	Myxozyma_lipomycoides	Myxozyma_lipomycoides	Lipomycetales	1	Y		N	5	56950119
+Myxozyma_melibiosi	Myxozyma_melibiosi	Myxozyma_melibiosi	Lipomycetales	1	Y		N	7	16845509
+Myxozyma_monticola	Myxozyma_monticola	Myxozyma_monticola	Lipomycetales	1	Y		N	5	68510172
+Myxozyma_mucilagina	Myxozyma_mucilagina	Myxozyma_mucilagina	Lipomycetales	1	Y		N	5	83385133
+Myxozyma_neglecta	Myxozyma_neglecta	Myxozyma_neglecta	Lipomycetales	1	Y		N	5	83609792
+Myxozyma_neotropica	Myxozyma_neotropica	Myxozyma_neotropica	Lipomycetales	1	Y		N	5	98187399
+Myxozyma_nipponensis	Myxozyma_nipponensis	Myxozyma_nipponensis	Lipomycetales	1	Y	STRATIFIED	Y	4	48696359
+Myxozyma_sirexii	Myxozyma_sirexii	Myxozyma_sirexii	Lipomycetales	1	Y	STRATIFIED	Y	7	89098396
+Myxozyma_udenii	Myxozyma_udenii	Myxozyma_udenii	Lipomycetales	1	Y		N	6	47817143
+Myxozyma_vanderwaltii	Myxozyma_vanderwaltii	Myxozyma_vanderwaltii	Lipomycetales	1	Y		N	5	36856399
+Nadsonia_commutata	Nadsonia_commutata	Nadsonia_commutata	Dipodascales	1	Y		N	2	42483752
+Nadsonia_fulvescens_var._elongata	Nadsonia_fulvescens_var._elongata	Nadsonia_fulvescens	Dipodascales	2	N		N	4	15000844
+Nadsonia_fulvescens_var._fulvescens	Nadsonia_fulvescens_var._fulvescens	Nadsonia_fulvescens	Dipodascales	2	Y	ANCHOR	Y	3	1842576
+Nadsonia_starkeyi-henricii	Nadsonia_starkeyi-henricii	Nadsonia_starkeyi-henricii	Dipodascales	1	Y		N	5	43954060
+Nakaseomyces_bacillisporus	Nakaseomyces_bacillisporus	Nakaseomyces_bacillisporus	Saccharomycetales	1	Y	WGD	Y	3	38725653
+Nakaseomyces_delphensis	Nakaseomyces_delphensis	Nakaseomyces_delphensis	Saccharomycetales	1	Y	WGD	Y	5	13734831
+Nakaseomyces_glabratus	Nakaseomyces_glabratus	Nakaseomyces_glabratus	Saccharomycetales	1	Y	ANCHOR+DIAS+WGD+YGOB	Y	5	35431341
+Nakaseomyces_kungkrabaensis	Nakaseomyces_kungkrabaensis	Nakaseomyces_kungkrabaensis	Saccharomycetales	1	Y	WGD	Y	5	39865588
+Nakaseomyces_nivariensis	Nakaseomyces_nivariensis	Nakaseomyces_nivariensis	Saccharomycetales	1	Y	WGD	Y	5	99731992
+Nakaseomyces_sp._yHDO568	Nakaseomyces_sp._yHDO568	Nakaseomyces_sp._yHDO568	Saccharomycetales	1	Y	WGD	Y	5	35939384
+Nakazawaea_anatomiae	Nakazawaea_anatomiae	Nakazawaea_anatomiae	Alaninetales	1	Y		N	4	12103280
+Nakazawaea_ernobii	Nakazawaea_ernobii	Nakazawaea_ernobii	Alaninetales	1	Y	STRATIFIED	Y	3	18842647
+Nakazawaea_holstii	Nakazawaea_holstii	Nakazawaea_holstii	Alaninetales	1	Y		N	6	72277645
+Nakazawaea_ishiwadae	Nakazawaea_ishiwadae	Nakazawaea_ishiwadae	Alaninetales	1	Y		N	4	58887915
+Nakazawaea_laoshanensis	Nakazawaea_laoshanensis	Nakazawaea_laoshanensis	Alaninetales	1	Y	STRATIFIED	Y	4	4945369
+Nakazawaea_molendinolei	Nakazawaea_molendinolei	Nakazawaea_molendinolei	Alaninetales	1	Y	STRATIFIED	Y	3	81761246
+Nakazawaea_peltata	Nakazawaea_peltata	Nakazawaea_peltata	Alaninetales	1	Y	STRATIFIED	Y	2	58678676
+Nakazawaea_pomicola	Nakazawaea_pomicola	Nakazawaea_pomicola	Alaninetales	1	Y	STRATIFIED	Y	4	65906118
+Nakazawaea_populi	Nakazawaea_populi	Nakazawaea_populi	Alaninetales	1	Y		N	5	44414089
+Nakazawaea_siamensis	Nakazawaea_siamensis	Nakazawaea_siamensis	Alaninetales	1	Y		N	1	4504594
+Nakazawaea_sp._yHDR128	Nakazawaea_sp._yHDR128	Nakazawaea_sp._yHDR128	Alaninetales	1	Y	STRATIFIED	Y	2	53669971
+Nakazawaea_sp._yHKS545	Nakazawaea_sp._yHKS545	Nakazawaea_sp._yHKS545	Alaninetales	1	Y		N	6	88364878
+Nakazawaea_wickerhamii	Nakazawaea_wickerhamii	Nakazawaea_wickerhamii	Alaninetales	1	Y		N	5	60535624
+Nakazawaea_wyomingensis	Nakazawaea_wyomingensis	Nakazawaea_wyomingensis	Alaninetales	1	Y	STRATIFIED	Y	3	39033600
+Naumovozyma_baii	Naumovozyma_baii	Naumovozyma_baii	Saccharomycetales	1	Y	WGD	Y	6	1938351
+Naumovozyma_castellii	Naumovozyma_castellii	Naumovozyma_castellii	Saccharomycetales	1	Y	DIAS+WGD+YGOB	Y	9	53434029
+Naumovozyma_dairenensis	Naumovozyma_dairenensis	Naumovozyma_dairenensis	Saccharomycetales	1	Y	DIAS+WGD+YGOB	Y	7	55377374
+Nematodospora_anomalae	Nematodospora_anomalae	Nematodospora_anomalae	Serinetales	1	Y		N	4	80655496
+Nematodospora_valgi	Nematodospora_valgi	Nematodospora_valgi	Serinetales	1	Y		N	3	23958036
+Ogataea_allantospora	Ogataea_allantospora	Ogataea_allantospora	Pichiales	1	Y		N	3	71271489
+Ogataea_angusta	Ogataea_angusta	Ogataea_angusta	Pichiales	1	Y		N	3	87553453
+Ogataea_chonburiensis	Ogataea_chonburiensis	Ogataea_chonburiensis	Pichiales	1	Y		N	3	28906865
+Ogataea_corticis	Ogataea_corticis	Ogataea_corticis	Pichiales	1	Y		N	5	28497589
+Ogataea_degrootiae	Ogataea_degrootiae	Ogataea_degrootiae	Pichiales	1	Y	STRATIFIED	Y	5	75006540
+Ogataea_dorogensis	Ogataea_dorogensis	Ogataea_dorogensis	Pichiales	1	Y		N	3	6008066
+Ogataea_ganodermae	Ogataea_ganodermae	Ogataea_ganodermae	Pichiales	1	Y		N	5	53544684
+Ogataea_glucozyma	Ogataea_glucozyma	Ogataea_glucozyma	Pichiales	1	Y		N	4	30870314
+Ogataea_haglerorum	Ogataea_haglerorum	Ogataea_haglerorum	Pichiales	1	Y		N	2	19057211
+Ogataea_henricii	Ogataea_henricii	Ogataea_henricii	Pichiales	1	Y		N	4	69188627
+Ogataea_kodamae	Ogataea_kodamae	Ogataea_kodamae	Pichiales	1	Y		N	3	18618344
+Ogataea_methanolica	Ogataea_methanolica	Ogataea_methanolica	Pichiales	1	Y		N	9	97602793
+Ogataea_methylivora_NRRL_Y-17250	Ogataea_methylivora_NRRL_Y-17250	Ogataea_methylivora	Pichiales	1	Y	STRATIFIED	Y	4	89757769
+Ogataea_methylovora_NRRL_Y-11996	Ogataea_methylovora_NRRL_Y-11996	Ogataea_methylovora	Pichiales	1	Y		N	4	94436256
+Ogataea_minuta	Ogataea_minuta	Ogataea_minuta	Pichiales	1	Y		N	4	51937078
+Ogataea_naganishii	Ogataea_naganishii	Ogataea_naganishii	Pichiales	1	Y	STRATIFIED	Y	2	71496570
+Ogataea_nakhonphanomensis	Ogataea_nakhonphanomensis	Ogataea_nakhonphanomensis	Pichiales	1	Y		N	4	27371173
+Ogataea_neopini	Ogataea_neopini	Ogataea_neopini	Pichiales	1	Y		N	6	15793556
+Ogataea_nitratoaversa	Ogataea_nitratoaversa	Ogataea_nitratoaversa	Pichiales	1	Y		N	5	47043481
+Ogataea_nonfermentans	Ogataea_nonfermentans	Ogataea_nonfermentans	Pichiales	1	Y		N	4	6073808
+Ogataea_paradorogensis	Ogataea_paradorogensis	Ogataea_paradorogensis	Pichiales	1	Y		N	3	86876465
+Ogataea_paraovalis	Ogataea_paraovalis	Ogataea_paraovalis	Pichiales	1	Y		N	5	29785610
+Ogataea_parapolymorpha_DL-1	Ogataea_parapolymorpha_DL-1	Ogataea_parapolymorpha	Pichiales	2	Y	DIAS	Y	1	69166132
+Ogataea_parapolymorpha_NRRL_YB-1982	Ogataea_parapolymorpha_NRRL_YB-1982	Ogataea_parapolymorpha	Pichiales	2	N		N	2	59777470
+Ogataea_philodendri	Ogataea_philodendri	Ogataea_philodendri	Pichiales	1	Y		N	3	8067477
+Ogataea_pilisensis	Ogataea_pilisensis	Ogataea_pilisensis	Pichiales	1	Y	STRATIFIED	Y	4	37523237
+Ogataea_pini	Ogataea_pini	Ogataea_pini	Pichiales	1	Y	STRATIFIED	Y	4	94192545
+Ogataea_polymorpha_NCYC_495	Ogataea_polymorpha_NCYC_495	Ogataea_polymorpha	Pichiales	2	Y	DIAS	Y	3	33214447
+Ogataea_polymorpha_NRRL_Y-5445	Ogataea_polymorpha_NRRL_Y-5445	Ogataea_polymorpha	Pichiales	2	N		N	0	63106792
+Ogataea_populi-albae	Ogataea_populi-albae	Ogataea_populi-albae	Pichiales	1	Y	STRATIFIED	Y	6	61121394
+Ogataea_ramenticola	Ogataea_ramenticola	Ogataea_ramenticola	Pichiales	1	Y		N	3	9428657
+Ogataea_salicorniae	Ogataea_salicorniae	Ogataea_salicorniae	Pichiales	1	Y		N	2	12788369
+Ogataea_saltuana	Ogataea_saltuana	Ogataea_saltuana	Pichiales	1	Y		N	3	7623280
+Ogataea_siamensis	Ogataea_siamensis	Ogataea_siamensis	Pichiales	1	Y		N	3	96777349
+Ogataea_sp._NRRL_Y-27166	Ogataea_sp._NRRL_Y-27166	Ogataea_sp._NRRL_Y-27166	Pichiales	1	Y		N	4	47819363
+Ogataea_sp._NRRL_Y-27170	Ogataea_sp._NRRL_Y-27170	Ogataea_sp._NRRL_Y-27170	Pichiales	1	Y	STRATIFIED	Y	4	52559398
+Ogataea_sp._NRRL_YB-1238	Ogataea_sp._NRRL_YB-1238	Ogataea_sp._NRRL_YB-1238	Pichiales	1	Y		N	7	19242084
+Ogataea_sp._NRRL_YB-2437	Ogataea_sp._NRRL_YB-2437	Ogataea_sp._NRRL_YB-2437	Pichiales	1	Y		N	4	35483216
+Ogataea_sp._NRRL_YB-2442	Ogataea_sp._NRRL_YB-2442	Ogataea_sp._NRRL_YB-2442	Pichiales	1	Y		N	6	95735721
+Ogataea_sp._yHMJ1	Ogataea_sp._yHMJ1	Ogataea_sp._yHMJ1	Pichiales	1	Y		N	5	33821563
+Ogataea_thermomethanolica	Ogataea_thermomethanolica	Ogataea_thermomethanolica	Pichiales	1	Y		N	3	6120871
+Ogataea_trehaloabstinens	Ogataea_trehaloabstinens	Ogataea_trehaloabstinens	Pichiales	1	Y		N	6	80890666
+Ogataea_trehalophila	Ogataea_trehalophila	Ogataea_trehalophila	Pichiales	1	Y		N	4	94327953
+Ogataea_wickerhamii	Ogataea_wickerhamii	Ogataea_wickerhamii	Pichiales	1	Y		N	6	17353303
+Ogataea_zsoltii	Ogataea_zsoltii	Ogataea_zsoltii	Pichiales	1	Y		N	5	22524170
+Pachysolen_tannophilus	Pachysolen_tannophilus	Pachysolen_tannophilus	Alaninetales	1	Y	ANCHOR+DIAS	Y	4	93472217
+Peterozyma_toletana	Peterozyma_toletana	Peterozyma_toletana	Alaninetales	1	Y		N	6	12605098
+Peterozyma_xylosa	Peterozyma_xylosa	Peterozyma_xylosa	Alaninetales	1	Y	STRATIFIED	Y	6	67294154
+Phaffomyces_antillensis	Phaffomyces_antillensis	Phaffomyces_antillensis	Phaffomycetales	1	Y		N	5	95891263
+Phaffomyces_opuntiae	Phaffomyces_opuntiae	Phaffomyces_opuntiae	Phaffomycetales	1	Y		N	4	94861564
+Phaffomyces_thermotolerans	Phaffomyces_thermotolerans	Phaffomyces_thermotolerans	Phaffomycetales	1	Y		N	2	12719864
+Pichia_cactophila	Pichia_cactophila	Pichia_cactophila	Pichiales	1	Y		N	7	4869721
+Pichia_cephalocereana	Pichia_cephalocereana	Pichia_cephalocereana	Pichiales	1	Y		N	6	67553697
+Pichia_deserticola	Pichia_deserticola	Pichia_deserticola	Pichiales	1	Y		N	4	3086323
+Pichia_eremophila	Pichia_eremophila	Pichia_eremophila	Pichiales	1	Y		N	5	68100268
+Pichia_exigua	Pichia_exigua	Pichia_exigua	Pichiales	1	Y		N	7	42472711
+Pichia_fermentans	Pichia_fermentans	Pichia_fermentans	Pichiales	1	Y		N	4	41658336
+Pichia_gijzenarium	Pichia_gijzenarium	Pichia_gijzenarium	Pichiales	1	Y		N	5	92439749
+Pichia_heedii	Pichia_heedii	Pichia_heedii	Pichiales	1	Y		N	5	53081008
+Pichia_insulana	Pichia_insulana	Pichia_insulana	Pichiales	1	Y		N	6	46861246
+Pichia_kluyveri	Pichia_kluyveri	Pichia_kluyveri	Pichiales	1	Y		N	5	49463548
+Pichia_kudriavzevii_NRRL_Y-5396	Pichia_kudriavzevii_NRRL_Y-5396	Pichia_kudriavzevii	Pichiales	2	N		N	5	43261353
+Pichia_mandshurica	Pichia_mandshurica	Pichia_mandshurica	Pichiales	1	Y		N	6	57448820
+Pichia_membranifaciens	Pichia_membranifaciens	Pichia_membranifaciens	Pichiales	1	Y	DIAS	Y	5	36733881
+Pichia_nakasei	Pichia_nakasei	Pichia_nakasei	Pichiales	1	Y		N	4	73884674
+Pichia_nanzhaoensis	Pichia_nanzhaoensis	Pichia_nanzhaoensis	Pichiales	1	Y		N	6	77904292
+Pichia_norvegensis	Pichia_norvegensis	Pichia_norvegensis	Pichiales	1	Y		N	2	32583317
+Pichia_occidentalis	Pichia_occidentalis	Pichia_occidentalis	Pichiales	1	Y		N	5	58466069
+Pichia_paraexigua	Pichia_paraexigua	Pichia_paraexigua	Pichiales	1	Y		N	3	70267336
+Pichia_pseudocactophila	Pichia_pseudocactophila	Pichia_pseudocactophila	Pichiales	1	Y		N	4	57662401
+Pichia_scutulata	Pichia_scutulata	Pichia_scutulata	Pichiales	1	Y		N	4	85066672
+Pichia_sp._NRRL_Y-12824	Pichia_sp._NRRL_Y-12824	Pichia_sp._NRRL_Y-12824	Pichiales	1	Y		N	6	16633884
+Pichia_sp._NRRL_Y-12827	Pichia_sp._NRRL_Y-12827	Pichia_sp._NRRL_Y-12827	Pichiales	1	Y		N	6	82941240
+Pichia_sp._NRRL_Y-12830	Pichia_sp._NRRL_Y-12830	Pichia_sp._NRRL_Y-12830	Pichiales	1	Y		N	3	7413496
+Pichia_sp._NRRL_Y-27259	Pichia_sp._NRRL_Y-27259	Pichia_sp._NRRL_Y-27259	Pichiales	1	Y		N	6	69846952
+Pichia_sp._NRRL_Y-27261	Pichia_sp._NRRL_Y-27261	Pichia_sp._NRRL_Y-27261	Pichiales	1	Y		N	11	77317299
+Pichia_sp._NRRL_YB-4149	Pichia_sp._NRRL_YB-4149	Pichia_sp._NRRL_YB-4149	Pichiales	1	Y		N	7	99921691
+Pichia_sp._yHKS168	Pichia_sp._yHKS168	Pichia_sp._yHKS168	Pichiales	1	Y		N	6	4395868
+Pichia_sporocuriosa	Pichia_sporocuriosa	Pichia_sporocuriosa	Pichiales	1	Y		N	7	86911473
+Pichia_terricola	Pichia_terricola	Pichia_terricola	Pichiales	1	Y		N	5	29103869
+Priceomyces_carsonii	Priceomyces_carsonii	Priceomyces_carsonii	Serinetales	1	Y		N	4	21119877
+Priceomyces_castillae	Priceomyces_castillae	Priceomyces_castillae	Serinetales	1	Y		N	2	33628527
+Priceomyces_fermenticarens	Priceomyces_fermenticarens	Priceomyces_fermenticarens	Serinetales	1	Y	STRATIFIED	Y	3	34664954
+Priceomyces_haplophilus	Priceomyces_haplophilus	Priceomyces_haplophilus	Serinetales	1	Y		N	3	74606941
+Priceomyces_medius	Priceomyces_medius	Priceomyces_medius	Serinetales	1	Y		N	4	96984496
+Priceomyces_melissophilus	Priceomyces_melissophilus	Priceomyces_melissophilus	Serinetales	1	Y		N	2	99768552
+Saccharomyces_arboricola	Saccharomyces_arboricola	Saccharomyces_arboricola	Saccharomycetales	1	Y	DIAS+WGD	Y	7	45932340
+Saccharomyces_cerevisiae	Saccharomyces_cerevisiae	Saccharomyces_cerevisiae	Saccharomycetales	1	Y	ANCHOR+DIAS+WGD+YGOB	Y	8	96998875
+Saccharomyces_eubayanus	Saccharomyces_eubayanus	Saccharomyces_eubayanus	Saccharomycetales	1	Y	DIAS+WGD	Y	8	57568576
+Saccharomyces_jurei	Saccharomyces_jurei	Saccharomyces_jurei	Saccharomycetales	1	Y	WGD	Y	7	9365159
+Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii	Saccharomycetales	1	Y	DIAS+WGD+YGOB	Y	8	48122177
+Saccharomyces_mikatae	Saccharomyces_mikatae	Saccharomyces_mikatae	Saccharomycetales	1	Y	DIAS+WGD+YGOB	Y	8	61299227
+Saccharomyces_paradoxus	Saccharomyces_paradoxus	Saccharomyces_paradoxus	Saccharomycetales	1	Y	DIAS+WGD	Y	7	69279411
+Saccharomyces_uvarum	Saccharomyces_uvarum	Saccharomyces_uvarum	Saccharomycetales	1	Y	DIAS+WGD+YGOB	Y	7	77206905
+Saccharomycodes_ludwigii	Saccharomycodes_ludwigii	Saccharomycodes_ludwigii	Saccharomycodales	1	Y	STRATIFIED	Y	4	57623336
+Saccharomycopsis_amapae	Saccharomycopsis_amapae	Saccharomycopsis_amapae	Ascoideales	1	Y		N	6	80792539
+Saccharomycopsis_babjevae	Saccharomycopsis_babjevae	Saccharomycopsis_babjevae	Ascoideales	1	Y		N	4	69697443
+Saccharomycopsis_capsularis	Saccharomycopsis_capsularis	Saccharomycopsis_capsularis	Ascoideales	1	Y	STRATIFIED	Y	2	70059861
+Saccharomycopsis_crataegensis	Saccharomycopsis_crataegensis	Saccharomycopsis_crataegensis	Ascoideales	1	Y	STRATIFIED	Y	7	50144604
+Saccharomycopsis_fermentans	Saccharomycopsis_fermentans	Saccharomycopsis_fermentans	Ascoideales	1	Y	STRATIFIED	Y	1	88462334
+Saccharomycopsis_fibuligera	Saccharomycopsis_fibuligera	Saccharomycopsis_fibuligera	Ascoideales	1	Y	STRATIFIED	Y	2	67962590
+Saccharomycopsis_fodiens	Saccharomycopsis_fodiens	Saccharomycopsis_fodiens	Ascoideales	1	Y	STRATIFIED	Y	2	87560107
+Saccharomycopsis_guyanensis	Saccharomycopsis_guyanensis	Saccharomycopsis_guyanensis	Ascoideales	1	Y		N	5	64309523
+Saccharomycopsis_javanensis	Saccharomycopsis_javanensis	Saccharomycopsis_javanensis	Ascoideales	1	Y		N	5	76207852
+Saccharomycopsis_lassenensis	Saccharomycopsis_lassenensis	Saccharomycopsis_lassenensis	Ascoideales	1	Y	STRATIFIED	Y	3	42930835
+Saccharomycopsis_malanga	Saccharomycopsis_malanga	Saccharomycopsis_malanga	Ascoideales	1	Y		N	2	84376326
+Saccharomycopsis_microspora	Saccharomycopsis_microspora	Saccharomycopsis_microspora	Ascoideales	1	Y		N	3	52895244
+Saccharomycopsis_olivae	Saccharomycopsis_olivae	Saccharomycopsis_olivae	Ascoideales	1	Y	STRATIFIED	Y	3	86965543
+Saccharomycopsis_oosterbeekiorum	Saccharomycopsis_oosterbeekiorum	Saccharomycopsis_oosterbeekiorum	Ascoideales	1	Y		N	3	73467089
+Saccharomycopsis_schoenii	Saccharomycopsis_schoenii	Saccharomycopsis_schoenii	Ascoideales	1	Y		N	2	42032360
+Saccharomycopsis_selenospora	Saccharomycopsis_selenospora	Saccharomycopsis_selenospora	Ascoideales	1	Y		N	5	83128656
+Saccharomycopsis_sp._NRRL_Y-5750	Saccharomycopsis_sp._NRRL_Y-5750	Saccharomycopsis_sp._NRRL_Y-5750	Ascoideales	1	Y		N	6	23597076
+Saccharomycopsis_sp._yHQL182	Saccharomycopsis_sp._yHQL182	Saccharomycopsis_sp._yHQL182	Ascoideales	1	Y	STRATIFIED	Y	6	94607718
+Saprochaete_fungicola	Saprochaete_fungicola	Saprochaete_fungicola	Dipodascales	1	Y	STRATIFIED	Y	3	30940031
+Saprochaete_ingens	Saprochaete_ingens	Saprochaete_ingens	Dipodascales	1	Y		N	8	44495578
+Saprochaete_suaveolens	Saprochaete_suaveolens	Saprochaete_suaveolens	Dipodascales	1	Y		N	5	69007199
+Saturnispora_ahearnii	Saturnispora_ahearnii	Saturnispora_ahearnii	Pichiales	1	Y		N	5	64347709
+Saturnispora_besseyi	Saturnispora_besseyi	Saturnispora_besseyi	Pichiales	1	Y		N	4	42892002
+Saturnispora_bothae	Saturnispora_bothae	Saturnispora_bothae	Pichiales	1	Y		N	4	1985275
+Saturnispora_dispora	Saturnispora_dispora	Saturnispora_dispora	Pichiales	1	Y		N	7	61652621
+Saturnispora_diversa	Saturnispora_diversa	Saturnispora_diversa	Pichiales	1	Y		N	7	55269202
+Saturnispora_galanensis	Saturnispora_galanensis	Saturnispora_galanensis	Pichiales	1	Y		N	5	95101945
+Saturnispora_gosingensis	Saturnispora_gosingensis	Saturnispora_gosingensis	Pichiales	1	Y		N	8	68077222
+Saturnispora_hagleri	Saturnispora_hagleri	Saturnispora_hagleri	Pichiales	1	Y		N	8	78260188
+Saturnispora_halmiae	Saturnispora_halmiae	Saturnispora_halmiae	Pichiales	1	Y		N	4	88502290
+Saturnispora_kantuleensis	Saturnispora_kantuleensis	Saturnispora_kantuleensis	Pichiales	1	Y		N	6	5788541
+Saturnispora_mendoncae	Saturnispora_mendoncae	Saturnispora_mendoncae	Pichiales	1	Y		N	4	38455180
+Saturnispora_quitensis	Saturnispora_quitensis	Saturnispora_quitensis	Pichiales	1	Y		N	6	88634057
+Saturnispora_saitoi	Saturnispora_saitoi	Saturnispora_saitoi	Pichiales	1	Y		N	8	8326675
+Saturnispora_sanitii	Saturnispora_sanitii	Saturnispora_sanitii	Pichiales	1	Y		N	4	54182880
+Saturnispora_sekii	Saturnispora_sekii	Saturnispora_sekii	Pichiales	1	Y		N	4	83483244
+Saturnispora_serradocipensis	Saturnispora_serradocipensis	Saturnispora_serradocipensis	Pichiales	1	Y		N	9	91032767
+Saturnispora_silvae	Saturnispora_silvae	Saturnispora_silvae	Pichiales	1	Y		N	4	63889968
+Saturnispora_zaruensis	Saturnispora_zaruensis	Saturnispora_zaruensis	Pichiales	1	Y		N	7	46355862
+Scheffersomyces_coipomensis	Scheffersomyces_coipomensis	Scheffersomyces_coipomensis	Serinetales	1	Y		N	4	82885842
+Scheffersomyces_cryptocercus	Scheffersomyces_cryptocercus	Scheffersomyces_cryptocercus	Serinetales	1	Y		N	4	32355772
+Scheffersomyces_ergatensis	Scheffersomyces_ergatensis	Scheffersomyces_ergatensis	Serinetales	1	Y	STRATIFIED	Y	6	94317138
+Scheffersomyces_gosingicus	Scheffersomyces_gosingicus	Scheffersomyces_gosingicus	Serinetales	1	Y		N	2	36695313
+Scheffersomyces_illinoinensis	Scheffersomyces_illinoinensis	Scheffersomyces_illinoinensis	Serinetales	1	Y		N	4	84377892
+Scheffersomyces_insectosa	Scheffersomyces_insectosa	Scheffersomyces_insectosa	Serinetales	1	Y		N	4	64462093
+Scheffersomyces_lignicola	Scheffersomyces_lignicola	Scheffersomyces_lignicola	Serinetales	1	Y		N	2	83144436
+Scheffersomyces_parashehatae	Scheffersomyces_parashehatae	Scheffersomyces_parashehatae	Serinetales	1	Y		N	6	13099215
+Scheffersomyces_quercinus	Scheffersomyces_quercinus	Scheffersomyces_quercinus	Serinetales	1	Y		N	3	76495515
+Scheffersomyces_segobiensis	Scheffersomyces_segobiensis	Scheffersomyces_segobiensis	Serinetales	1	Y		N	4	34762255
+Scheffersomyces_shehatae	Scheffersomyces_shehatae	Scheffersomyces_shehatae	Serinetales	1	Y		N	6	34951687
+Scheffersomyces_spartinae	Scheffersomyces_spartinae	Scheffersomyces_spartinae	Serinetales	1	Y	STRATIFIED	Y	2	2885238
+Scheffersomyces_stambukii	Scheffersomyces_stambukii	Scheffersomyces_stambukii	Serinetales	1	Y		N	4	20586886
+Scheffersomyces_stipitis_NRRL_Y-11545	Scheffersomyces_stipitis_NRRL_Y-11545	Scheffersomyces_stipitis	Serinetales	2	N		N	4	43165911
+Scheffersomyces_stipitis_NRRL_Y-7124	Scheffersomyces_stipitis_NRRL_Y-7124	Scheffersomyces_stipitis	Serinetales	2	Y	DIAS	Y	1	48131327
+Scheffersomyces_titanus	Scheffersomyces_titanus	Scheffersomyces_titanus	Serinetales	1	Y		N	5	42758561
+Scheffersomyces_virginianus	Scheffersomyces_virginianus	Scheffersomyces_virginianus	Serinetales	1	Y		N	4	65720598
+Scheffersomyces_xylosifermentans	Scheffersomyces_xylosifermentans	Scheffersomyces_xylosifermentans	Serinetales	1	Y		N	7	27257576
+Schwanniomyces_capriottii	Schwanniomyces_capriottii	Schwanniomyces_capriottii	Serinetales	1	Y		N	2	73309523
+Schwanniomyces_etchellsii	Schwanniomyces_etchellsii	Schwanniomyces_etchellsii	Serinetales	1	Y		N	3	17600878
+Schwanniomyces_occidentalis_var._occidentalis	Schwanniomyces_occidentalis_var._occidentalis	Schwanniomyces_occidentalis	Serinetales	2	N		N	2	31709587
+Schwanniomyces_occidentalis_var._persoonii	Schwanniomyces_occidentalis_var._persoonii	Schwanniomyces_occidentalis	Serinetales	2	Y	STRATIFIED	Y	3	48687556
+Schwanniomyces_polymorphus_var._africanus	Schwanniomyces_polymorphus_var._africanus	Schwanniomyces_polymorphus	Serinetales	2	N		N	5	96306586
+Schwanniomyces_polymorphus_var._polymorphus	Schwanniomyces_polymorphus_var._polymorphus	Schwanniomyces_polymorphus	Serinetales	2	Y	STRATIFIED	Y	2	78691419
+Schwanniomyces_pseudopolymorphus	Schwanniomyces_pseudopolymorphus	Schwanniomyces_pseudopolymorphus	Serinetales	1	Y		N	1	40761962
+Schwanniomyces_sp._NRRL_Y-7430	Schwanniomyces_sp._NRRL_Y-7430	Schwanniomyces_sp._NRRL_Y-7430	Serinetales	1	Y		N	2	61169612
+Schwanniomyces_sp._yHMH407	Schwanniomyces_sp._yHMH407	Schwanniomyces_sp._yHMH407	Serinetales	1	Y		N	3	18325488
+Schwanniomyces_vanrijiae_var._vanrijiae	Schwanniomyces_vanrijiae_var._vanrijiae	Schwanniomyces_vanrijiae	Serinetales	2	Y		N	1	59866334
+Schwanniomyces_vanrijiae_var._yarrowii	Schwanniomyces_vanrijiae_var._yarrowii	Schwanniomyces_vanrijiae	Serinetales	2	N		N	2	15169611
+Schwanniomyces_yamadae	Schwanniomyces_yamadae	Schwanniomyces_yamadae	Serinetales	1	Y		N	4	69953117
+Spathaspora_arborariae	Spathaspora_arborariae	Spathaspora_arborariae	Serinetales	1	Y	DIAS	Y	5	39600962
+Spathaspora_boniae	Spathaspora_boniae	Spathaspora_boniae	Serinetales	1	Y		N	2	55743171
+Spathaspora_girioi	Spathaspora_girioi	Spathaspora_girioi	Serinetales	1	Y		N	4	12354924
+Spathaspora_gorwiae	Spathaspora_gorwiae	Spathaspora_gorwiae	Serinetales	1	Y		N	6	70083649
+Spathaspora_hagerdaliae	Spathaspora_hagerdaliae	Spathaspora_hagerdaliae	Serinetales	1	Y		N	6	93585565
+Spathaspora_jeffriesii	Spathaspora_jeffriesii	Spathaspora_jeffriesii	Serinetales	1	Y		N	2	60609066
+Spathaspora_passalidarum	Spathaspora_passalidarum	Spathaspora_passalidarum	Serinetales	1	Y	DIAS	Y	6	27075270
+Spathaspora_xylofermentans	Spathaspora_xylofermentans	Spathaspora_xylofermentans	Serinetales	1	Y		N	6	74161610
+Spencermartinsiella_europaea	Spencermartinsiella_europaea	Spencermartinsiella_europaea	Dipodascales	1	Y	STRATIFIED	Y	2	71902053
+Spencermartinsiella_ligniputridi	Spencermartinsiella_ligniputridi	Spencermartinsiella_ligniputridi	Dipodascales	1	Y		N	2	29267140
+Sporopachydermia_cereana	Sporopachydermia_cereana	Sporopachydermia_cereana	Sporopachydermiales	1	Y	STRATIFIED	Y	4	53668851
+Sporopachydermia_lactativora	Sporopachydermia_lactativora	Sporopachydermia_lactativora	Sporopachydermiales	1	Y	STRATIFIED	Y	5	29326145
+Sporopachydermia_quercuum	Sporopachydermia_quercuum	Sporopachydermia_quercuum	Sporopachydermiales	1	Y	STRATIFIED	Y	4	89172658
+Starmera_amethionina	Starmera_amethionina	Starmera_amethionina	Phaffomycetales	1	Y		N	2	77891983
+Starmera_caribaea	Starmera_caribaea	Starmera_caribaea	Phaffomycetales	1	Y		N	3	97355299
+Starmera_dryadoides	Starmera_dryadoides	Starmera_dryadoides	Phaffomycetales	1	Y	STRATIFIED	Y	3	20173721
+Starmera_pachycereana	Starmera_pachycereana	Starmera_pachycereana	Phaffomycetales	1	Y		N	3	27652482
+Starmera_quercuum	Starmera_quercuum	Starmera_quercuum	Phaffomycetales	1	Y	STRATIFIED	Y	3	84405942
+Starmera_sp._NRRL_Y-17713	Starmera_sp._NRRL_Y-17713	Starmera_sp._NRRL_Y-17713	Phaffomycetales	1	Y	STRATIFIED	Y	4	88654120
+Starmera_stellimalicola	Starmera_stellimalicola	Starmera_stellimalicola	Phaffomycetales	1	Y		N	4	92824134
+Starmerella_apicola_NRRL_Y-2481	Starmerella_apicola_NRRL_Y-2481	Starmerella_apicola	Dipodascales	2	N		N	1	6844939
+Starmerella_apicola_NRRL_Y-50540	Starmerella_apicola_NRRL_Y-50540	Starmerella_apicola	Dipodascales	2	Y		N	0	19294336
+Starmerella_apis	Starmerella_apis	Starmerella_apis	Dipodascales	1	Y		N	1	16701009
+Starmerella_asiatica	Starmerella_asiatica	Starmerella_asiatica	Dipodascales	1	Y		N	1	43087598
+Starmerella_bacillaris	Starmerella_bacillaris	Starmerella_bacillaris	Dipodascales	1	Y		N	0	32296810
+Starmerella_bombi	Starmerella_bombi	Starmerella_bombi	Dipodascales	1	Y		N	1	77234867
+Starmerella_bombicola	Starmerella_bombicola	Starmerella_bombicola	Dipodascales	1	Y		N	1	41095397
+Starmerella_cellae	Starmerella_cellae	Starmerella_cellae	Dipodascales	1	Y		N	1	39955054
+Starmerella_davenportii	Starmerella_davenportii	Starmerella_davenportii	Dipodascales	1	Y		N	0	88316056
+Starmerella_etchellsii	Starmerella_etchellsii	Starmerella_etchellsii	Dipodascales	1	Y		N	2	29294589
+Starmerella_floricola	Starmerella_floricola	Starmerella_floricola	Dipodascales	1	Y		N	1	61732649
+Starmerella_floris	Starmerella_floris	Starmerella_floris	Dipodascales	1	Y		N	1	88392754
+Starmerella_geochares	Starmerella_geochares	Starmerella_geochares	Dipodascales	1	Y		N	1	40565905
+Starmerella_gropengiesseri	Starmerella_gropengiesseri	Starmerella_gropengiesseri	Dipodascales	1	Y		N	2	75564857
+Starmerella_khaoyaiensis	Starmerella_khaoyaiensis	Starmerella_khaoyaiensis	Dipodascales	1	Y		N	1	3651094
+Starmerella_kuoi	Starmerella_kuoi	Starmerella_kuoi	Dipodascales	1	Y		N	1	74517787
+Starmerella_lactis-condensi	Starmerella_lactis-condensi	Starmerella_lactis-condensi	Dipodascales	1	Y		N	1	75544930
+Starmerella_magnoliae	Starmerella_magnoliae	Starmerella_magnoliae	Dipodascales	1	Y		N	1	55245841
+Starmerella_potacharoeniae	Starmerella_potacharoeniae	Starmerella_potacharoeniae	Dipodascales	1	Y		N	1	40722363
+Starmerella_powellii	Starmerella_powellii	Starmerella_powellii	Dipodascales	1	Y		N	1	75047010
+Starmerella_ratchasimensis	Starmerella_ratchasimensis	Starmerella_ratchasimensis	Dipodascales	1	Y		N	2	11640515
+Starmerella_riodocensis	Starmerella_riodocensis	Starmerella_riodocensis	Dipodascales	1	Y		N	1	3839630
+Starmerella_roubikii	Starmerella_roubikii	Starmerella_roubikii	Dipodascales	1	Y		N	1	83230014
+Starmerella_scarabaei	Starmerella_scarabaei	Starmerella_scarabaei	Dipodascales	1	Y		N	1	86953061
+Starmerella_sirachaensis	Starmerella_sirachaensis	Starmerella_sirachaensis	Dipodascales	1	Y		N	1	27970020
+Starmerella_sorbosivorans	Starmerella_sorbosivorans	Starmerella_sorbosivorans	Dipodascales	1	Y		N	1	66254410
+Starmerella_stellata	Starmerella_stellata	Starmerella_stellata	Dipodascales	1	Y	STRATIFIED	Y	1	54908177
+Starmerella_stigmatis	Starmerella_stigmatis	Starmerella_stigmatis	Dipodascales	1	Y		N	1	70024223
+Starmerella_tilneyi	Starmerella_tilneyi	Starmerella_tilneyi	Dipodascales	1	Y		N	1	62130103
+Starmerella_vaccinii	Starmerella_vaccinii	Starmerella_vaccinii	Dipodascales	1	Y		N	1	12772731
+Starmerella_vitae	Starmerella_vitae	Starmerella_vitae	Dipodascales	1	Y		N	0	49456959
+Sugiyamaella_americana	Sugiyamaella_americana	Sugiyamaella_americana	Dipodascales	1	Y		N	3	94983006
+Sugiyamaella_boreocaroliniensis	Sugiyamaella_boreocaroliniensis	Sugiyamaella_boreocaroliniensis	Dipodascales	1	Y		N	1	12494101
+Sugiyamaella_castrensis	Sugiyamaella_castrensis	Sugiyamaella_castrensis	Dipodascales	1	Y		N	3	63323666
+Sugiyamaella_chiloensis	Sugiyamaella_chiloensis	Sugiyamaella_chiloensis	Dipodascales	1	Y	STRATIFIED	Y	2	77964841
+Sugiyamaella_floridensis	Sugiyamaella_floridensis	Sugiyamaella_floridensis	Dipodascales	1	Y	STRATIFIED	Y	1	97061969
+Sugiyamaella_grinbergsii	Sugiyamaella_grinbergsii	Sugiyamaella_grinbergsii	Dipodascales	1	Y		N	3	8249512
+Sugiyamaella_japonica	Sugiyamaella_japonica	Sugiyamaella_japonica	Dipodascales	1	Y		N	3	86607536
+Sugiyamaella_lignohabitans	Sugiyamaella_lignohabitans	Sugiyamaella_lignohabitans	Dipodascales	1	Y	STRATIFIED	Y	2	74886413
+Sugiyamaella_marilandica	Sugiyamaella_marilandica	Sugiyamaella_marilandica	Dipodascales	1	Y		N	3	2339448
+Sugiyamaella_marionensis	Sugiyamaella_marionensis	Sugiyamaella_marionensis	Dipodascales	1	Y		N	3	70883591
+Sugiyamaella_mastotermitis	Sugiyamaella_mastotermitis	Sugiyamaella_mastotermitis	Dipodascales	1	Y		N	4	21823644
+Sugiyamaella_neomexicana	Sugiyamaella_neomexicana	Sugiyamaella_neomexicana	Dipodascales	1	Y		N	3	4492525
+Sugiyamaella_novakii	Sugiyamaella_novakii	Sugiyamaella_novakii	Dipodascales	1	Y		N	3	11197453
+Sugiyamaella_paludigena	Sugiyamaella_paludigena	Sugiyamaella_paludigena	Dipodascales	1	Y		N	3	79159845
+Sugiyamaella_pinicola	Sugiyamaella_pinicola	Sugiyamaella_pinicola	Dipodascales	1	Y		N	3	39560774
+Sugiyamaella_qingdaonensis	Sugiyamaella_qingdaonensis	Sugiyamaella_qingdaonensis	Dipodascales	1	Y		N	3	5861879
+Sugiyamaella_smithiae	Sugiyamaella_smithiae	Sugiyamaella_smithiae	Dipodascales	1	Y		N	2	1414816
+Sugiyamaella_sp._yHKS617	Sugiyamaella_sp._yHKS617	Sugiyamaella_sp._yHKS617	Dipodascales	1	Y		N	3	61249843
+Sugiyamaella_valdiviana	Sugiyamaella_valdiviana	Sugiyamaella_valdiviana	Dipodascales	1	Y		N	1	10848361
+Sugiyamaella_xylanicola	Sugiyamaella_xylanicola	Sugiyamaella_xylanicola	Dipodascales	1	Y		N	3	19964634
+Suhomyces_ambrosiae	Suhomyces_ambrosiae	Suhomyces_ambrosiae	Serinetales	1	Y		N	2	74854849
+Suhomyces_anneliseae	Suhomyces_anneliseae	Suhomyces_anneliseae	Serinetales	1	Y		N	2	23139169
+Suhomyces_atakaporum	Suhomyces_atakaporum	Suhomyces_atakaporum	Serinetales	1	Y		N	2	44496717
+Suhomyces_bokatorum	Suhomyces_bokatorum	Suhomyces_bokatorum	Serinetales	1	Y		N	2	40412079
+Suhomyces_bolitotheri	Suhomyces_bolitotheri	Suhomyces_bolitotheri	Serinetales	1	Y		N	1	81388606
+Suhomyces_bribrorum	Suhomyces_bribrorum	Suhomyces_bribrorum	Serinetales	1	Y		N	2	85446292
+Suhomyces_canberraensis	Suhomyces_canberraensis	Suhomyces_canberraensis	Serinetales	1	Y		N	2	81701473
+Suhomyces_chickasaworum	Suhomyces_chickasaworum	Suhomyces_chickasaworum	Serinetales	1	Y		N	3	15707905
+Suhomyces_choctaworum	Suhomyces_choctaworum	Suhomyces_choctaworum	Serinetales	1	Y		N	1	30734684
+Suhomyces_coccinellae	Suhomyces_coccinellae	Suhomyces_coccinellae	Serinetales	1	Y		N	2	90544239
+Suhomyces_emberorum	Suhomyces_emberorum	Suhomyces_emberorum	Serinetales	1	Y		N	2	37403495
+Suhomyces_faveliae	Suhomyces_faveliae	Suhomyces_faveliae	Serinetales	1	Y		N	1	50764356
+Suhomyces_guaymorum	Suhomyces_guaymorum	Suhomyces_guaymorum	Serinetales	1	Y		N	1	34671814
+Suhomyces_kilbournensis	Suhomyces_kilbournensis	Suhomyces_kilbournensis	Serinetales	1	Y		N	2	74948366
+Suhomyces_kunorum	Suhomyces_kunorum	Suhomyces_kunorum	Serinetales	1	Y		N	1	65035364
+Suhomyces_maxii	Suhomyces_maxii	Suhomyces_maxii	Serinetales	1	Y		N	2	25071764
+Suhomyces_panamericanus	Suhomyces_panamericanus	Suhomyces_panamericanus	Serinetales	1	Y		N	2	408849
+Suhomyces_prunicola	Suhomyces_prunicola	Suhomyces_prunicola	Serinetales	1	Y		N	1	20102605
+Suhomyces_pyralidae	Suhomyces_pyralidae	Suhomyces_pyralidae	Serinetales	1	Y		N	1	43933239
+Suhomyces_sp._yHKS641	Suhomyces_sp._yHKS641	Suhomyces_sp._yHKS641	Serinetales	1	Y		N	1	90421713
+Suhomyces_sp._yHMH580	Suhomyces_sp._yHMH580	Suhomyces_sp._yHMH580	Serinetales	1	Y		N	1	64591454
+Suhomyces_sp._yHQL142	Suhomyces_sp._yHQL142	Suhomyces_sp._yHQL142	Serinetales	1	Y		N	3	11337795
+Suhomyces_taliae	Suhomyces_taliae	Suhomyces_taliae	Serinetales	1	Y		N	2	43643071
+Suhomyces_tanzawaensis	Suhomyces_tanzawaensis	Suhomyces_tanzawaensis	Serinetales	1	Y		N	1	95261331
+Suhomyces_terraborum	Suhomyces_terraborum	Suhomyces_terraborum	Serinetales	1	Y		N	2	69519702
+Suhomyces_vadensis	Suhomyces_vadensis	Suhomyces_vadensis	Serinetales	1	Y		N	2	41585396
+Suhomyces_wounanorum	Suhomyces_wounanorum	Suhomyces_wounanorum	Serinetales	1	Y		N	3	15048570
+Suhomyces_xylopsoci	Suhomyces_xylopsoci	Suhomyces_xylopsoci	Serinetales	1	Y	STRATIFIED	Y	2	42180798
+Suhomyces_yuchorum	Suhomyces_yuchorum	Suhomyces_yuchorum	Serinetales	1	Y		N	1	26367754
+Tetrapisispora_arboricola	Tetrapisispora_arboricola	Tetrapisispora_arboricola	Saccharomycetales	1	Y	WGD	Y	5	65352457
+Tetrapisispora_blattae	Tetrapisispora_blattae	Tetrapisispora_blattae	Saccharomycetales	1	Y	DIAS+WGD+YGOB	Y	5	50465119
+Tetrapisispora_fleetii	Tetrapisispora_fleetii	Tetrapisispora_fleetii	Saccharomycetales	1	Y	WGD	Y	4	13693316
+Tetrapisispora_iriomotensis	Tetrapisispora_iriomotensis	Tetrapisispora_iriomotensis	Saccharomycetales	1	Y	WGD	Y	5	73611178
+Tetrapisispora_namnaoensis	Tetrapisispora_namnaoensis	Tetrapisispora_namnaoensis	Saccharomycetales	1	Y	WGD	Y	5	76842332
+Tetrapisispora_nanseiensis	Tetrapisispora_nanseiensis	Tetrapisispora_nanseiensis	Saccharomycetales	1	Y	WGD	Y	5	13296985
+Tetrapisispora_phaffii	Tetrapisispora_phaffii	Tetrapisispora_phaffii	Saccharomycetales	1	Y	DIAS+WGD+YGOB	Y	4	92809883
+Tetrapisispora_pingtungensis	Tetrapisispora_pingtungensis	Tetrapisispora_pingtungensis	Saccharomycetales	1	Y	WGD	Y	5	35941039
+Tetrapisispora_taiwanensis	Tetrapisispora_taiwanensis	Tetrapisispora_taiwanensis	Saccharomycetales	1	Y	WGD	Y	5	34104324
+Teunomyces_aglyptinius	Teunomyces_aglyptinius	Teunomyces_aglyptinius	Serinetales	1	Y		N	3	21752780
+Teunomyces_atbi	Teunomyces_atbi	Teunomyces_atbi	Serinetales	1	Y		N	3	67098786
+Teunomyces_barrocoloradensis	Teunomyces_barrocoloradensis	Teunomyces_barrocoloradensis	Serinetales	1	Y		N	3	85795522
+Teunomyces_cretensis	Teunomyces_cretensis	Teunomyces_cretensis	Serinetales	1	Y		N	3	27008173
+Teunomyces_funiuensis	Teunomyces_funiuensis	Teunomyces_funiuensis	Serinetales	1	Y		N	3	14462682
+Teunomyces_gatunensis	Teunomyces_gatunensis	Teunomyces_gatunensis	Serinetales	1	Y		N	3	49126596
+Teunomyces_kruisii	Teunomyces_kruisii	Teunomyces_kruisii	Serinetales	1	Y		N	3	3085646
+Teunomyces_lycoperdinae	Teunomyces_lycoperdinae	Teunomyces_lycoperdinae	Serinetales	1	Y		N	3	34298237
+Teunomyces_pallodes	Teunomyces_pallodes	Teunomyces_pallodes	Serinetales	1	Y		N	3	72959149
+Teunomyces_panamensis	Teunomyces_panamensis	Teunomyces_panamensis	Serinetales	1	Y	STRATIFIED	Y	3	62089896
+Teunomyces_stri	Teunomyces_stri	Teunomyces_stri	Serinetales	1	Y		N	3	30578419
+Teunomyces_tritomae	Teunomyces_tritomae	Teunomyces_tritomae	Serinetales	1	Y		N	3	89478641
+Tortispora_agaves	Tortispora_agaves	Tortispora_agaves	Trigonopsidales	1	Y	STRATIFIED	Y	1	80711586
+Tortispora_caseinolytica	Tortispora_caseinolytica	Tortispora_caseinolytica	Trigonopsidales	1	Y		N	1	47071254
+Tortispora_ganteri	Tortispora_ganteri	Tortispora_ganteri	Trigonopsidales	1	Y		N	1	3212389
+Tortispora_mauiana	Tortispora_mauiana	Tortispora_mauiana	Trigonopsidales	1	Y		N	1	81858945
+Tortispora_phaffii	Tortispora_phaffii	Tortispora_phaffii	Trigonopsidales	1	Y	STRATIFIED	Y	1	36189144
+Tortispora_sangerardonensis	Tortispora_sangerardonensis	Tortispora_sangerardonensis	Trigonopsidales	1	Y	STRATIFIED	Y	1	88774635
+Tortispora_starmeri	Tortispora_starmeri	Tortispora_starmeri	Trigonopsidales	1	Y		N	1	58765431
+Torulaspora_delbrueckii	Torulaspora_delbrueckii	Torulaspora_delbrueckii	Saccharomycetales	1	Y	DIAS+YGOB	Y	3	73553969
+Torulaspora_franciscae	Torulaspora_franciscae	Torulaspora_franciscae	Saccharomycetales	1	Y		N	2	11669077
+Torulaspora_globosa	Torulaspora_globosa	Torulaspora_globosa	Saccharomycetales	1	Y		N	4	82169006
+Torulaspora_maleeae	Torulaspora_maleeae	Torulaspora_maleeae	Saccharomycetales	1	Y	STRATIFIED	Y	4	32504486
+Torulaspora_microellipsoides	Torulaspora_microellipsoides	Torulaspora_microellipsoides	Saccharomycetales	1	Y	STRATIFIED	Y	4	15821140
+Torulaspora_pretoriensis	Torulaspora_pretoriensis	Torulaspora_pretoriensis	Saccharomycetales	1	Y		N	3	15396420
+Torulaspora_sp._yHMJ407	Torulaspora_sp._yHMJ407	Torulaspora_sp._yHMJ407	Saccharomycetales	1	Y		N	4	39728352
+Trichomonascus_apis	Trichomonascus_apis	Trichomonascus_apis	Dipodascales	1	Y		N	4	36190645
+Trichomonascus_ciferrii	Trichomonascus_ciferrii	Trichomonascus_ciferrii	Dipodascales	1	Y	STRATIFIED	Y	4	84928633
+Trichomonascus_petasosporus	Trichomonascus_petasosporus	Trichomonascus_petasosporus	Dipodascales	1	Y		N	5	23260857
+Trichomonascus_vanleenenianus	Trichomonascus_vanleenenianus	Trichomonascus_vanleenenianus	Dipodascales	1	Y		N	2	34793778
+Trigonopsis_californica	Trigonopsis_californica	Trigonopsis_californica	Trigonopsidales	1	Y	STRATIFIED	Y	1	71788330
+Trigonopsis_cantarellii	Trigonopsis_cantarellii	Trigonopsis_cantarellii	Trigonopsidales	1	Y		N	1	36062992
+Trigonopsis_variabilis	Trigonopsis_variabilis	Trigonopsis_variabilis	Trigonopsidales	1	Y	STRATIFIED	Y	2	7787496
+Trigonopsis_vinaria	Trigonopsis_vinaria	Trigonopsis_vinaria	Trigonopsidales	1	Y	STRATIFIED	Y	3	46607564
+Vanderwaltozyma_polyspora	Vanderwaltozyma_polyspora	Vanderwaltozyma_polyspora	Saccharomycetales	1	Y	DIAS+WGD+YGOB	Y	4	13102687
+Vanderwaltozyma_sp._yHKB289	Vanderwaltozyma_sp._yHKB289	Vanderwaltozyma_sp._yHKB289	Saccharomycetales	1	Y	WGD	Y	6	56113567
+Vanderwaltozyma_tropicalis	Vanderwaltozyma_tropicalis	Vanderwaltozyma_tropicalis	Saccharomycetales	1	Y	WGD	Y	5	53002204
+Vanderwaltozyma_verrucispora	Vanderwaltozyma_verrucispora	Vanderwaltozyma_verrucispora	Saccharomycetales	1	Y	WGD	Y	5	38903917
+Vanderwaltozyma_yarrowii	Vanderwaltozyma_yarrowii	Vanderwaltozyma_yarrowii	Saccharomycetales	1	Y	WGD	Y	4	31019972
+Wickerhamia_fluorescens	Wickerhamia_fluorescens	Wickerhamia_fluorescens	Serinetales	1	Y		N	2	65603726
+Wickerhamiella_allomyrinae	Wickerhamiella_allomyrinae	Wickerhamiella_allomyrinae	Dipodascales	1	Y		N	1	76727046
+Wickerhamiella_alocasiicola	Wickerhamiella_alocasiicola	Wickerhamiella_alocasiicola	Dipodascales	1	Y		N	2	99275677
+Wickerhamiella_australiensis	Wickerhamiella_australiensis	Wickerhamiella_australiensis	Dipodascales	1	Y		N	1	4823321
+Wickerhamiella_azymoides	Wickerhamiella_azymoides	Wickerhamiella_azymoides	Dipodascales	1	Y		N	1	5133593
+Wickerhamiella_bombiphila	Wickerhamiella_bombiphila	Wickerhamiella_bombiphila	Dipodascales	1	Y		N	1	47340931
+Wickerhamiella_brachini	Wickerhamiella_brachini	Wickerhamiella_brachini	Dipodascales	1	Y		N	2	38928282
+Wickerhamiella_cacticola	Wickerhamiella_cacticola	Wickerhamiella_cacticola	Dipodascales	1	Y		N	1	14897324
+Wickerhamiella_domercqiae	Wickerhamiella_domercqiae	Wickerhamiella_domercqiae	Dipodascales	1	Y		N	1	83614633
+Wickerhamiella_galacta	Wickerhamiella_galacta	Wickerhamiella_galacta	Dipodascales	1	Y		N	1	59780539
+Wickerhamiella_hasegawae	Wickerhamiella_hasegawae	Wickerhamiella_hasegawae	Dipodascales	1	Y		N	4	73951808
+Wickerhamiella_infanticola_DS02	Wickerhamiella_infanticola_DS02	Wickerhamiella_infanticola	Dipodascales	2	N		N	2	12829774
+Wickerhamiella_infanticola_NRRL_Y-17858	Wickerhamiella_infanticola_NRRL_Y-17858	Wickerhamiella_infanticola	Dipodascales	2	Y		N	2	46924828
+Wickerhamiella_kurtzmanii	Wickerhamiella_kurtzmanii	Wickerhamiella_kurtzmanii	Dipodascales	1	Y		N	1	84074267
+Wickerhamiella_lipophila	Wickerhamiella_lipophila	Wickerhamiella_lipophila	Dipodascales	1	Y	STRATIFIED	Y	1	15609163
+Wickerhamiella_musiphila	Wickerhamiella_musiphila	Wickerhamiella_musiphila	Dipodascales	1	Y	STRATIFIED	Y	0	68187268
+Wickerhamiella_nectarea	Wickerhamiella_nectarea	Wickerhamiella_nectarea	Dipodascales	1	Y		N	1	97939698
+Wickerhamiella_occidentalis	Wickerhamiella_occidentalis	Wickerhamiella_occidentalis	Dipodascales	1	Y		N	1	55682216
+Wickerhamiella_pararugosa	Wickerhamiella_pararugosa	Wickerhamiella_pararugosa	Dipodascales	1	Y		N	3	44945034
+Wickerhamiella_parazyma	Wickerhamiella_parazyma	Wickerhamiella_parazyma	Dipodascales	1	Y		N	1	79916367
+Wickerhamiella_qilinensis	Wickerhamiella_qilinensis	Wickerhamiella_qilinensis	Dipodascales	1	Y	STRATIFIED	Y	3	3451171
+Wickerhamiella_sergipiensis	Wickerhamiella_sergipiensis	Wickerhamiella_sergipiensis	Dipodascales	1	Y		N	2	89762745
+Wickerhamiella_shivajii	Wickerhamiella_shivajii	Wickerhamiella_shivajii	Dipodascales	1	Y		N	3	30009377
+Wickerhamiella_siamensis	Wickerhamiella_siamensis	Wickerhamiella_siamensis	Dipodascales	1	Y		N	3	17390799
+Wickerhamiella_slavikovae	Wickerhamiella_slavikovae	Wickerhamiella_slavikovae	Dipodascales	1	Y		N	2	50459683
+Wickerhamiella_sorbophila	Wickerhamiella_sorbophila	Wickerhamiella_sorbophila	Dipodascales	1	Y		N	2	59308949
+Wickerhamiella_vanderwaltii	Wickerhamiella_vanderwaltii	Wickerhamiella_vanderwaltii	Dipodascales	1	Y		N	1	70546327
+Wickerhamiella_versatilis_JCM_5958	Wickerhamiella_versatilis_JCM_5958	Wickerhamiella_versatilis	Dipodascales	2	N		N	6	37603985
+Wickerhamiella_versatilis_NRRL_Y-6652	Wickerhamiella_versatilis_NRRL_Y-6652	Wickerhamiella_versatilis	Dipodascales	2	Y	STRATIFIED	Y	3	62681689
+Wickerhamomyces_alni	Wickerhamomyces_alni	Wickerhamomyces_alni	Phaffomycetales	1	Y		N	4	51391052
+Wickerhamomyces_anomalus	Wickerhamomyces_anomalus	Wickerhamomyces_anomalus	Phaffomycetales	1	Y	DIAS	Y	8	32363735
+Wickerhamomyces_bisporus	Wickerhamomyces_bisporus	Wickerhamomyces_bisporus	Phaffomycetales	1	Y		N	4	74899090
+Wickerhamomyces_bovis	Wickerhamomyces_bovis	Wickerhamomyces_bovis	Phaffomycetales	1	Y		N	5	3554635
+Wickerhamomyces_canadensis	Wickerhamomyces_canadensis	Wickerhamomyces_canadensis	Phaffomycetales	1	Y	STRATIFIED	Y	7	11578455
+Wickerhamomyces_chambardii	Wickerhamomyces_chambardii	Wickerhamomyces_chambardii	Phaffomycetales	1	Y		N	8	57634802
+Wickerhamomyces_chaumierensis	Wickerhamomyces_chaumierensis	Wickerhamomyces_chaumierensis	Phaffomycetales	1	Y		N	6	11399438
+Wickerhamomyces_ciferrii	Wickerhamomyces_ciferrii	Wickerhamomyces_ciferrii	Phaffomycetales	1	Y		N	8	48024062
+Wickerhamomyces_hampshirensis	Wickerhamomyces_hampshirensis	Wickerhamomyces_hampshirensis	Phaffomycetales	1	Y		N	1	89607544
+Wickerhamomyces_kurtzmanii	Wickerhamomyces_kurtzmanii	Wickerhamomyces_kurtzmanii	Phaffomycetales	1	Y	STRATIFIED	Y	7	78378338
+Wickerhamomyces_lynferdii	Wickerhamomyces_lynferdii	Wickerhamomyces_lynferdii	Phaffomycetales	1	Y		N	7	21776485
+Wickerhamomyces_mucosus	Wickerhamomyces_mucosus	Wickerhamomyces_mucosus	Phaffomycetales	1	Y	STRATIFIED	Y	3	99172377
+Wickerhamomyces_onychis	Wickerhamomyces_onychis	Wickerhamomyces_onychis	Phaffomycetales	1	Y		N	3	24819722
+Wickerhamomyces_pijperi	Wickerhamomyces_pijperi	Wickerhamomyces_pijperi	Phaffomycetales	1	Y		N	5	7634266
+Wickerhamomyces_queroliae	Wickerhamomyces_queroliae	Wickerhamomyces_queroliae	Phaffomycetales	1	Y		N	7	8553928
+Wickerhamomyces_rabaulensis	Wickerhamomyces_rabaulensis	Wickerhamomyces_rabaulensis	Phaffomycetales	1	Y		N	5	95645642
+Wickerhamomyces_silvicola	Wickerhamomyces_silvicola	Wickerhamomyces_silvicola	Phaffomycetales	1	Y	STRATIFIED	Y	4	51746406
+Wickerhamomyces_sp._NRRL_Y-7574	Wickerhamomyces_sp._NRRL_Y-7574	Wickerhamomyces_sp._NRRL_Y-7574	Phaffomycetales	1	Y		N	4	69736306
+Wickerhamomyces_sp._NRRL_YB-3031	Wickerhamomyces_sp._NRRL_YB-3031	Wickerhamomyces_sp._NRRL_YB-3031	Phaffomycetales	1	Y		N	5	89016510
+Wickerhamomyces_sp._yHMH26	Wickerhamomyces_sp._yHMH26	Wickerhamomyces_sp._yHMH26	Phaffomycetales	1	Y		N	5	49222556
+Wickerhamomyces_sp._yHMH451	Wickerhamomyces_sp._yHMH451	Wickerhamomyces_sp._yHMH451	Phaffomycetales	1	Y		N	5	40701671
+Wickerhamomyces_sp._yHMH617	Wickerhamomyces_sp._yHMH617	Wickerhamomyces_sp._yHMH617	Phaffomycetales	1	Y		N	5	56519601
+Wickerhamomyces_sp._yHQL14	Wickerhamomyces_sp._yHQL14	Wickerhamomyces_sp._yHQL14	Phaffomycetales	1	Y		N	5	7755003
+Wickerhamomyces_strasburgensis	Wickerhamomyces_strasburgensis	Wickerhamomyces_strasburgensis	Phaffomycetales	1	Y	STRATIFIED	Y	1	37176361
+Wickerhamomyces_subpelliculosus	Wickerhamomyces_subpelliculosus	Wickerhamomyces_subpelliculosus	Phaffomycetales	1	Y	STRATIFIED	Y	4	43980479
+Wickerhamomyces_sydowiorum	Wickerhamomyces_sydowiorum	Wickerhamomyces_sydowiorum	Phaffomycetales	1	Y	STRATIFIED	Y	3	84907939
+Wickerhamomyces_tratensis	Wickerhamomyces_tratensis	Wickerhamomyces_tratensis	Phaffomycetales	1	Y		N	2	39695458
+Wickerhamomyces_xylosica	Wickerhamomyces_xylosica	Wickerhamomyces_xylosica	Phaffomycetales	1	Y	STRATIFIED	Y	6	51991160
+Yamadazyma_akitaensis	Yamadazyma_akitaensis	Yamadazyma_akitaensis	Serinetales	1	Y		N	4	28475105
+Yamadazyma_dushanensis	Yamadazyma_dushanensis	Yamadazyma_dushanensis	Serinetales	1	Y		N	2	55938274
+Yamadazyma_endophytica	Yamadazyma_endophytica	Yamadazyma_endophytica	Serinetales	1	Y		N	5	30748958
+Yamadazyma_epiphylla	Yamadazyma_epiphylla	Yamadazyma_epiphylla	Serinetales	1	Y		N	3	5673185
+Yamadazyma_insecticola	Yamadazyma_insecticola	Yamadazyma_insecticola	Serinetales	1	Y		N	3	25996941
+Yamadazyma_kitorensis	Yamadazyma_kitorensis	Yamadazyma_kitorensis	Serinetales	1	Y		N	4	89901532
+Yamadazyma_mexicana	Yamadazyma_mexicana	Yamadazyma_mexicana	Serinetales	1	Y		N	4	65287125
+Yamadazyma_nakazawae	Yamadazyma_nakazawae	Yamadazyma_nakazawae	Serinetales	1	Y		N	3	78085551
+Yamadazyma_olivae	Yamadazyma_olivae	Yamadazyma_olivae	Serinetales	1	Y		N	4	56433457
+Yamadazyma_paraphyllophila	Yamadazyma_paraphyllophila	Yamadazyma_paraphyllophila	Serinetales	1	Y		N	2	71200398
+Yamadazyma_philogaea	Yamadazyma_philogaea	Yamadazyma_philogaea	Serinetales	1	Y		N	3	47031980
+Yamadazyma_phyllophila	Yamadazyma_phyllophila	Yamadazyma_phyllophila	Serinetales	1	Y		N	2	24672525
+Yamadazyma_scolyti	Yamadazyma_scolyti	Yamadazyma_scolyti	Serinetales	1	Y		N	6	34696833
+Yamadazyma_siamensis	Yamadazyma_siamensis	Yamadazyma_siamensis	Serinetales	1	Y		N	3	95204158
+Yamadazyma_sp._yHKB15	Yamadazyma_sp._yHKB15	Yamadazyma_sp._yHKB15	Serinetales	1	Y		N	3	67544505
+Yamadazyma_sp._yHKS699	Yamadazyma_sp._yHKS699	Yamadazyma_sp._yHKS699	Serinetales	1	Y		N	2	75860975
+Yamadazyma_sp._yHMH393	Yamadazyma_sp._yHMH393	Yamadazyma_sp._yHMH393	Serinetales	1	Y		N	3	66134366
+Yamadazyma_sp._yHMH685	Yamadazyma_sp._yHMH685	Yamadazyma_sp._yHMH685	Serinetales	1	Y		N	4	4981745
+Yamadazyma_takamatsuzukensis	Yamadazyma_takamatsuzukensis	Yamadazyma_takamatsuzukensis	Serinetales	1	Y		N	3	15187874
+Yamadazyma_tenuis	Yamadazyma_tenuis	Yamadazyma_tenuis	Serinetales	1	Y		N	3	40856729
+Yamadazyma_triangularis	Yamadazyma_triangularis	Yamadazyma_triangularis	Serinetales	1	Y	STRATIFIED	Y	6	34029124
+Yamadazyma_tumulicola	Yamadazyma_tumulicola	Yamadazyma_tumulicola	Serinetales	1	Y		N	3	40818174
+Yamadazyma_ubonensis	Yamadazyma_ubonensis	Yamadazyma_ubonensis	Serinetales	1	Y		N	2	41274175
+Yarrowia_alimentaria	Yarrowia_alimentaria	Yarrowia_alimentaria	Dipodascales	1	Y		N	5	46358956
+Yarrowia_brassicae	Yarrowia_brassicae	Yarrowia_brassicae	Dipodascales	1	Y		N	6	59000274
+Yarrowia_bubula	Yarrowia_bubula	Yarrowia_bubula	Dipodascales	1	Y		N	5	48601140
+Yarrowia_deformans	Yarrowia_deformans	Yarrowia_deformans	Dipodascales	1	Y		N	6	10426677
+Yarrowia_galli	Yarrowia_galli	Yarrowia_galli	Dipodascales	1	Y		N	5	23200457
+Yarrowia_hollandica	Yarrowia_hollandica	Yarrowia_hollandica	Dipodascales	1	Y		N	4	39619465
+Yarrowia_keelungensis	Yarrowia_keelungensis	Yarrowia_keelungensis	Dipodascales	1	Y		N	5	29257079
+Yarrowia_lipolytica_CLIB_122	Yarrowia_lipolytica_CLIB_122	Yarrowia_lipolytica	Dipodascales	2	Y	ANCHOR	Y	5	53491415
+Yarrowia_lipolytica_NRRL_YB-423	Yarrowia_lipolytica_NRRL_YB-423	Yarrowia_lipolytica	Dipodascales	2	N		N	0	88194046
+Yarrowia_osloensis	Yarrowia_osloensis	Yarrowia_osloensis	Dipodascales	1	Y		N	5	98432987
+Yarrowia_phangngaensis	Yarrowia_phangngaensis	Yarrowia_phangngaensis	Dipodascales	1	Y		N	4	7792332
+Yarrowia_porcina	Yarrowia_porcina	Yarrowia_porcina	Dipodascales	1	Y		N	5	53038230
+Yarrowia_yakushimensis	Yarrowia_yakushimensis	Yarrowia_yakushimensis	Dipodascales	1	Y		N	5	21731740
+Yueomyces_sinensis	Yueomyces_sinensis	Yueomyces_sinensis	Saccharomycetales	1	Y	WGD	Y	4	48368210
+Zygoascus_biomembranicola	Zygoascus_biomembranicola	Zygoascus_biomembranicola	Dipodascales	1	Y		N	2	72053527
+Zygoascus_bituminiphia	Zygoascus_bituminiphia	Zygoascus_bituminiphia	Dipodascales	1	Y		N	2	61158695
+Zygoascus_flipseniorum	Zygoascus_flipseniorum	Zygoascus_flipseniorum	Dipodascales	1	Y		N	2	84749994
+Zygoascus_hellenicus	Zygoascus_hellenicus	Zygoascus_hellenicus	Dipodascales	1	Y		N	2	27416780
+Zygoascus_meyerae	Zygoascus_meyerae	Zygoascus_meyerae	Dipodascales	1	Y	STRATIFIED	Y	2	89221282
+Zygoascus_ofunaensis	Zygoascus_ofunaensis	Zygoascus_ofunaensis	Dipodascales	1	Y	STRATIFIED	Y	1	54370685
+Zygoascus_polysorbophila	Zygoascus_polysorbophila	Zygoascus_polysorbophila	Dipodascales	1	Y		N	3	37902378
+Zygoascus_tannicola	Zygoascus_tannicola	Zygoascus_tannicola	Dipodascales	1	Y		N	2	6368994
+Zygosaccharomyces_bailii	Zygosaccharomyces_bailii	Zygosaccharomyces_bailii	Saccharomycetales	1	Y	DIAS	Y	6	45545600
+Zygosaccharomyces_bisporus	Zygosaccharomyces_bisporus	Zygosaccharomyces_bisporus	Saccharomycetales	1	Y		N	8	82902160
+Zygosaccharomyces_gambellarensis	Zygosaccharomyces_gambellarensis	Zygosaccharomyces_gambellarensis	Saccharomycetales	1	Y		N	6	29309905
+Zygosaccharomyces_kombuchaensis	Zygosaccharomyces_kombuchaensis	Zygosaccharomyces_kombuchaensis	Saccharomycetales	1	Y		N	6	30586194
+Zygosaccharomyces_lentus	Zygosaccharomyces_lentus	Zygosaccharomyces_lentus	Saccharomycetales	1	Y		N	5	21074325
+Zygosaccharomyces_mellis	Zygosaccharomyces_mellis	Zygosaccharomyces_mellis	Saccharomycetales	1	Y		N	7	68667650
+Zygosaccharomyces_parabailii	Zygosaccharomyces_parabailii	Zygosaccharomyces_parabailii	Saccharomycetales	1	Y		N	9	69751061
+Zygosaccharomyces_pseudobailii	Zygosaccharomyces_pseudobailii	Zygosaccharomyces_pseudobailii	Saccharomycetales	1	Y		N	7	99808141
+Zygosaccharomyces_pseudorouxii	Zygosaccharomyces_pseudorouxii	Zygosaccharomyces_pseudorouxii	Saccharomycetales	1	Y		N	7	61156558
+Zygosaccharomyces_rouxii	Zygosaccharomyces_rouxii	Zygosaccharomyces_rouxii	Saccharomycetales	1	Y	DIAS+YGOB	Y	6	48301224
+Zygosaccharomyces_sapae	Zygosaccharomyces_sapae	Zygosaccharomyces_sapae	Saccharomycetales	1	Y		N	7	52161779
+Zygosaccharomyces_siamensis	Zygosaccharomyces_siamensis	Zygosaccharomyces_siamensis	Saccharomycetales	1	Y		N	9	31800123
+Zygotorulaspora_chibaensis	Zygotorulaspora_chibaensis	Zygotorulaspora_chibaensis	Saccharomycetales	1	Y	STRATIFIED	Y	4	71089270
+Zygotorulaspora_danielsina	Zygotorulaspora_danielsina	Zygotorulaspora_danielsina	Saccharomycetales	1	Y	STRATIFIED	Y	4	32215610
+Zygotorulaspora_florentina	Zygotorulaspora_florentina	Zygotorulaspora_florentina	Saccharomycetales	1	Y		N	4	60887445
+Zygotorulaspora_mrakii	Zygotorulaspora_mrakii	Zygotorulaspora_mrakii	Saccharomycetales	1	Y		N	5	71120059
+Zygotorulaspora_sp._yHDO592	Zygotorulaspora_sp._yHDO592	Zygotorulaspora_sp._yHDO592	Saccharomycetales	1	Y	STRATIFIED	Y	3	46229641

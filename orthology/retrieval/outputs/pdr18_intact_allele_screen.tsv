@@ -1,0 +1,61 @@
+species_code	species_key	gene_id	length	tail_after_last_PF01061	PF14510_present	nearest_S288C_paralog_label	label_tie	candidate_intact_Pdr18	qc_flags
+Saccharomyces_arboricola	Saccharomyces_arboricola	g001650.m1	1534	113	Y	PDR15	N		
+Saccharomyces_arboricola	Saccharomyces_arboricola	g002120.m1	1420	120	Y	PDR18	N	Y	
+Saccharomyces_arboricola	Saccharomyces_arboricola	g002283.m1	1394	122	N	AUS1	N		
+Saccharomyces_arboricola	Saccharomyces_arboricola	g002560.m1	1564	109	Y	PDR10	N		
+Saccharomyces_arboricola	Saccharomyces_arboricola	g002820.m1	1511	143	Y	PDR12	N		
+Saccharomyces_arboricola	Saccharomyces_arboricola	g003819.m1	1496	118	Y	SNQ2	N		
+Saccharomyces_arboricola	Saccharomyces_arboricola	g005375.m1	1411	130	N	PDR11	N		
+Saccharomyces_cerevisiae	Saccharomyces_cerevisiae	g002018.m1	1333	78	N	PDR18	N	N	CTERM_TAIL_LT100(78)
+Saccharomyces_cerevisiae	Saccharomyces_cerevisiae	g002189.m1	1394	122	N	AUS1	N		
+Saccharomyces_cerevisiae	Saccharomyces_cerevisiae	g002312.m1	1511	110	Y	PDR5	N		
+Saccharomyces_cerevisiae	Saccharomyces_cerevisiae	g002467.m1	1564	108	Y	PDR10	N		
+Saccharomyces_cerevisiae	Saccharomyces_cerevisiae	g002739.m1	1511	143	Y	PDR12	N		
+Saccharomyces_cerevisiae	Saccharomyces_cerevisiae	g003736.m1	1501	119	Y	SNQ2	N		
+Saccharomyces_cerevisiae	Saccharomyces_cerevisiae	g004097.m1	1529	113	Y	PDR15	N		
+Saccharomyces_cerevisiae	Saccharomyces_cerevisiae	g005516.m1	1411	129	N	PDR11	N		
+Saccharomyces_eubayanus	Saccharomyces_eubayanus	g002174.m1	1511	110	Y	PDR5	N		
+Saccharomyces_eubayanus	Saccharomyces_eubayanus	g002329.m1	1563	108	Y	PDR10	N		X_CONTENT(0.0006)
+Saccharomyces_eubayanus	Saccharomyces_eubayanus	g002582.m1	1513	143	Y	PDR12	N		
+Saccharomyces_eubayanus	Saccharomyces_eubayanus	g003300.m1	1528	113	Y	PDR15	N		
+Saccharomyces_eubayanus	Saccharomyces_eubayanus	g003791.m1	1494	119	Y	SNQ2	N		
+Saccharomyces_eubayanus	Saccharomyces_eubayanus	g004423.m1	1426	122	Y	PDR18	N	Y	
+Saccharomyces_eubayanus	Saccharomyces_eubayanus	g005069.m1	1394	122	N	AUS1	N		
+Saccharomyces_eubayanus	Saccharomyces_eubayanus	g005410.m1	1394	130	N	PDR11	N		
+Saccharomyces_jurei	Saccharomyces_jurei	g000544.m1	1393	122	N	AUS1	N		
+Saccharomyces_jurei	Saccharomyces_jurei	g000668.m1	1511	110	Y	PDR5	N		
+Saccharomyces_jurei	Saccharomyces_jurei	g000823.m1	1565	108	Y	PDR10	N		
+Saccharomyces_jurei	Saccharomyces_jurei	g001097.m1	1511	143	Y	PDR12	N		
+Saccharomyces_jurei	Saccharomyces_jurei	g003315.m1	1501	119	Y	SNQ2	N		
+Saccharomyces_jurei	Saccharomyces_jurei	g003676.m1	1533	113	Y	PDR15	N		
+Saccharomyces_jurei	Saccharomyces_jurei	g004466.m1	1408	126	N	PDR11	N		
+Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii	g001955.m1	1424	123	Y	PDR18	N	Y	
+Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii	g002112.m1	1393	122	N	AUS1	N		
+Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii	g002236.m1	1512	109	Y	PDR5	N		
+Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii	g002392.m1	1564	108	Y	PDR10	N		
+Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii	g002648.m1	1511	142	Y	PDR12	N		
+Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii	g003614.m1	1501	119	Y	SNQ2	N		
+Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii	g003970.m1	1490	113	Y	PDR15	N		
+Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii	g005340.m1	1407	131	N	PDR11	N		
+Saccharomyces_mikatae	Saccharomyces_mikatae	g001952.m1	1421	119	Y	PDR18	N	Y	
+Saccharomyces_mikatae	Saccharomyces_mikatae	g002112.m1	1393	122	N	AUS1	N		
+Saccharomyces_mikatae	Saccharomyces_mikatae	g002235.m1	1510	110	Y	PDR5	N		
+Saccharomyces_mikatae	Saccharomyces_mikatae	g002391.m1	1566	108	Y	PDR10	N		
+Saccharomyces_mikatae	Saccharomyces_mikatae	g002591.m1	1511	143	Y	PDR12	N		
+Saccharomyces_mikatae	Saccharomyces_mikatae	g003562.m1	1501	119	Y	SNQ2	N		
+Saccharomyces_mikatae	Saccharomyces_mikatae	g003923.m1	1533	113	Y	PDR15	N		
+Saccharomyces_mikatae	Saccharomyces_mikatae	g005344.m1	1409	126	N	PDR11	N		
+Saccharomyces_paradoxus	Saccharomyces_paradoxus	g001967.m1	1421	119	Y	PDR18	N	Y	
+Saccharomyces_paradoxus	Saccharomyces_paradoxus	g002136.m1	1394	122	N	AUS1	N		
+Saccharomyces_paradoxus	Saccharomyces_paradoxus	g002244.m1	1511	110	Y	PDR5	N		
+Saccharomyces_paradoxus	Saccharomyces_paradoxus	g002400.m1	1565	108	Y	PDR10	N		
+Saccharomyces_paradoxus	Saccharomyces_paradoxus	g003659.m1	1501	119	Y	SNQ2	N		
+Saccharomyces_paradoxus	Saccharomyces_paradoxus	g004021.m1	1537	113	Y	PDR15	N		
+Saccharomyces_paradoxus	Saccharomyces_paradoxus	g005401.m1	1412	129	N	PDR11	N		
+Saccharomyces_uvarum	Saccharomyces_uvarum	g002033.m1	1394	122	N	AUS1	N		
+Saccharomyces_uvarum	Saccharomyces_uvarum	g002462.m1	1513	143	Y	PDR12	N		
+Saccharomyces_uvarum	Saccharomyces_uvarum	g003179.m1	1537	114	Y	PDR15	N		
+Saccharomyces_uvarum	Saccharomyces_uvarum	g004426.m1	1430	120	N	PDR18	N	Y	
+Saccharomyces_uvarum	Saccharomyces_uvarum	g005086.m1	1511	110	Y	PDR5	N		
+Saccharomyces_uvarum	Saccharomyces_uvarum	g005242.m1	1565	108	Y	PDR10	N		
+Saccharomyces_uvarum	Saccharomyces_uvarum	g005447.m1	1413	130	N	PDR11	N		

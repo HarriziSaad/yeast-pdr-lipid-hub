@@ -1,0 +1,39 @@
+{
+  "GATE-core": {
+    "label": "not supported",
+    "failed": [
+      "1_significance"
+    ],
+    "notes": [],
+    "q": 0.0806919308069193,
+    "power_flags": [
+      "UNDERPOWERED_FEW_COLUMNS",
+      "UNDERPOWERED_FEW_ALLELES"
+    ]
+  },
+  "LH-CONF": {
+    "label": "not supported",
+    "failed": [
+      "1_significance"
+    ],
+    "notes": [],
+    "q": 0.42565743425657426,
+    "power_flags": []
+  },
+  "NBS-MOTIF": {
+    "label": "robust",
+    "failed": [],
+    "notes": [],
+    "q": 0.00029997000299970003,
+    "power_flags": []
+  },
+  "H6_PRIMARY": {
+    "label": "not supported",
+    "failed": [
+      "1_significance"
+    ],
+    "notes": [],
+    "q": 0.805019498050195,
+    "power_flags": []
+  }
+}

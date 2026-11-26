@@ -1,0 +1,80 @@
+pillar	family	ygob_species	position	ygob_gene	group	y1000_genome	mapped_seq	pident	qcov	ygob_len	set_len	status
+Anc_3.220	SNQ2	Vanderwaltozyma polyspora	post1	Kpol_1037.47	post-WGD	Vanderwaltozyma_polyspora	Vanderwaltozyma_polyspora|g004697.m1	100.0	1.0	1507	1507	MAPPED
+Anc_3.220	SNQ2	Tetrapisispora phaffii	post1	TPHA0A04220	post-WGD	Tetrapisispora_phaffii	Tetrapisispora_phaffii|g004050.m1	100.0	1.0	1484	1484	MAPPED
+Anc_3.220	SNQ2	Tetrapisispora blattae	post1	TBLA0G02820	post-WGD	Tetrapisispora_blattae	Tetrapisispora_blattae|g000360.m1	100.0	1.0	1511	1511	MAPPED
+Anc_3.220	SNQ2	Naumovozyma dairenensis	post1	NDAI0G01840	post-WGD	Naumovozyma_dairenensis	Naumovozyma_dairenensis|g004829.m1	100.0	1.0	1502	1502	MAPPED
+Anc_3.220	SNQ2	Naumovozyma castellii	post1	NCAS0E01630	post-WGD	Naumovozyma_castellii	Naumovozyma_castellii|g005680.m1	100.0	1.0	1565	1565	MAPPED
+Anc_3.220	SNQ2	Kazachstania naganishii	post1	KNAG0K01350	post-WGD	Kazachstania_naganishii	Kazachstania_naganishii|g001059.m1	100.0	1.0	1501	1501	MAPPED
+Anc_3.220	SNQ2	Kazachstania africana	post1	KAFR0C00830	post-WGD	Kazachstania_africana						NO_HIT_IN_SET
+Anc_3.220	SNQ2	Candida glabrata (= Nakaseomyces glabratus)	post1	CAGL0I04862g	post-WGD	Nakaseomyces_glabratus	Nakaseomyces_glabratus|g004051.m1	100.0	1.0	1507	1507	MAPPED
+Anc_3.220	SNQ2	Saccharomyces kudriavzevii	post1	Skud_4.262	post-WGD	Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii|g003614.m1	100.0	1.0	1501	1501	MAPPED
+Anc_3.220	SNQ2	Saccharomyces mikatae	post1	Smik_4.244	post-WGD	Saccharomyces_mikatae	Saccharomyces_mikatae|g003562.m1	100.0	1.0	1501	1501	MAPPED
+Anc_3.220	SNQ2	Saccharomyces cerevisiae	post1	YDR011W	post-WGD	Saccharomyces_cerevisiae	Saccharomyces_cerevisiae|g003736.m1	100.0	1.0	1501	1501	MAPPED
+Anc_3.220	SNQ2	Zygosaccharomyces rouxii	pre	ZYRO0A04114g	pre-WGD	Zygosaccharomyces_rouxii	Zygosaccharomyces_rouxii|g002192.m1	100.0	1.0	1518	1518	MAPPED
+Anc_3.220	SNQ2	Torulaspora delbrueckii	pre	TDEL0D04040	pre-WGD	Torulaspora_delbrueckii	Torulaspora_delbrueckii|g002121.m1	100.0	1.0	1500	1500	MAPPED
+Anc_3.220	SNQ2	Kluyveromyces lactis	pre	KLLA0D03432g	pre-WGD	Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278	Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278|g002362.m1	98.9	1.0	1483	1483	MAPPED
+Anc_3.220	SNQ2	Eremothecium gossypii	pre	ABR125C	pre-WGD	Eremothecium_gossypii	Eremothecium_gossypii|g000711.m1	100.0	1.0	1488	1488	MAPPED
+Anc_3.220	SNQ2	Eremothecium cymbalariae	pre	Ecym_3604	pre-WGD	Eremothecium_cymbalariae	Eremothecium_cymbalariae|g001889.m1	100.0	1.0	1474	1474	MAPPED
+Anc_3.220	SNQ2	Lachancea kluyveri	pre	SAKL0C11616g	pre-WGD	Lachancea_kluyveri	Lachancea_kluyveri|g002980.m1	100.0	1.0	1484	1484	MAPPED
+Anc_3.220	SNQ2	Lachancea thermotolerans	pre	KLTH0A01914g	pre-WGD	Lachancea_thermotolerans	Lachancea_thermotolerans|g004139.m1	100.0	1.0	1499	1499	MAPPED
+Anc_3.220	SNQ2	Lachancea waltii	pre	Kwal_23.5161	pre-WGD	Lachancea_waltii	Lachancea_waltii|g002568.m1	100.0	1.0	1489	1489	MAPPED
+Anc_3.220	SNQ2	Tetrapisispora blattae	post2	TBLA0I01760	post-WGD	Tetrapisispora_blattae	Tetrapisispora_blattae|g002636.m1	100.0	1.0	1631	1631	MAPPED
+Anc_3.220	SNQ2	Tetrapisispora phaffii	post2	TPHA0M00640	post-WGD	Tetrapisispora_phaffii	Tetrapisispora_phaffii|g001720.m1	100.0	1.0	1490	1490	MAPPED
+Anc_3.220	SNQ2	Vanderwaltozyma polyspora	post2	Kpol_1036.28	post-WGD	Vanderwaltozyma_polyspora	Vanderwaltozyma_polyspora|g005725.m1	100.0	0.892	1486	1326	MAPPED
+Anc_7.123a	PDR11/AUS1	Tetrapisispora phaffii	post1	TPHA0L00810	post-WGD	Tetrapisispora_phaffii	Tetrapisispora_phaffii|g002608.m1	100.0	1.0	1373	1373	MAPPED
+Anc_7.123a	PDR11/AUS1	Naumovozyma dairenensis	post1	NDAI0H01280	post-WGD	Naumovozyma_dairenensis	Naumovozyma_dairenensis|g000494.m1	100.0	1.0	1392	1392	MAPPED
+Anc_7.123a	PDR11/AUS1	Naumovozyma castellii	post1	NCAS0F00790	post-WGD	Naumovozyma_castellii	Naumovozyma_castellii|g005020.m1	100.0	1.0	1400	1400	MAPPED
+Anc_7.123a	PDR11/AUS1	Kazachstania naganishii	post1	KNAG0G01040	post-WGD	Kazachstania_naganishii	Kazachstania_naganishii|g004356.m1	100.0	1.0	1401	1401	MAPPED
+Anc_7.123a	PDR11/AUS1	Kazachstania africana	post1	KAFR0K01230	post-WGD	Kazachstania_africana	Kazachstania_africana|g004501.m1	100.0	1.0	1380	1380	MAPPED
+Anc_7.123a	PDR11/AUS1	Candida glabrata (= Nakaseomyces glabratus)	post1	CAGL0F01419g	post-WGD	Nakaseomyces_glabratus	Nakaseomyces_glabratus|g005138.m1	100.0	1.0	1398	1398	MAPPED
+Anc_7.123a	PDR11/AUS1	Saccharomyces bayanus var. uvarum (= S. uvarum)	post1	Suva_15.188	post-WGD	Saccharomyces_uvarum	Saccharomyces_uvarum|g002033.m1	100.0	1.0	1394	1394	MAPPED
+Anc_7.123a	PDR11/AUS1	Saccharomyces kudriavzevii	post1	Skud_9.159	post-WGD	Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii|g005340.m1	100.0	1.0	1407	1407	MAPPED
+Anc_7.123a	PDR11/AUS1	Saccharomyces mikatae	post1	Smik_9.181	post-WGD	Saccharomyces_mikatae	Saccharomyces_mikatae|g005344.m1	100.0	1.0	1409	1409	MAPPED
+Anc_7.123a	PDR11/AUS1	Saccharomyces cerevisiae	post1	YIL013C	post-WGD	Saccharomyces_cerevisiae	Saccharomyces_cerevisiae|g005516.m1	100.0	1.0	1411	1411	MAPPED
+Anc_7.123a	PDR11/AUS1	Eremothecium gossypii	pre	AFR326W	pre-WGD	Eremothecium_gossypii	Eremothecium_gossypii|g003500.m1	99.1	1.0	1309	1309	MAPPED
+Anc_7.123a	PDR11/AUS1	Eremothecium cymbalariae	pre	Ecym_1222	pre-WGD	Eremothecium_cymbalariae						NO_HIT_IN_SET
+Anc_7.123a	PDR11/AUS1	Lachancea kluyveri	pre	SAKL0F04312g	pre-WGD	Lachancea_kluyveri	Lachancea_kluyveri|g001986.m1	100.0	1.0	1338	1338	MAPPED
+Anc_7.123a	PDR11/AUS1	Saccharomyces cerevisiae	post2	YOR011W	post-WGD	Saccharomyces_cerevisiae	Saccharomyces_cerevisiae|g002189.m1	100.0	1.0	1394	1394	MAPPED
+Anc_7.123a	PDR11/AUS1	Saccharomyces mikatae	post2	Smik_15.185	post-WGD	Saccharomyces_mikatae	Saccharomyces_mikatae|g002112.m1	100.0	1.0	1393	1393	MAPPED
+Anc_7.123a	PDR11/AUS1	Saccharomyces kudriavzevii	post2	Skud_15.174	post-WGD	Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii|g002112.m1	100.0	1.0	1393	1393	MAPPED
+Anc_7.123a	PDR11/AUS1	Saccharomyces bayanus var. uvarum (= S. uvarum)	post2	Suva_9.192	post-WGD	Saccharomyces_uvarum	Saccharomyces_uvarum|g005447.m1	100.0	1.0	1413	1413	MAPPED
+Anc_7.123a	PDR11/AUS1	Kazachstania africana	post2	KAFR0G03010	post-WGD	Kazachstania_africana	Kazachstania_africana|g002385.m1	100.0	1.0	1372	1372	MAPPED
+Anc_7.123a	PDR11/AUS1	Tetrapisispora blattae	post2	TBLA0A01150	post-WGD	Tetrapisispora_blattae	Tetrapisispora_blattae|g004721.m1	100.0	1.0	1387	1387	MAPPED
+Anc_5.500	PDR5/PDR15	Vanderwaltozyma polyspora	post1	Kpol_218.5	post-WGD	Vanderwaltozyma_polyspora	Vanderwaltozyma_polyspora|g004352.m1	100.0	1.0	150	1512	MAPPED
+Anc_5.500	PDR5/PDR15	Tetrapisispora blattae	post1	TBLA0A02440	post-WGD	Tetrapisispora_blattae	Tetrapisispora_blattae|g004943.m1	100.0	1.0	1621	1621	MAPPED
+Anc_5.500	PDR5/PDR15	Naumovozyma dairenensis	post1	NDAI0A04200	post-WGD	Naumovozyma_dairenensis	Naumovozyma_dairenensis|g004715.m1	100.0	0.982	1551	1551	MAPPED
+Anc_5.500	PDR5/PDR15	Naumovozyma castellii	post1	NCAS0A12060	post-WGD	Naumovozyma_castellii	Naumovozyma_castellii|g003578.m1	100.0	1.0	1543	1543	MAPPED
+Anc_5.500	PDR5/PDR15	Kazachstania naganishii	post1	KNAG0B03870	post-WGD	Kazachstania_naganishii	Kazachstania_naganishii|g002047.m1	100.0	1.0	1513	1513	MAPPED
+Anc_5.500	PDR5/PDR15	Kazachstania africana	post1	KAFR0C05220	post-WGD	Kazachstania_africana						NO_HIT_IN_SET
+Anc_5.500	PDR5/PDR15	Candida glabrata (= Nakaseomyces glabratus)	post1	CAGL0F02717g	post-WGD	Nakaseomyces_glabratus	Nakaseomyces_glabratus|g005085.m1	100.0	1.0	1542	1542	MAPPED
+Anc_5.500	PDR5/PDR15	Saccharomyces bayanus var. uvarum (= S. uvarum)	post1	Suva_2.583	post-WGD	Saccharomyces_uvarum	Saccharomyces_uvarum|g003179.m1	100.0	1.0	1537	1537	MAPPED
+Anc_5.500	PDR5/PDR15	Saccharomyces kudriavzevii	post1	Skud_4.680	post-WGD	Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii|g003970.m1	100.0	1.0	1445	1490	MAPPED
+Anc_5.500	PDR5/PDR15	Saccharomyces mikatae	post1	Smik_4.678	post-WGD	Saccharomyces_mikatae	Saccharomyces_mikatae|g003923.m1	100.0	1.0	1533	1533	MAPPED
+Anc_5.500	PDR5/PDR15	Saccharomyces cerevisiae	post1	YOR153W	post-WGD	Saccharomyces_cerevisiae	Saccharomyces_cerevisiae|g002312.m1	100.0	1.0	1511	1511	MAPPED
+Anc_5.500	PDR5/PDR15	Zygosaccharomyces rouxii	pre	ZYRO0D11880g	pre-WGD	Zygosaccharomyces_rouxii	Zygosaccharomyces_rouxii|g003780.m1	99.9	1.0	1498	1498	MAPPED
+Anc_5.500	PDR5/PDR15	Torulaspora delbrueckii	pre	TDEL0A03640	pre-WGD	Torulaspora_delbrueckii	Torulaspora_delbrueckii|g001309.m1	100.0	1.0	1509	1509	MAPPED
+Anc_5.500	PDR5/PDR15	Saccharomyces cerevisiae	post2	YDR406W	post-WGD	Saccharomyces_cerevisiae	Saccharomyces_cerevisiae|g004097.m1	100.0	1.0	1529	1529	MAPPED
+Anc_5.500	PDR5/PDR15	Saccharomyces mikatae	post2	Smik_15.333	post-WGD	Saccharomyces_mikatae	Saccharomyces_mikatae|g002235.m1	100.0	1.0	1510	1510	MAPPED
+Anc_5.500	PDR5/PDR15	Saccharomyces kudriavzevii	post2	Skud_15.317	post-WGD	Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii|g002236.m1	100.0	1.0	1512	1512	MAPPED
+Anc_5.500	PDR5/PDR15	Saccharomyces bayanus var. uvarum (= S. uvarum)	post2	Suva_8.204	post-WGD	Saccharomyces_uvarum	Saccharomyces_uvarum|g005086.m1	100.0	1.0	1511	1511	MAPPED
+Anc_5.500	PDR5/PDR15	Kazachstania africana	post2	KAFR0E03440	post-WGD	Kazachstania_africana		73.6	0.989	1549	1552	WEAK_HIT
+Anc_5.500	PDR5/PDR15	Kazachstania naganishii	post2	KNAG0C04500	post-WGD	Kazachstania_naganishii	Kazachstania_naganishii|g002763.m1	100.0	1.0	1555	1555	MAPPED
+Anc_5.500	PDR5/PDR15	Naumovozyma castellii	post2	NCAS0H02420	post-WGD	Naumovozyma_castellii	Naumovozyma_castellii|g002659.m1	100.0	1.0	1520	1520	MAPPED
+Anc_5.500	PDR5/PDR15	Naumovozyma dairenensis	post2	NDAI0C01220	post-WGD	Naumovozyma_dairenensis	Naumovozyma_dairenensis|g003821.m1	99.9	1.0	1509	1509	MAPPED
+Anc_5.500	PDR5/PDR15	Tetrapisispora blattae	post2	TBLA0D01780	post-WGD	Tetrapisispora_blattae						NO_HIT_IN_SET
+Anc_8.517	PDR12	Vanderwaltozyma polyspora	post1	Kpol_513.9	post-WGD	Vanderwaltozyma_polyspora	Vanderwaltozyma_polyspora|g000371.m1	100.0	1.0	1513	1513	MAPPED
+Anc_8.517	PDR12	Tetrapisispora phaffii	post1	TPHA0L01500	post-WGD	Tetrapisispora_phaffii	Tetrapisispora_phaffii|g002540.m1	100.0	1.0	1519	1519	MAPPED
+Anc_8.517	PDR12	Tetrapisispora blattae	post1	TBLA0H03470	post-WGD	Tetrapisispora_blattae	Tetrapisispora_blattae|g002314.m1	100.0	1.0	1516	1516	MAPPED
+Anc_8.517	PDR12	Naumovozyma dairenensis	post1	NDAI0E02950	post-WGD	Naumovozyma_dairenensis	Naumovozyma_dairenensis|g000077.m1	99.6	1.0	1512	1511	MAPPED
+Anc_8.517	PDR12	Naumovozyma castellii	post1	NCAS0C02250	post-WGD	Naumovozyma_castellii	Naumovozyma_castellii|g000192.m1	100.0	1.0	1508	1508	MAPPED
+Anc_8.517	PDR12	Kazachstania naganishii	post1	KNAG0A02100	post-WGD	Kazachstania_naganishii	Kazachstania_naganishii|g000095.m1	100.0	1.0	1505	1505	MAPPED
+Anc_8.517	PDR12	Kazachstania africana	post1	KAFR0A01180	post-WGD	Kazachstania_africana	Kazachstania_africana|g000978.m1	100.0	1.0	1508	1508	MAPPED
+Anc_8.517	PDR12	Candida glabrata (= Nakaseomyces glabratus)	post1	CAGL0M07293g	post-WGD	Nakaseomyces_glabratus	Nakaseomyces_glabratus|g000312.m1	100.0	1.0	1515	1515	MAPPED
+Anc_8.517	PDR12	Saccharomyces bayanus var. uvarum (= S. uvarum)	post1	Suva_16.256	post-WGD	Saccharomyces_uvarum	Saccharomyces_uvarum|g002462.m1	100.0	1.0	1513	1513	MAPPED
+Anc_8.517	PDR12	Saccharomyces kudriavzevii	post1	Skud_16.225	post-WGD	Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii|g002648.m1	100.0	1.0	1511	1511	MAPPED
+Anc_8.517	PDR12	Saccharomyces mikatae	post1	Smik_16.179	post-WGD	Saccharomyces_mikatae	Saccharomyces_mikatae|g002591.m1	100.0	1.0	1511	1511	MAPPED
+Anc_8.517	PDR12	Saccharomyces cerevisiae	post1	YPL058C	post-WGD	Saccharomyces_cerevisiae	Saccharomyces_cerevisiae|g002739.m1	100.0	1.0	1511	1511	MAPPED
+Anc_8.517	PDR12	Zygosaccharomyces rouxii	pre	ZYRO0F08888g	pre-WGD	Zygosaccharomyces_rouxii						NO_HIT_IN_SET
+Anc_8.517	PDR12	Torulaspora delbrueckii	pre	TDEL0B01210	pre-WGD	Torulaspora_delbrueckii	Torulaspora_delbrueckii|g000636.m1	100.0	1.0	1512	1512	MAPPED
+Anc_8.517	PDR12	Kluyveromyces lactis	pre	KLLA0B09702g	pre-WGD	Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278	Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278|g003243.m1	99.4	1.0	1518	1518	MAPPED
+Anc_8.517	PDR12	Lachancea kluyveri	pre	SAKL0H10670g	pre-WGD	Lachancea_kluyveri	Lachancea_kluyveri|g000923.m1	99.4	0.895	1509	1350	MAPPED

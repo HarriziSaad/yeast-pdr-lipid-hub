@@ -1,0 +1,17 @@
+threads: 10
+hmm_dir: /mnt/c/Users/MSI/Documents/Advisor/project/phase0_verify/data_access/downloads/pfam
+merged_dir: /home/pdr/work/data/y1000_merged
+extras_dir: /home/pdr/work/data/y1000_pep/extracted/y1000p_pep_files
+orthogroups: /home/pdr/work/data/y1000_orthofinder/extracted_from_prefix/y1000p_orthofinder/Orthogroups/Orthogroups.tsv
+cds_mode: tar
+cds_tar: /home/pdr/work/data/y1000_cds/y1000p_cds_files.tar.gz
+cds_merged: ""
+outgroup_dir: /home/pdr/work/data/outgroups
+calbicans_uniprot: /home/pdr/work/phase1a/ref/UP000000559_Candida_albicans_SC5314.fasta.gz
+names_table: /mnt/c/Users/MSI/Documents/Advisor/project/phase1_orthology/data_staging/metadata/ALL_NAMES_FILE.tsv
+itol: /mnt/c/Users/MSI/Documents/Advisor/project/phase1_orthology/data_staging/metadata/itol_color_strip.txt
+time_tree: /mnt/c/Users/MSI/Documents/Advisor/project/phase1_orthology/data_staging/metadata/1154yeasts_1403OGs_ml_timetree.tree
+dias_table: /mnt/c/Users/MSI/Documents/Advisor/project/phase1_orthology/phase1a/inputs/dias2025_tableA1_strains.tsv
+sampling_counts_args: "--retrieval qc/retrieval_table.tsv"
+deliver_dir: /mnt/c/Users/MSI/Documents/Advisor/project/phase1_orthology/phase1a/outputs
+seeds_fasta: /mnt/c/Users/MSI/Documents/Advisor/project/phase1_orthology/data_staging/seeds_scerevisiae/scerevisiae_S288C_PDR8_uniprot.fasta

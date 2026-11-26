@@ -1,0 +1,156 @@
+{
+ "seed": 20261118,
+ "count_source": "retrieved PASS sequences (CD-HIT 0.99 representatives, column cdhit99_rep_within_species) from retrieval_table.tsv",
+ "wgd_mode": "all",
+ "n_genomes": 1154,
+ "n_species_keys": 1112,
+ "n_species_with_more_than_one_genome": 40,
+ "wgd_clade_genomes": 78,
+ "wgd_clade_species": 77,
+ "wgd_genera": {
+  "Grigorovia": 4,
+  "Kazachstania": 38,
+  "Nakaseomyces": 9,
+  "Naumovozyma": 3,
+  "Saccharomyces": 8,
+  "Tetrapisispora": 9,
+  "Vanderwaltozyma": 5,
+  "Yueomyces": 1
+ },
+ "ygob_matched": "20/20",
+ "dias_species_in_table": 52,
+ "dias_matched": 50,
+ "dias_unmatched": [
+  "Saccharomyces bayanus (HYBRID)",
+  "Zygosaccharomyces bailii (HYBRID)"
+ ],
+ "mandatory_species": 118,
+ "mandatory_by_layer": {
+  "DIAS": 50,
+  "WGD": 77,
+  "YGOB": 20,
+  "ANCHOR": 11
+ },
+ "mandatory_sequences": 591,
+ "c_star": 2.041,
+ "quotas": {
+  "Alaninetales": 8,
+  "Alloscoideatales": 2,
+  "Ascoideales": 9,
+  "Dipodascales": 26,
+  "Lipomycetales": 11,
+  "Phaffomycetales": 21,
+  "Pichiales": 25,
+  "Saccharomycetales": 12,
+  "Saccharomycodales": 9,
+  "Serinetales": 40,
+  "Sporopachydermiales": 3,
+  "Trigonopsidales": 7
+ },
+ "selected_genomes": 291,
+ "selected_sequences": 1217.0,
+ "target": [
+  1000,
+  1250,
+  1500
+ ],
+ "in_target_band": true,
+ "by_order": {
+  "Alaninetales": {
+   "genomes": 17,
+   "species": 17,
+   "selected": 9,
+   "selected_mandatory": 1,
+   "selected_stratified": 8,
+   "sequences": 31.0
+  },
+  "Alloscoideatales": {
+   "genomes": 3,
+   "species": 2,
+   "selected": 2,
+   "selected_mandatory": 0,
+   "selected_stratified": 2,
+   "sequences": 17.0
+  },
+  "Ascoideales": {
+   "genomes": 21,
+   "species": 21,
+   "selected": 10,
+   "selected_mandatory": 1,
+   "selected_stratified": 9,
+   "sequences": 41.0
+  },
+  "Dipodascales": {
+   "genomes": 184,
+   "species": 177,
+   "selected": 28,
+   "selected_mandatory": 2,
+   "selected_stratified": 26,
+   "sequences": 71.0
+  },
+  "Lipomycetales": {
+   "genomes": 36,
+   "species": 35,
+   "selected": 12,
+   "selected_mandatory": 1,
+   "selected_stratified": 11,
+   "sequences": 57.0
+  },
+  "Phaffomycetales": {
+   "genomes": 113,
+   "species": 113,
+   "selected": 22,
+   "selected_mandatory": 1,
+   "selected_stratified": 21,
+   "sequences": 91.0
+  },
+  "Pichiales": {
+   "genomes": 173,
+   "species": 167,
+   "selected": 33,
+   "selected_mandatory": 8,
+   "selected_stratified": 25,
+   "sequences": 159.0
+  },
+  "Saccharomycetales": {
+   "genomes": 135,
+   "species": 129,
+   "selected": 102,
+   "selected_mandatory": 90,
+   "selected_stratified": 12,
+   "sequences": 524.0
+  },
+  "Saccharomycodales": {
+   "genomes": 24,
+   "species": 22,
+   "selected": 10,
+   "selected_mandatory": 1,
+   "selected_stratified": 9,
+   "sequences": 32.0
+  },
+  "Serinetales": {
+   "genomes": 430,
+   "species": 411,
+   "selected": 53,
+   "selected_mandatory": 13,
+   "selected_stratified": 40,
+   "sequences": 169.0
+  },
+  "Sporopachydermiales": {
+   "genomes": 3,
+   "species": 3,
+   "selected": 3,
+   "selected_mandatory": 0,
+   "selected_stratified": 3,
+   "sequences": 13.0
+  },
+  "Trigonopsidales": {
+   "genomes": 15,
+   "species": 15,
+   "selected": 7,
+   "selected_mandatory": 0,
+   "selected_stratified": 7,
+   "sequences": 12.0
+  }
+ }
+}

@@ -1,0 +1,30 @@
+name	evidence	TM_7P03	TM_7P04	TM_7P06	best_ref	d_NBD	g_cyt	g_ext	d_gate	s_NBD	s_cyt	s_gate	state	NBD	label_by_ref
+Pdr5	C-AlphaFold	0.922	0.928	0.969	7P06	32.192	24.003	25.103	12.743	0.546	0.751	0.585	outward-facing	NBD intermediate	{'7P04': 'outward-facing', '7P03': 'outward-facing', '7P06': 'outward-facing'}
+Snq2	C-AlphaFold	0.891	0.904	0.955	7P06	31.140	22.475	24.432	11.047	0.744	1.057	-0.622	occluded	NBDs closed	{'7P04': 'occluded', '7P03': 'occluded', '7P06': 'occluded'}
+Pdr10	C-AlphaFold	0.929	0.934	0.956	7P06	32.572	23.883	25.056	13.034	0.496	0.774	0.792	outward-facing	NBD intermediate	{'7P04': 'outward-facing', '7P03': 'outward-facing', '7P06': 'outward-facing'}
+Pdr11	C-AlphaFold	0.852	0.856	0.880	7P06	31.919	22.273	24.383	11.793	0.594	1.084	-0.091	occluded	NBD intermediate	{'7P04': 'occluded', '7P03': 'occluded', '7P06': 'occluded'}
+Pdr12	C-AlphaFold	0.895	0.907	0.956	7P06	31.202	22.811	24.457	11.121	0.721	0.981	-0.569	occluded	NBDs closed	{'7P04': 'occluded', '7P03': 'occluded', '7P06': 'occluded'}
+Pdr15	C-AlphaFold	0.915	0.924	0.976	7P06	31.598	24.042	25.070	12.971	0.653	0.744	0.747	outward-facing	NBD intermediate	{'7P04': 'outward-facing', '7P03': 'outward-facing', '7P06': 'outward-facing'}
+Pdr18	C-AlphaFold	0.845	0.859	0.916	7P06	30.990	21.837	24.118	10.895	0.748	0.998	-0.730	occluded	NBDs closed	{'7P04': 'occluded', '7P03': 'occluded', '7P06': 'occluded'}
+Aus1	C-AlphaFold	0.848	0.852	0.877	7P06	32.055	22.439	24.317	11.794	0.567	1.052	-0.090	occluded	NBD intermediate	{'7P04': 'occluded', '7P03': 'occluded', '7P06': 'occluded'}
+YOL075C	C-AlphaFold	0.790	0.801	0.821	7P06	30.792	23.957	24.008	12.146	0.747	0.760	0.160	occluded	NBDs closed	{'7P04': 'occluded', '7P03': 'occluded', '7P06': 'occluded'}
+Adp1	C-AlphaFold	0.432	0.432	0.413	7P04	nan	nan	31.614	nan	nan	nan	nan	NA (fewer than 10 aligned residues in a descriptor set; half-size or truncated model)	NA	{'7P04': 'NA (fewer than 10 aligned residues in a descriptor set; half-size or truncated model)', '7P03': 'NA (fewer than 10 aligned residues in a descriptor set; half-size or truncated model)', '7P06': 'NA (fewer than 10 aligned residues in a descriptor set; half-size or truncated model)'}
+CaCdr1_AF	C-AlphaFold	0.909	0.917	0.966	7P06	31.836	23.657	25.072	12.696	0.619	0.818	0.552	outward-facing	NBD intermediate	{'7P04': 'outward-facing', '7P03': 'outward-facing', '7P06': 'outward-facing'}
+9IUK	E-cryoEM	0.977	0.957	0.856	7P03	35.778	27.605	25.718	13.522	-0.108	0.059	1.139	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9IUL	E-cryoEM	0.976	0.957	0.855	7P03	35.788	27.633	25.723	13.434	-0.109	0.053	1.077	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9IUM	E-cryoEM	0.969	0.950	0.855	7P03	35.951	27.098	25.694	13.488	-0.138	0.156	1.115	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+22FR	E-cryoEM	0.908	0.894	0.821	7P03	35.027	26.734	25.121	13.198	-0.055	0.226	0.909	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9VT1	E-cryoEM	0.922	0.932	0.877	7P04	33.999	26.669	24.837	12.959	0.203	0.239	0.738	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9VTM	E-cryoEM	0.918	0.906	0.834	7P03	35.309	26.860	25.171	13.638	-0.022	0.202	1.222	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9VTO	E-cryoEM	0.855	0.869	0.977	7P06	29.808	22.269	24.705	12.511	0.966	1.085	0.420	occluded	NBDs closed	{'7P04': 'occluded', '7P03': 'occluded', '7P06': 'occluded'}
+9VSU	E-cryoEM	0.913	0.900	0.831	7P03	35.216	27.095	25.427	12.954	-0.005	0.157	0.735	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9VSV	E-cryoEM	0.923	0.909	0.835	7P03	35.387	26.915	25.175	13.278	-0.039	0.191	0.965	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9VSW	E-cryoEM	0.901	0.894	0.838	7P03	33.938	26.280	25.425	13.182	0.151	0.314	0.897	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9VSZ	E-cryoEM	0.913	0.898	0.831	7P03	35.454	26.920	25.406	13.314	-0.048	0.191	0.991	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9VT2	E-cryoEM	0.911	0.897	0.821	7P03	35.662	26.945	25.456	13.174	-0.082	0.186	0.892	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9VTN	E-cryoEM	0.882	0.870	0.801	7P03	34.532	26.801	25.320	13.400	-0.033	0.213	1.053	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9S2C	E-cryoEM	0.877	0.888	0.988	7P06	29.643	22.512	24.762	13.180	1.013	1.038	0.896	outward-facing	NBDs closed	{'7P04': 'outward-facing', '7P03': 'outward-facing', '7P06': 'outward-facing'}
+9S2H	E-cryoEM	0.980	0.983	0.888	7P04	34.359	27.407	25.184	12.468	0.130	0.097	0.389	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9S4S	E-cryoEM	0.964	0.963	0.882	7P03	33.983	27.417	25.244	11.961	0.198	0.095	0.029	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9S4T	E-cryoEM	0.960	0.929	0.832	7P03	36.238	28.478	26.166	12.530	-0.213	-0.109	0.433	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}
+9S4U	E-cryoEM	0.963	0.962	0.879	7P03	34.191	27.309	25.126	12.250	0.162	0.116	0.234	inward-facing	NBDs open	{'7P04': 'inward-facing', '7P03': 'inward-facing', '7P06': 'inward-facing'}

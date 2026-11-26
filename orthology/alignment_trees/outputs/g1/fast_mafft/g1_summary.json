@@ -1,0 +1,355 @@
+{
+ "tree": "trees/mafft/fast_mafft.treefile",
+ "ufb_present": false,
+ "thresholds": {
+  "sh": 80.0,
+  "ufb": 95.0,
+  "violators_max": 0.05
+ },
+ "rooting": {
+  "outgroup_n": 35,
+  "outgroup_side_size": 35,
+  "outgroup_in_side": 35,
+  "F1": 1.0,
+  "outgroup_monophyletic": true,
+  "root_edge_sh": 100.0,
+  "root_edge_ufb": null,
+  "dikarya_on_outgroup_side": 0,
+  "dikarya_total": 30
+ },
+ "criterion1_T_all_five": true,
+ "criterion1_L_all_five": false,
+ "criterion2_pairs": false,
+ "criterion2_ygob": false,
+ "criterion2": false,
+ "n_clades_pass_1T": 6,
+ "n_clades_pass_1L": 2,
+ "criterion3_T": true,
+ "criterion3_L": false,
+ "G1_PASS_T": false,
+ "G1_PASS_L": false,
+ "pairs": {
+  "PDR5/PDR15": {
+   "sister": true,
+   "sh": 16.4,
+   "ufb": null,
+   "support_ok": false,
+   "n_seq": 123,
+   "n_species": 73,
+   "orders_non_sacch": [],
+   "nested_in_Saccharomycetales": true,
+   "n_wgd": 123,
+   "n_nonwgd_ingroup": 0,
+   "other_s288c_in_pair": []
+  },
+  "PDR11/AUS1": {
+   "sister": true,
+   "sh": 50.0,
+   "ufb": null,
+   "support_ok": false,
+   "n_seq": 92,
+   "n_species": 60,
+   "orders_non_sacch": [],
+   "nested_in_Saccharomycetales": true,
+   "n_wgd": 92,
+   "n_nonwgd_ingroup": 0,
+   "other_s288c_in_pair": []
+  }
+ },
+ "ygob_counts": {
+  "N": 16,
+  "Y": 57,
+  "NA": 6
+ },
+ "ygob_failures": [
+  [
+   "Anc_3.220",
+   "Kpol_1037.47",
+   "Vanderwaltozyma_polyspora|g004697.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "TPHA0A04220",
+   "Tetrapisispora_phaffii|g004050.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "TBLA0G02820",
+   "Tetrapisispora_blattae|g000360.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "ZYRO0A04114g",
+   "Zygosaccharomyces_rouxii|g002192.m1",
+   "C_PDR18"
+  ],
+  [
+   "Anc_3.220",
+   "KLLA0D03432g",
+   "Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278|g002362.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "ABR125C",
+   "Eremothecium_gossypii|g000711.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "Ecym_3604",
+   "Eremothecium_cymbalariae|g001889.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "SAKL0C11616g",
+   "Lachancea_kluyveri|g002980.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "KLTH0A01914g",
+   "Lachancea_thermotolerans|g004139.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "Kwal_23.5161",
+   "Lachancea_waltii|g002568.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "TBLA0I01760",
+   "Tetrapisispora_blattae|g002636.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "TPHA0M00640",
+   "Tetrapisispora_phaffii|g001720.m1",
+   "none"
+  ],
+  [
+   "Anc_3.220",
+   "Kpol_1036.28",
+   "Vanderwaltozyma_polyspora|g005725.m1",
+   "none"
+  ],
+  [
+   "Anc_7.123a",
+   "TPHA0L00810",
+   "Tetrapisispora_phaffii|g002608.m1",
+   "none"
+  ],
+  [
+   "Anc_7.123a",
+   "TBLA0A01150",
+   "Tetrapisispora_blattae|g004721.m1",
+   "none"
+  ],
+  [
+   "Anc_5.500",
+   "TBLA0A02440",
+   "Tetrapisispora_blattae|g004943.m1",
+   "C_PDR10"
+  ]
+ ],
+ "two_copy_failures": [],
+ "clades": {
+  "PDR5": {
+   "n_seq": 63,
+   "n_species": 50,
+   "n_ingroup": 63,
+   "n_wgd_species": 50,
+   "sh": 98.3,
+   "ufb": null,
+   "support_ok": true,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 94,
+   "violators": 31,
+   "violator_rate": 0.32978723404255317,
+   "pass_1T": true,
+   "pass_1L": false
+  },
+  "PDR15": {
+   "n_seq": 60,
+   "n_species": 59,
+   "n_ingroup": 60,
+   "n_wgd_species": 59,
+   "sh": 99.5,
+   "ufb": null,
+   "support_ok": true,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 41,
+   "violators": 0,
+   "violator_rate": 0.0,
+   "pass_1T": true,
+   "pass_1L": true
+  },
+  "PDR10": {
+   "n_seq": 13,
+   "n_species": 13,
+   "n_ingroup": 13,
+   "n_wgd_species": 13,
+   "sh": 99.0,
+   "ufb": null,
+   "support_ok": true,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 9,
+   "violators": 1,
+   "violator_rate": 0.1111111111111111,
+   "pass_1T": true,
+   "pass_1L": false
+  },
+  "SNQ2": {
+   "n_seq": 85,
+   "n_species": 65,
+   "n_ingroup": 85,
+   "n_wgd_species": 58,
+   "sh": 98.0,
+   "ufb": null,
+   "support_ok": true,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 424,
+   "violators": 339,
+   "violator_rate": 0.7995283018867925,
+   "pass_1T": true,
+   "pass_1L": false
+  },
+  "PDR18": {
+   "n_seq": 11,
+   "n_species": 9,
+   "n_ingroup": 11,
+   "n_wgd_species": 7,
+   "sh": 79.9,
+   "ufb": null,
+   "support_ok": false,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 12,
+   "violators": 5,
+   "violator_rate": 0.4166666666666667,
+   "pass_1T": false,
+   "pass_1L": false
+  },
+  "PDR12": {
+   "n_seq": 211,
+   "n_species": 163,
+   "n_ingroup": 211,
+   "n_wgd_species": 71,
+   "sh": 65.2,
+   "ufb": null,
+   "support_ok": false,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 158,
+   "violators": 0,
+   "violator_rate": 0.0,
+   "pass_1T": false,
+   "pass_1L": false
+  },
+  "PDR11": {
+   "n_seq": 46,
+   "n_species": 45,
+   "n_ingroup": 46,
+   "n_wgd_species": 45,
+   "sh": 99.0,
+   "ufb": null,
+   "support_ok": true,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 59,
+   "violators": 13,
+   "violator_rate": 0.22033898305084745,
+   "pass_1T": true,
+   "pass_1L": false
+  },
+  "AUS1": {
+   "n_seq": 46,
+   "n_species": 46,
+   "n_ingroup": 46,
+   "n_wgd_species": 46,
+   "sh": 100.0,
+   "ufb": null,
+   "support_ok": true,
+   "scoring_group_3f": true,
+   "assigned_best_hit": 47,
+   "violators": 1,
+   "violator_rate": 0.02127659574468085,
+   "pass_1T": true,
+   "pass_1L": true
+  }
+ },
+ "s288c_consistency": {
+  "PDR5": [
+   "PDR15",
+   "Y"
+  ],
+  "PDR15": [
+   "PDR5",
+   "Y"
+  ],
+  "PDR10": [
+   "PDR5",
+   "Y"
+  ],
+  "SNQ2": [
+   "PDR18",
+   "Y"
+  ],
+  "PDR18": [
+   "SNQ2",
+   "Y"
+  ],
+  "PDR12": [
+   "SNQ2",
+   "Y"
+  ],
+  "PDR11": [
+   "AUS1",
+   "Y"
+  ],
+  "AUS1": [
+   "PDR11",
+   "Y"
+  ]
+ },
+ "ygob_split_by_pillar_type": {
+  "non-ohnolog pillars (SNQ2, PDR12)|N": 13,
+  "non-ohnolog pillars (SNQ2, PDR12)|Y": 23,
+  "non-ohnolog pillars (SNQ2, PDR12)|NA": 2,
+  "ohnolog pillars|N": 3,
+  "ohnolog pillars|Y": 34,
+  "ohnolog pillars|NA": 4
+ },
+ "pair_sibling_context": {
+  "PDR5/PDR15": {
+   "sibling_n_seq": [
+    7
+   ],
+   "sibling_has_s288c": [
+    []
+   ],
+   "sibling_orders": [
+    {
+     "Saccharomycetales": 7
+    }
+   ]
+  },
+  "PDR11/AUS1": {
+   "sibling_n_seq": [
+    14
+   ],
+   "sibling_has_s288c": [
+    []
+   ],
+   "sibling_orders": [
+    {
+     "Saccharomycetales": 14
+    }
+   ]
+  }
+ }
+}

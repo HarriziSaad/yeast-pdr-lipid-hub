@@ -1,0 +1,66 @@
+{
+ "ingroup_rule": "genome_dedup",
+ "ingroup_kept_other_strain_collapsed": 36,
+ "seed": 20261118,
+ "k_per_order": 3,
+ "n_total": 1318,
+ "by_role": {
+  "INGROUP": 1253,
+  "OUT_OG658": 35,
+  "OUT_DIKARYA": 30
+ },
+ "genomes_by_role": {
+  "INGROUP": 289,
+  "OUT_OG658": 35,
+  "OUT_DIKARYA": 5
+ },
+ "ingroup_by_order": {
+  "Alaninetales": 31,
+  "Alloscoideatales": 17,
+  "Ascoideales": 41,
+  "Dipodascales": 72,
+  "Lipomycetales": 57,
+  "Phaffomycetales": 91,
+  "Pichiales": 168,
+  "Saccharomycetales": 530,
+  "Saccharomycodales": 32,
+  "Serinetales": 189,
+  "Sporopachydermiales": 13,
+  "Trigonopsidales": 12
+ },
+ "out_og658_by_order": {
+  "Alaninetales": 3,
+  "Alloscoideatales": 2,
+  "Ascoideales": 3,
+  "Dipodascales": 3,
+  "Lipomycetales": 3,
+  "Phaffomycetales": 3,
+  "Pichiales": 3,
+  "Saccharomycetales": 4,
+  "Saccharomycodales": 3,
+  "Serinetales": 3,
+  "Sporopachydermiales": 2,
+  "Trigonopsidales": 3
+ },
+ "ingroup_sequences_by_layer": {
+  "STRATIFIED": 628,
+  "ANCHOR": 55,
+  "DIAS": 263,
+  "YGOB": 108,
+  "WGD": 433
+ },
+ "ingroup_species_by_layer": {
+  "STRATIFIED": 171,
+  "ANCHOR": 11,
+  "DIAS": 50,
+  "YGOB": 20,
+  "WGD": 77
+ },
+ "n_dikarya_by_organism": {
+  "Aspergillus_nidulans": 14,
+  "Cryptococcus_neoformans_H99": 6,
+  "Neurospora_crassa": 4,
+  "Schizosaccharomyces_pombe": 2,
+  "Ustilago_maydis": 4
+ }
+}

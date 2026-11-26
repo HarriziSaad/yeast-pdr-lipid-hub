@@ -1,0 +1,7 @@
+organism	proteome	proteins_searched	PASS	NEAR_MISS:HALF_SIZE_ABCG	NEAR_MISS:NO_PF06422	NEAR_MISS:PARTIAL_DOMAINS	OTHER_ABC_NBD_only
+Candida_albicans_SC5314	UP000000559	6028	5	2	1	1	18
+Aspergillus_nidulans	UP000000560	10557	14	2		1	33
+Ustilago_maydis	UP000000561	6805	4	4			31
+Neurospora_crassa	UP000001805	10255	4	3		1	30
+Schizosaccharomyces_pombe	UP000002485	5130	2				17
+Cryptococcus_neoformans_H99	UP000010091	7404	6	2	1	2	26

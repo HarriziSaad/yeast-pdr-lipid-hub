@@ -1,0 +1,174 @@
+import os
+
+SCRIPTS = os.path.join(workflow.basedir, "scripts")
+PY = "python -I"
+T = int(config.get("threads", 10))
+HMMS = config["hmm_dir"]
+CDS_MODE = config.get("cds_mode", "none")      # none | tar | tar_allow_truncated | merged
+
+rule all:
+    input:
+        "deliver.done"
+
+rule species_table:
+    input:  config["merged_dir"] + "/species_code_map.tsv"
+    output: "species_table.tsv"
+    log:    "logs/s01_species_table.log"
+    shell:  "{PY} {SCRIPTS}/s01_species_table.py --map {input} --out {output} 2> {log}"
+
+rule search_input:
+    input:
+        merged = config["merged_dir"] + "/y1000_all.pep.fasta",
+        st = "species_table.tsv"
+    output:
+        faa = "search.faa",
+        summary = "input_summary.tsv"
+    params: extras = config["extras_dir"]
+    log:    "logs/s02_prepare_input.log"
+    shell:  "{PY} {SCRIPTS}/s02_prepare_input.py --merged {input.merged} --extras-dir {params.extras} --species-table {input.st} --out {output.faa} --summary {output.summary} 2> {log}"
+
+rule hmmsearch:
+    input:  faa = "search.faa"
+    output: "domain_hits.tsv"
+    log:    "logs/s03_hmmsearch.log"
+    shell:  "{PY} {SCRIPTS}/s03_hmmsearch.py --fasta {input.faa} --hmm-dir {HMMS} --out {output} --threads {T} 2> {log}"
+
+rule classify:
+    input:  "domain_hits.tsv"
+    output: "protein_summary.tsv"
+    log:    "logs/s04_classify.log"
+    shell:  "{PY} {SCRIPTS}/s04_classify.py --hits {input} --out {output} 2> {log}"
+
+rule og_crosscheck:
+    input:
+        og = config["orthogroups"], st = "species_table.tsv", summ = "protein_summary.tsv", faa = "search.faa"
+    output:
+        "og/classification_full.tsv", "og/og_concordance.json", "og/og0000012_members.tsv", "og/og_of_interest.tsv"
+    log:    "logs/s05_og_crosscheck.log"
+    shell:  "{PY} {SCRIPTS}/s05_og_crosscheck.py --orthogroups {input.og} --species-table {input.st} --summary {input.summ} --fasta {input.faa} --outdir og 2> {log}"
+
+rule selected_ids:
+    input:  "og/classification_full.tsv"
+    output: "selected_ids.txt"
+    shell:  "cut -f1 {input} | tail -n +2 > {output}"
+
+rule extract_cds:
+    input:  ids = "selected_ids.txt", st = "species_table.tsv"
+    output: fna = "cds_selected.fna", log_ = "cds_extract_log.tsv"
+    params:
+        src = lambda w: ("--cds-tar " + config["cds_tar"] if CDS_MODE in ("tar", "tar_allow_truncated") else
+                         "--cds-merged " + config["cds_merged"] if CDS_MODE == "merged" else ""),
+        trunc = lambda w: "--allow-truncated" if CDS_MODE == "tar_allow_truncated" else ""
+    log:    "logs/s06_extract_cds.log"
+    run:
+        if CDS_MODE == "none":
+            shell("{PY} {SCRIPTS}/s06_extract_cds.py --ids {input.ids} --species-table {input.st} --cds-merged /dev/null --out {output.fna} --log {output.log_} 2> {log}")
+        else:
+            shell("{PY} {SCRIPTS}/s06_extract_cds.py --ids {input.ids} --species-table {input.st} {params.src} {params.trunc} --out {output.fna} --log {output.log_} 2> {log}")
+
+rule retranslate:
+    input:  cls = "og/classification_full.tsv", faa = "search.faa", cds = "cds_selected.fna", st = "species_table.tsv"
+    output: faa = "selected_final.faa", log_ = "retranslation_log.tsv"
+    log:    "logs/s07_retranslate.log"
+    shell:  "{PY} {SCRIPTS}/s07_retranslate.py --classification {input.cls} --pep {input.faa} --cds {input.cds} --species-table {input.st} --out-faa {output.faa} --out-log {output.log_} 2> {log}"
+
+rule hmmsearch_final:
+    input:  "selected_final.faa"
+    output: "domain_hits_final.tsv"
+    log:    "logs/s03b_hmmsearch_final.log"
+    shell:  "{PY} {SCRIPTS}/s03_hmmsearch.py --fasta {input} --hmm-dir {HMMS} --out {output} --threads {T} 2> {log}"
+
+rule classify_final:
+    input:  "domain_hits_final.tsv"
+    output: "protein_summary_final.tsv"
+    log:    "logs/s04b_classify_final.log"
+    shell:  "{PY} {SCRIPTS}/s04_classify.py --hits {input} --out {output} 2> {log}"
+
+rule qc_tables:
+    input:
+        cls = "og/classification_full.tsv", rl = "retranslation_log.tsv", faa = "selected_final.faa", fs = "protein_summary_final.tsv", st = "species_table.tsv"
+    output:
+        "qc/retrieval_table.tsv", "qc/near_misses.tsv", "qc/retrieved_pass_final.faa", "qc/retrieved_pass_nr99.faa", "qc/cdhit99_clusters.tsv",
+        "qc/strain_duplication.tsv", "qc/qc_summary_by_genome.tsv", "qc/qc_summary_by_order.tsv", "qc/qc_summary.json"
+    log:    "logs/s08_qc_tables.log"
+    shell:  "{PY} {SCRIPTS}/s08_qc_tables.py --classification {input.cls} --retrans-log {input.rl} --final-faa {input.faa} --final-summary {input.fs} --species-table {input.st} --outdir qc --threads {T} 2> {log}"
+
+rule outgroup_prepare:
+    output: faa = "outgroups/outgroups.faa", meta = "outgroups/outgroups_meta.tsv"
+    params: extra = config["calbicans_uniprot"], d = config["outgroup_dir"]
+    log:    "logs/s09_outgroup_prepare.log"
+    shell:  "{PY} {SCRIPTS}/s09_outgroups.py prepare --uniprot-dir {params.d} --extra-fasta {params.extra} --out-faa {output.faa} --out-meta {output.meta} 2> {log}"
+
+rule outgroup_search:
+    input:  "outgroups/outgroups.faa"
+    output: "outgroups/domain_hits.tsv"
+    log:    "logs/s03c_outgroup_hmmsearch.log"
+    shell:  "{PY} {SCRIPTS}/s03_hmmsearch.py --fasta {input} --hmm-dir {HMMS} --out {output} --threads {T} 2> {log}"
+
+rule outgroup_classify:
+    input:  "outgroups/domain_hits.tsv"
+    output: "outgroups/protein_summary.tsv"
+    log:    "logs/s04c_outgroup_classify.log"
+    shell:  "{PY} {SCRIPTS}/s04_classify.py --hits {input} --out {output} 2> {log}"
+
+rule outgroup_table:
+    input:  meta = "outgroups/outgroups_meta.tsv", summ = "outgroups/protein_summary.tsv", y = "qc/retrieval_table.tsv"
+    output: hits = "outgroups/outgroup_hits.tsv", summ = "outgroups/outgroup_summary.tsv"
+    log:    "logs/s10_outgroup_table.log"
+    shell:  "{PY} {SCRIPTS}/s09_outgroups.py table --meta {input.meta} --summary {input.summ} --out-hits {output.hits} --out-summary {output.summ} --y1000-table {input.y} 2> {log}"
+
+rule sampling_preview:
+    input:
+        rt = "qc/retrieval_table.tsv"
+    output: "sampling/sampling_plan.tsv", "sampling/sampling_summary.json", "sampling/dias_match.tsv", "sampling/ygob_match.tsv"
+    params:
+        tree = config["time_tree"], names = config["names_table"], itol = config["itol"], dias = config["dias_table"], counts = config["sampling_counts_args"],
+        extra = config.get("sampling_args", "")
+    log:    "logs/s11_sampling.log"
+    shell:  "{PY} {SCRIPTS}/s11_sampling_plan.py --names {params.names} --itol {params.itol} --tree {params.tree} --dias {params.dias} {params.counts} {params.extra} --outdir sampling 2> {log}"
+
+rule fragment_audit:
+    input:  rt = "qc/retrieval_table.tsv", mem = "og/og0000012_members.tsv", faa = "selected_final.faa"
+    output: "fragment_audit/audit_summary.json", "fragment_audit/og_member_paralog_assignment.tsv", "fragment_audit/audit_by_family.tsv", "fragment_audit/audit_by_paralog.tsv",
+            "fragment_audit/audit_by_order.tsv", "fragment_audit/audit_order_x_family.tsv", "fragment_audit/audit_pairs_family_summary.tsv", "fragment_audit/audit_pairs_genome_family.tsv",
+            "fragment_audit/audit_seed_coverage.tsv", "fragment_audit/audit_by_ctg_code.tsv"
+    params: seeds = config["seeds_fasta"]
+    log:    "logs/s13_fragment_audit.log"
+    shell:  "{PY} {SCRIPTS}/s13_fragment_audit.py --retrieval {input.rt} --members {input.mem} --final-faa {input.faa} --seeds {params.seeds} --outdir fragment_audit --threads {T} > fragment_audit/stdout.txt 2> {log}"
+
+rule audit_by_sampling:
+    input:  "fragment_audit/audit_summary.json", plan = "sampling/sampling_plan.tsv"
+    output: "fragment_audit/audit_sampling_layers.tsv"
+    log:    "logs/s14_audit_by_sampling.log"
+    shell:  "{PY} {SCRIPTS}/s14_audit_by_sampling.py --audit-dir fragment_audit --plan {input.plan} --out {output} > fragment_audit/stdout_sampling.txt 2> {log}"
+
+rule pdr18_screen:
+    input:  rt = "qc/retrieval_table.tsv", faa = "qc/retrieved_pass_final.faa"
+    output: "qc/pdr18_screen.tsv"
+    params: seeds = config["seeds_fasta"]
+    log:    "logs/s12_pdr18_screen.log"
+    shell:  "{PY} {SCRIPTS}/s12_pdr18_screen.py --retrieval {input.rt} --final-faa {input.faa} --seeds {params.seeds} --out {output} --threads {T} 2> {log}"
+
+rule versions:
+    output: "versions.txt"
+    shell:  "bash {SCRIPTS}/versions.sh > {output}"
+
+rule deliver:
+    input:
+        "qc/retrieval_table.tsv", "qc/near_misses.tsv", "outgroups/outgroup_hits.tsv", "outgroups/outgroup_summary.tsv", "og/og_concordance.json",
+        "sampling/sampling_plan.tsv", "sampling/dias_match.tsv", "sampling/ygob_match.tsv", "versions.txt", "qc/qc_summary.json", "qc/cdhit99_clusters.tsv", "qc/strain_duplication.tsv",
+        "qc/qc_summary_by_genome.tsv", "qc/qc_summary_by_order.tsv", "cds_extract_log.tsv", "retranslation_log.tsv",
+        "fragment_audit/audit_sampling_layers.tsv", "qc/pdr18_screen.tsv"
+    output: touch("deliver.done")
+    params: d = config["deliver_dir"]
+    shell:
+        "mkdir -p {params.d} {params.d}/qc_extra && "
+        "cp qc/retrieval_table.tsv {params.d}/retrieval_table.tsv && cp qc/near_misses.tsv {params.d}/near_misses.tsv && "
+        "cp outgroups/outgroup_hits.tsv {params.d}/outgroup_hits.tsv && cp outgroups/outgroup_summary.tsv {params.d}/outgroup_summary.tsv && "
+        "cp og/og_concordance.json og/og0000012_members.tsv {params.d}/qc_extra/ && "
+        "cp qc/qc_summary.json qc/cdhit99_clusters.tsv qc/strain_duplication.tsv qc/qc_summary_by_genome.tsv qc/qc_summary_by_order.tsv {params.d}/qc_extra/ && "
+        "cp cds_extract_log.tsv retranslation_log.tsv versions.txt {params.d}/qc_extra/ && "
+        "cp sampling/sampling_plan.tsv sampling/sampling_summary.json sampling/dias_match.tsv sampling/ygob_match.tsv {params.d}/qc_extra/ && "
+        "cp species_table.tsv {params.d}/qc_extra/ && cp logs/*.log {params.d}/qc_extra/ && "
+        "mkdir -p {params.d}/fragment_audit && cp fragment_audit/*.tsv fragment_audit/audit_summary.json {params.d}/fragment_audit/ && cp qc/pdr18_screen.tsv {params.d}/pdr18_intact_allele_screen.tsv && "
+        "sha256sum {params.d}/*.tsv > {params.d}/SHA256SUMS.txt"

@@ -1,0 +1,58 @@
+{
+  "python": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "start_utc": "2026-11-21T00:00:59Z",
+  "seed": 20261118,
+  "n_draws": 10000,
+  "n_clusters": 20,
+  "inputs": {
+    "mafft.aln.faa": "77e7a5fddd2365af9854bbaaa25f21ced1a906be97eff3871bd82c4e60d63d25",
+    "muscle.super5.afa": "841f438c9f754c9c1d87bc203e50c9d5b6162cef1b0fe4678db1a295ee142ab3",
+    "analysis_set_manifest.tsv": "735b5231a4b9cdde5372dd16f679d96f1664c07269897e8c6e7d166f920c4f85",
+    "structure_covariates_7P04.tsv": "5a32e3fd32c93aee4bd0093da69caea657a3fa2f0aa2345c4ede52d0c9644eba",
+    "site_classes_FROZEN.tsv": "e409356b6e46c1b0b10fdaa79a1f1b1c835cfbe038b939ee03ceeb8d853fb0a3",
+    "a11_truth_sets.tsv": "a2e1781c76792e5aa1454533334f46dc5288a8ec14d7052ae6a57080a77eae1c",
+    "a11_lib.py": "bb1cfcfd45b792ed0269ea1aaf8b8c30c6bbff110132c46c11a38df12f7346ee",
+    "1011DistanceMatrixBasedOnSNPs.ATK_renamed_ARC.tab.gz": "1e62bec9580a2797f3bd8d34813cc6010712072d8236f21b4107ee1a3a5814fb",
+    "scerevisiae_S288C_PDR8_uniprot.fasta": "6fb7c4c55fc2aeac0360b8296d2d7a54a5e880214f91816ce2f852c23c91939b",
+    "allORFs_pangenome.fasta.gz": "22417aa8c9f82d9e495e1cc663e646a06b69b9a542a3974d1b65f3c8ed224478"
+  },
+  "info": {
+    "strains": 1011,
+    "gene_records": {
+      "PDR5": 1011,
+      "SNQ2": 1003,
+      "PDR10": 1011,
+      "PDR11": 995,
+      "PDR12": 1011,
+      "PDR15": 1011,
+      "PDR18": 964,
+      "AUS1": 1011
+    },
+    "qc_flags": {
+      "PDR5": {},
+      "SNQ2": {},
+      "PDR10": {},
+      "PDR11": {},
+      "PDR12": {},
+      "PDR15": {},
+      "PDR18": {
+        "EXTENSION": 437
+      },
+      "AUS1": {
+        "EXTENSION": 5
+      }
+    },
+    "alignment_primary": {
+      "n_rows": 1253,
+      "n_cols": 5830,
+      "n_na_cols": 4384
+    },
+    "alignment_second": {
+      "n_rows": 1253,
+      "n_cols": 8754,
+      "n_na_cols": 7276
+    }
+  },
+  "end_utc": "2026-11-21T00:02:31Z"
+}

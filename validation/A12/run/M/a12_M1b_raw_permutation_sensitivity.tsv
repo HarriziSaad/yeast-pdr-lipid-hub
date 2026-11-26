@@ -1,0 +1,11 @@
+variant	region	hit_set	n_hit_residues	obs_diff_hit_fraction	p_upper	n_strata
+PRIMARY	R_HUB	U1 pooled	56	-0.223724	0.89741	6
+region	R_HUBGATE	U1 pooled	56	-0.173611	0.991001	9
+region	R_LHCONF	U1 pooled	56	-0.0166667	0.628537	6
+leave-one-paper-out	R_HUB	U1 minus egner1998	55	-0.223724	0.89741	6
+leave-one-paper-out	R_HUB	U1 minus niimi2012	55	-0.223724	0.89741	6
+leave-one-paper-out	R_HUB	U1 minus niimi2022	50	-0.13964	0.937306	6
+leave-one-paper-out	R_HUB	U1 minus sauna2008	55	-0.223724	0.89741	6
+leave-one-paper-out	R_HUB	U1 minus shekhar2016	55	-0.223724	0.89741	6
+leave-one-paper-out	R_HUB	U1 minus tanabe2019	18	-0.195195	0.916108	6
+leave-one-paper-out	R_HUB	U1 minus zhao2026	56	-0.223724	0.89741	6

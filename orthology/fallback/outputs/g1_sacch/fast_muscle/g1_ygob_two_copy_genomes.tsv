@@ -1,0 +1,13 @@
+pillar	genome	members	observed	ok
+Anc_7.123a	Kazachstania_africana	Kazachstania_africana|g004501.m1;Kazachstania_africana|g002385.m1	C_PDR11;C_AUS1	Y
+Anc_7.123a	Saccharomyces_uvarum	Saccharomyces_uvarum|g002033.m1;Saccharomyces_uvarum|g005447.m1	C_AUS1;C_PDR11	Y
+Anc_7.123a	Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii|g005340.m1;Saccharomyces_kudriavzevii|g002112.m1	C_PDR11;C_AUS1	Y
+Anc_7.123a	Saccharomyces_mikatae	Saccharomyces_mikatae|g005344.m1;Saccharomyces_mikatae|g002112.m1	C_PDR11;C_AUS1	Y
+Anc_7.123a	Saccharomyces_cerevisiae	Saccharomyces_cerevisiae|g005516.m1;Saccharomyces_cerevisiae|g002189.m1	C_PDR11;C_AUS1	Y
+Anc_5.500	Naumovozyma_dairenensis	Naumovozyma_dairenensis|g004715.m1;Naumovozyma_dairenensis|g003821.m1	C_PDR15;C_PDR5	Y
+Anc_5.500	Naumovozyma_castellii	Naumovozyma_castellii|g003578.m1;Naumovozyma_castellii|g002659.m1	C_PDR15;C_PDR5	Y
+Anc_5.500	Kazachstania_naganishii	Kazachstania_naganishii|g002047.m1;Kazachstania_naganishii|g002763.m1	C_PDR5;C_PDR15	Y
+Anc_5.500	Saccharomyces_uvarum	Saccharomyces_uvarum|g003179.m1;Saccharomyces_uvarum|g005086.m1	C_PDR15;C_PDR5	Y
+Anc_5.500	Saccharomyces_kudriavzevii	Saccharomyces_kudriavzevii|g003970.m1;Saccharomyces_kudriavzevii|g002236.m1	C_PDR15;C_PDR5	Y
+Anc_5.500	Saccharomyces_mikatae	Saccharomyces_mikatae|g003923.m1;Saccharomyces_mikatae|g002235.m1	C_PDR15;C_PDR5	Y
+Anc_5.500	Saccharomyces_cerevisiae	Saccharomyces_cerevisiae|g002312.m1;Saccharomyces_cerevisiae|g004097.m1	C_PDR5;C_PDR15	Y

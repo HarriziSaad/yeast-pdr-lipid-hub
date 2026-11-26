@@ -1,0 +1,64 @@
+{
+  "python": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "start_utc": "2026-11-20T12:13:22Z",
+  "seed": 20261118,
+  "n_draws": 10000,
+  "inputs": {
+    "mafft": {
+      "path": "C:\\Users\\MSI\\Documents\\Advisor\\project\\phase2_evolution\\H6\\inputs\\mafft.aln.faa",
+      "sha256": "77e7a5fddd2365af9854bbaaa25f21ced1a906be97eff3871bd82c4e60d63d25"
+    },
+    "muscle": {
+      "path": "C:\\Users\\MSI\\Documents\\Advisor\\project\\phase2_evolution\\H6\\inputs\\muscle.super5.afa",
+      "sha256": "841f438c9f754c9c1d87bc203e50c9d5b6162cef1b0fe4678db1a295ee142ab3"
+    },
+    "analysis_set_manifest.tsv": {
+      "path": "C:\\Users\\MSI\\Documents\\Advisor\\project\\phase1_orthology\\phase1b\\outputs\\set\\analysis_set_manifest.tsv",
+      "sha256": "735b5231a4b9cdde5372dd16f679d96f1664c07269897e8c6e7d166f920c4f85"
+    },
+    "subset_manifest.tsv": {
+      "path": "C:\\Users\\MSI\\Documents\\Advisor\\project\\phase1_orthology\\phase1c\\outputs\\subset_manifest.tsv",
+      "sha256": "eaf72750d4ae21052471bedb65b72b7fa4c3c6093e7b8ac1e81794e2fbcce245"
+    },
+    "structure_covariates_7P04.tsv": {
+      "path": "C:\\Users\\MSI\\Documents\\Advisor\\project\\preregistration\\outputs\\structure_covariates_7P04.tsv",
+      "sha256": "5a32e3fd32c93aee4bd0093da69caea657a3fa2f0aa2345c4ede52d0c9644eba"
+    },
+    "site_classes_FROZEN.tsv": {
+      "path": "C:\\Users\\MSI\\Documents\\Advisor\\project\\preregistration\\site_classes_FROZEN.tsv",
+      "sha256": "e409356b6e46c1b0b10fdaa79a1f1b1c835cfbe038b939ee03ceeb8d853fb0a3"
+    },
+    "a11_truth_sets.tsv": {
+      "path": "C:\\Users\\MSI\\Documents\\Advisor\\project\\phase2_evolution\\H6\\a11_truth_sets.tsv",
+      "sha256": "a2e1781c76792e5aa1454533334f46dc5288a8ec14d7052ae6a57080a77eae1c"
+    }
+  },
+  "alignment_info": {
+    "mafft_ingroup": {
+      "n_rows": 1253,
+      "n_columns": 5830,
+      "n_scorable_columns": 1446,
+      "ref_residues_scorable": 1422
+    },
+    "mafft_sacch": {
+      "n_rows": 530,
+      "n_columns": 5830,
+      "n_scorable_columns": 1443,
+      "ref_residues_scorable": 1422
+    },
+    "muscle_ingroup": {
+      "n_rows": 1253,
+      "n_columns": 8754,
+      "n_scorable_columns": 1478,
+      "ref_residues_scorable": 1449
+    },
+    "muscle_sacch": {
+      "n_rows": 530,
+      "n_columns": 8754,
+      "n_scorable_columns": 1482,
+      "ref_residues_scorable": 1461
+    }
+  },
+  "end_utc": "2026-11-20T12:13:52Z"
+}

@@ -1,0 +1,365 @@
+{
+ "rule": "INGROUP & order==Saccharomycetales  +  all OUT_OG658  (Dikarya and other orders dropped)",
+ "manifest_sha256": "735b5231a4b9cdde5372dd16f679d96f1664c07269897e8c6e7d166f920c4f85",
+ "n_total": 565,
+ "n_ingroup": 530,
+ "n_ingroup_genomes": 102,
+ "n_ingroup_species_keys": 102,
+ "n_outgroup_og658": 35,
+ "n_dropped": 753,
+ "dropped_by_role_order": {
+  "INGROUP|Alaninetales": 31,
+  "INGROUP|Alloscoideatales": 17,
+  "INGROUP|Ascoideales": 41,
+  "INGROUP|Dipodascales": 72,
+  "INGROUP|Lipomycetales": 57,
+  "INGROUP|Phaffomycetales": 91,
+  "INGROUP|Pichiales": 168,
+  "INGROUP|Saccharomycodales": 32,
+  "INGROUP|Serinetales": 189,
+  "INGROUP|Sporopachydermiales": 13,
+  "INGROUP|Trigonopsidales": 12,
+  "OUT_DIKARYA|-": 30
+ },
+ "ingroup_by_family_seq": {
+  "SNQ2-like": 141,
+  "PDR5-like": 184,
+  "PDR11/AUS1-like": 117,
+  "PDR12-like": 88
+ },
+ "ingroup_by_family_species": {
+  "PDR11/AUS1-like": 85,
+  "PDR12-like": 86,
+  "PDR5-like": 97,
+  "SNQ2-like": 99
+ },
+ "ingroup_by_besthit_seq": {
+  "AUS1": 50,
+  "PDR10": 8,
+  "PDR11": 67,
+  "PDR12": 88,
+  "PDR15": 42,
+  "PDR18": 7,
+  "PDR5": 134,
+  "SNQ2": 134
+ },
+ "ingroup_genera": {
+  "Ashbya": {
+   "seq": 4,
+   "genomes": 1
+  },
+  "Eremothecium": {
+   "seq": 11,
+   "genomes": 4
+  },
+  "Grigorovia": {
+   "seq": 22,
+   "genomes": 4
+  },
+  "Hagleromyces": {
+   "seq": 4,
+   "genomes": 1
+  },
+  "Kazachstania": {
+   "seq": 217,
+   "genomes": 38
+  },
+  "Kluyveromyces": {
+   "seq": 18,
+   "genomes": 4
+  },
+  "Lachancea": {
+   "seq": 26,
+   "genomes": 7
+  },
+  "Nakaseomyces": {
+   "seq": 41,
+   "genomes": 9
+  },
+  "Naumovozyma": {
+   "seq": 22,
+   "genomes": 3
+  },
+  "Saccharomyces": {
+   "seq": 60,
+   "genomes": 8
+  },
+  "Tetrapisispora": {
+   "seq": 43,
+   "genomes": 9
+  },
+  "Torulaspora": {
+   "seq": 11,
+   "genomes": 3
+  },
+  "Vanderwaltozyma": {
+   "seq": 24,
+   "genomes": 5
+  },
+  "Yueomyces": {
+   "seq": 4,
+   "genomes": 1
+  },
+  "Zygosaccharomyces": {
+   "seq": 12,
+   "genomes": 2
+  },
+  "Zygotorulaspora": {
+   "seq": 11,
+   "genomes": 3
+  }
+ },
+ "ingroup_by_layer_seq": {
+  "ANCHOR+DIAS+WGD+YGOB": 13,
+  "DIAS": 24,
+  "DIAS+WGD": 22,
+  "DIAS+WGD+YGOB": 62,
+  "DIAS+YGOB": 33,
+  "STRATIFIED": 40,
+  "WGD": 336
+ },
+ "wgd": {
+  "seq": 433,
+  "species": 77
+ },
+ "non_wgd": {
+  "seq": 97,
+  "species": 25
+ },
+ "wgd_by_family_seq": {
+  "PDR11/AUS1-like": 106,
+  "PDR5-like": 143,
+  "SNQ2-like": 112,
+  "PDR12-like": 72
+ },
+ "non_wgd_by_family_seq": {
+  "SNQ2-like": 29,
+  "PDR5-like": 41,
+  "PDR11/AUS1-like": 11,
+  "PDR12-like": 16
+ },
+ "wgd_by_besthit_seq": {
+  "AUS1": 47,
+  "PDR10": 8,
+  "PDR11": 59,
+  "PDR12": 72,
+  "PDR15": 41,
+  "PDR18": 7,
+  "PDR5": 94,
+  "SNQ2": 105
+ },
+ "non_wgd_by_besthit_seq": {
+  "AUS1": 3,
+  "PDR11": 8,
+  "PDR12": 16,
+  "PDR15": 1,
+  "PDR5": 40,
+  "SNQ2": 29
+ },
+ "seq_per_genome_summary": {
+  "min": 1,
+  "max": 9
+ },
+ "outgroup_by_order": {
+  "Alaninetales": 3,
+  "Alloscoideatales": 2,
+  "Ascoideales": 3,
+  "Dipodascales": 3,
+  "Lipomycetales": 3,
+  "Phaffomycetales": 3,
+  "Pichiales": 3,
+  "Saccharomycetales": 4,
+  "Saccharomycodales": 3,
+  "Serinetales": 3,
+  "Sporopachydermiales": 2,
+  "Trigonopsidales": 3
+ },
+ "outgroup_from_saccharomycetales_genomes": [
+  "Lachancea_mirantina|g001731.m1",
+  "Saccharomyces_cerevisiae|g002110.m1",
+  "Saccharomyces_eubayanus|g004990.m1",
+  "Tetrapisispora_nanseiensis|g005204.m1"
+ ],
+ "full_ingroup_by_family_seq": {
+  "SNQ2-like": 436,
+  "PDR12-like": 158,
+  "PDR5-like": 538,
+  "PDR11/AUS1-like": 121
+ },
+ "fraction_of_full_ingroup_kept": 0.423,
+ "fraction_by_family_kept": {
+  "SNQ2-like": 0.323,
+  "PDR12-like": 0.557,
+  "PDR5-like": 0.342,
+  "PDR11/AUS1-like": 0.967
+ },
+ "plan_selected_genomes_in_order": 102,
+ "plan_selected_without_sequence": [],
+ "dias_species_listed": 52,
+ "dias_status": {
+  "KEPT_IN_SUBSET": 28,
+  "NOT_MATCHED(hybrid, not matched)": 2,
+  "LOST_NOT_SACCHAROMYCETACEAE": 22
+ },
+ "dias_kept_species": [
+  "Saccharomyces cerevisiae",
+  "Saccharomyces paradoxus",
+  "Saccharomyces mikatae",
+  "Saccharomyces kudriavzevii",
+  "Saccharomyces arboricola",
+  "Saccharomyces eubayanus",
+  "Saccharomyces uvarum",
+  "Kazachstania africana",
+  "Kazachstania naganishii",
+  "Naumovozyma castellii",
+  "Naumovozyma dairenensis",
+  "Candida glabrata",
+  "Tetrapisispora blattae",
+  "Tetrapisispora phaffii",
+  "Vanderwaltozyma polyspora",
+  "Zygosaccharomyces bailii",
+  "Zygosaccharomyces rouxii",
+  "Torulaspora delbrueckii",
+  "Lachancea kluyvery",
+  "Lachancea thermotolerans",
+  "Lachancea waltii",
+  "Kluyveromyces aestuarii",
+  "Kluyveromyces lactis",
+  "Kluyveromyces marxianus var. marxianus",
+  "Kluyveromyces wickerhamii",
+  "Ashbya aceri",
+  "Eremothecium cymbalariae",
+  "Eremothecium gossypii"
+ ],
+ "dias_lost_species_orders": {
+  "Serinetales": 12,
+  "Alaninetales": 1,
+  "Pichiales": 7,
+  "Phaffomycetales": 1,
+  "Ascoideales": 1
+ },
+ "dias_kept_sequences": 154,
+ "dias_family_label_consistency": {},
+ "s288c_retained": {
+  "PDR5": true,
+  "PDR15": true,
+  "PDR10": true,
+  "SNQ2": true,
+  "PDR18": true,
+  "PDR12": true,
+  "PDR11": true,
+  "AUS1": true
+ },
+ "ygob_genomes_retained": 20,
+ "ygob_post_wgd_genomes": [
+  "Kazachstania_africana",
+  "Kazachstania_naganishii",
+  "Nakaseomyces_glabratus",
+  "Naumovozyma_castellii",
+  "Naumovozyma_dairenensis",
+  "Saccharomyces_cerevisiae",
+  "Saccharomyces_kudriavzevii",
+  "Saccharomyces_mikatae",
+  "Saccharomyces_uvarum",
+  "Tetrapisispora_blattae",
+  "Tetrapisispora_phaffii",
+  "Vanderwaltozyma_polyspora"
+ ],
+ "ygob_mapped_sequences": 73,
+ "descriptive_full_fast_tree_clade_members_in_subset(not_subset_trees)": {
+  "mafft": {
+   "PDR5": {
+    "ingroup_in_full_clade": 63,
+    "of_which_in_subset": 63,
+    "species_in_subset": 50
+   },
+   "PDR15": {
+    "ingroup_in_full_clade": 60,
+    "of_which_in_subset": 60,
+    "species_in_subset": 59
+   },
+   "PDR10": {
+    "ingroup_in_full_clade": 13,
+    "of_which_in_subset": 13,
+    "species_in_subset": 13
+   },
+   "SNQ2": {
+    "ingroup_in_full_clade": 85,
+    "of_which_in_subset": 85,
+    "species_in_subset": 65
+   },
+   "PDR18": {
+    "ingroup_in_full_clade": 11,
+    "of_which_in_subset": 11,
+    "species_in_subset": 9
+   },
+   "PDR12": {
+    "ingroup_in_full_clade": 211,
+    "of_which_in_subset": 88,
+    "species_in_subset": 86
+   },
+   "PDR11": {
+    "ingroup_in_full_clade": 46,
+    "of_which_in_subset": 46,
+    "species_in_subset": 45
+   },
+   "AUS1": {
+    "ingroup_in_full_clade": 46,
+    "of_which_in_subset": 46,
+    "species_in_subset": 46
+   },
+   "unassigned": {
+    "ingroup_in_full_clade": 718,
+    "of_which_in_subset": 118,
+    "species_in_subset": 47
+   }
+  },
+  "muscle": {
+   "PDR5": {
+    "ingroup_in_full_clade": 72,
+    "of_which_in_subset": 72,
+    "species_in_subset": 57
+   },
+   "PDR15": {
+    "ingroup_in_full_clade": 60,
+    "of_which_in_subset": 60,
+    "species_in_subset": 59
+   },
+   "PDR10": {
+    "ingroup_in_full_clade": 8,
+    "of_which_in_subset": 8,
+    "species_in_subset": 8
+   },
+   "SNQ2": {
+    "ingroup_in_full_clade": 63,
+    "of_which_in_subset": 63,
+    "species_in_subset": 55
+   },
+   "PDR18": {
+    "ingroup_in_full_clade": 14,
+    "of_which_in_subset": 14,
+    "species_in_subset": 10
+   },
+   "PDR12": {
+    "ingroup_in_full_clade": 184,
+    "of_which_in_subset": 88,
+    "species_in_subset": 86
+   },
+   "PDR11": {
+    "ingroup_in_full_clade": 46,
+    "of_which_in_subset": 46,
+    "species_in_subset": 45
+   },
+   "AUS1": {
+    "ingroup_in_full_clade": 60,
+    "of_which_in_subset": 60,
+    "species_in_subset": 60
+   },
+   "unassigned": {
+    "ingroup_in_full_clade": 746,
+    "of_which_in_subset": 119,
+    "species_in_subset": 47
+   }
+  }
+ }
+}

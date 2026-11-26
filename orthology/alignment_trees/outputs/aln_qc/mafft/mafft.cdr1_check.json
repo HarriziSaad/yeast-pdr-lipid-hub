@@ -1,0 +1,18 @@
+{
+ "name": "mafft",
+ "cdr1_structure": "9VT1.cif",
+ "cdr1_row": "Candida_albicans_SC5314|g002778.m1",
+ "structure_pairs": 1294,
+ "pairs_lt5A": 1277,
+ "status_all_lt5A": {
+  "OK_0": 1263,
+  "ALIGNMENT_GAP_IN_CDR1": 4,
+  "OK_1_3": 10
+ },
+ "class_residues_with_pair_lt5A": 269,
+ "status_class_residues": {
+  "OK_0": 269
+ },
+ "class_residues_in_set": 273,
+ "class_residues_without_pair": 4
+}

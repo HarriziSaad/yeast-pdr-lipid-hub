@@ -1,0 +1,9 @@
+clade	family	n_sequences	n_ingroup	n_species	n_wgd_species	stem_SH_aLRT	stem_UFBoot	support_ok	scoring_group_3f	family_purity	assigned_best_hit_in_universe	violators_outside_clade	violator_rate	violators_where	pass_1T	pass_1L	orders
+PDR5	PDR5-like	63	63	48	48	92.2		Y	Y	1.0	94	31	0.3298	"{""in_C_PDR15"": 19, ""elsewhere"": 12}"	Y	N	"{""Saccharomycetales"": 63}"
+PDR15	PDR5-like	74	74	67	59	97.6		Y	Y	1.0	41	0	0.0	{}	Y	Y	"{""Saccharomycetales"": 74}"
+PDR10	PDR5-like	8	8	8	8	100.0		Y	N	1.0	8	0	0.0	{}	Y	Y	"{""Saccharomycetales"": 8}"
+SNQ2	SNQ2-like	104	104	80	71	37.7		N	Y	1.0	134	30	0.2239	"{""elsewhere"": 18, ""in_C_PDR18"": 12}"	N	N	"{""Saccharomycetales"": 104}"
+PDR18	SNQ2-like	19	19	19	19	17.9		N	Y	1.0	7	0	0.0	{}	N	N	"{""Saccharomycetales"": 19}"
+PDR12	PDR12-like	88	88	86	71	100.0		Y	Y	1.0	88	0	0.0	{}	Y	Y	"{""Saccharomycetales"": 88}"
+PDR11	PDR11/AUS1-like	46	46	45	45	73.7		N	Y	1.0	59	13	0.2203	"{""in_C_AUS1"": 13}"	N	N	"{""Saccharomycetales"": 46}"
+AUS1	PDR11/AUS1-like	60	60	60	60	50.6		N	Y	1.0	47	0	0.0	{}	N	N	"{""Saccharomycetales"": 60}"

@@ -1,0 +1,80 @@
+pillar	family	ygob_species	group	position	ygob_gene	mapped_seq	status	observed	expected	ok
+Anc_3.220	SNQ2	Vanderwaltozyma polyspora	post-WGD	post1	Kpol_1037.47	Vanderwaltozyma_polyspora|g004697.m1	MAPPED	none	C_SNQ2	N
+Anc_3.220	SNQ2	Tetrapisispora phaffii	post-WGD	post1	TPHA0A04220	Tetrapisispora_phaffii|g004050.m1	MAPPED	none	C_SNQ2	N
+Anc_3.220	SNQ2	Tetrapisispora blattae	post-WGD	post1	TBLA0G02820	Tetrapisispora_blattae|g000360.m1	MAPPED	none	C_SNQ2	N
+Anc_3.220	SNQ2	Naumovozyma dairenensis	post-WGD	post1	NDAI0G01840	Naumovozyma_dairenensis|g004829.m1	MAPPED	C_SNQ2	C_SNQ2	Y
+Anc_3.220	SNQ2	Naumovozyma castellii	post-WGD	post1	NCAS0E01630	Naumovozyma_castellii|g005680.m1	MAPPED	C_SNQ2	C_SNQ2	Y
+Anc_3.220	SNQ2	Kazachstania naganishii	post-WGD	post1	KNAG0K01350	Kazachstania_naganishii|g001059.m1	MAPPED	C_SNQ2	C_SNQ2	Y
+Anc_3.220	SNQ2	Kazachstania africana	post-WGD	post1	KAFR0C00830		NO_HIT_IN_SET	unmapped	NA	NA
+Anc_3.220	SNQ2	Candida glabrata (= Nakaseomyces glabratus)	post-WGD	post1	CAGL0I04862g	Nakaseomyces_glabratus|g004051.m1	MAPPED	C_SNQ2	C_SNQ2	Y
+Anc_3.220	SNQ2	Saccharomyces kudriavzevii	post-WGD	post1	Skud_4.262	Saccharomyces_kudriavzevii|g003614.m1	MAPPED	C_SNQ2	C_SNQ2	Y
+Anc_3.220	SNQ2	Saccharomyces mikatae	post-WGD	post1	Smik_4.244	Saccharomyces_mikatae|g003562.m1	MAPPED	C_SNQ2	C_SNQ2	Y
+Anc_3.220	SNQ2	Saccharomyces cerevisiae	post-WGD	post1	YDR011W	Saccharomyces_cerevisiae|g003736.m1	MAPPED	C_SNQ2	C_SNQ2	Y
+Anc_3.220	SNQ2	Zygosaccharomyces rouxii	pre-WGD	pre	ZYRO0A04114g	Zygosaccharomyces_rouxii|g002192.m1	MAPPED	C_PDR18	C_SNQ2	N
+Anc_3.220	SNQ2	Torulaspora delbrueckii	pre-WGD	pre	TDEL0D04040	Torulaspora_delbrueckii|g002121.m1	MAPPED	C_SNQ2	C_SNQ2	Y
+Anc_3.220	SNQ2	Kluyveromyces lactis	pre-WGD	pre	KLLA0D03432g	Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278|g002362.m1	MAPPED	none	C_SNQ2	N
+Anc_3.220	SNQ2	Eremothecium gossypii	pre-WGD	pre	ABR125C	Eremothecium_gossypii|g000711.m1	MAPPED	none	C_SNQ2	N
+Anc_3.220	SNQ2	Eremothecium cymbalariae	pre-WGD	pre	Ecym_3604	Eremothecium_cymbalariae|g001889.m1	MAPPED	none	C_SNQ2	N
+Anc_3.220	SNQ2	Lachancea kluyveri	pre-WGD	pre	SAKL0C11616g	Lachancea_kluyveri|g002980.m1	MAPPED	none	C_SNQ2	N
+Anc_3.220	SNQ2	Lachancea thermotolerans	pre-WGD	pre	KLTH0A01914g	Lachancea_thermotolerans|g004139.m1	MAPPED	none	C_SNQ2	N
+Anc_3.220	SNQ2	Lachancea waltii	pre-WGD	pre	Kwal_23.5161	Lachancea_waltii|g002568.m1	MAPPED	none	C_SNQ2	N
+Anc_3.220	SNQ2	Tetrapisispora blattae	post-WGD	post2	TBLA0I01760	Tetrapisispora_blattae|g002636.m1	MAPPED	none	C_SNQ2	N
+Anc_3.220	SNQ2	Tetrapisispora phaffii	post-WGD	post2	TPHA0M00640	Tetrapisispora_phaffii|g001720.m1	MAPPED	none	C_SNQ2	N
+Anc_3.220	SNQ2	Vanderwaltozyma polyspora	post-WGD	post2	Kpol_1036.28	Vanderwaltozyma_polyspora|g005725.m1	MAPPED	none	C_SNQ2	N
+Anc_7.123a	PDR11/AUS1	Tetrapisispora phaffii	post-WGD	post1	TPHA0L00810	Tetrapisispora_phaffii|g002608.m1	MAPPED	none	inside pair clade (C_PDR11 or C_AUS1)	N
+Anc_7.123a	PDR11/AUS1	Naumovozyma dairenensis	post-WGD	post1	NDAI0H01280	Naumovozyma_dairenensis|g000494.m1	MAPPED	C_PDR11	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Naumovozyma castellii	post-WGD	post1	NCAS0F00790	Naumovozyma_castellii|g005020.m1	MAPPED	C_PDR11	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Kazachstania naganishii	post-WGD	post1	KNAG0G01040	Kazachstania_naganishii|g004356.m1	MAPPED	C_PDR11	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Kazachstania africana	post-WGD	post1	KAFR0K01230	Kazachstania_africana|g004501.m1	MAPPED	C_PDR11	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Candida glabrata (= Nakaseomyces glabratus)	post-WGD	post1	CAGL0F01419g	Nakaseomyces_glabratus|g005138.m1	MAPPED	C_AUS1	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Saccharomyces bayanus var. uvarum (= S. uvarum)	post-WGD	post1	Suva_15.188	Saccharomyces_uvarum|g002033.m1	MAPPED	C_AUS1	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Saccharomyces kudriavzevii	post-WGD	post1	Skud_9.159	Saccharomyces_kudriavzevii|g005340.m1	MAPPED	C_PDR11	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Saccharomyces mikatae	post-WGD	post1	Smik_9.181	Saccharomyces_mikatae|g005344.m1	MAPPED	C_PDR11	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Saccharomyces cerevisiae	post-WGD	post1	YIL013C	Saccharomyces_cerevisiae|g005516.m1	MAPPED	C_PDR11	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Eremothecium gossypii	pre-WGD	pre	AFR326W	Eremothecium_gossypii|g003500.m1	MAPPED	none	outside pair clade	Y
+Anc_7.123a	PDR11/AUS1	Eremothecium cymbalariae	pre-WGD	pre	Ecym_1222		NO_HIT_IN_SET	unmapped	NA	NA
+Anc_7.123a	PDR11/AUS1	Lachancea kluyveri	pre-WGD	pre	SAKL0F04312g	Lachancea_kluyveri|g001986.m1	MAPPED	none	outside pair clade	Y
+Anc_7.123a	PDR11/AUS1	Saccharomyces cerevisiae	post-WGD	post2	YOR011W	Saccharomyces_cerevisiae|g002189.m1	MAPPED	C_AUS1	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Saccharomyces mikatae	post-WGD	post2	Smik_15.185	Saccharomyces_mikatae|g002112.m1	MAPPED	C_AUS1	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Saccharomyces kudriavzevii	post-WGD	post2	Skud_15.174	Saccharomyces_kudriavzevii|g002112.m1	MAPPED	C_AUS1	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Saccharomyces bayanus var. uvarum (= S. uvarum)	post-WGD	post2	Suva_9.192	Saccharomyces_uvarum|g005447.m1	MAPPED	C_PDR11	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Kazachstania africana	post-WGD	post2	KAFR0G03010	Kazachstania_africana|g002385.m1	MAPPED	C_AUS1	inside pair clade (C_PDR11 or C_AUS1)	Y
+Anc_7.123a	PDR11/AUS1	Tetrapisispora blattae	post-WGD	post2	TBLA0A01150	Tetrapisispora_blattae|g004721.m1	MAPPED	none	inside pair clade (C_PDR11 or C_AUS1)	N
+Anc_5.500	PDR5/PDR15	Vanderwaltozyma polyspora	post-WGD	post1	Kpol_218.5	Vanderwaltozyma_polyspora|g004352.m1	MAPPED	C_PDR15	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Tetrapisispora blattae	post-WGD	post1	TBLA0A02440	Tetrapisispora_blattae|g004943.m1	MAPPED	C_PDR10	inside pair clade (C_PDR5 or C_PDR15)	N
+Anc_5.500	PDR5/PDR15	Naumovozyma dairenensis	post-WGD	post1	NDAI0A04200	Naumovozyma_dairenensis|g004715.m1	MAPPED	C_PDR15	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Naumovozyma castellii	post-WGD	post1	NCAS0A12060	Naumovozyma_castellii|g003578.m1	MAPPED	C_PDR15	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Kazachstania naganishii	post-WGD	post1	KNAG0B03870	Kazachstania_naganishii|g002047.m1	MAPPED	C_PDR5	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Kazachstania africana	post-WGD	post1	KAFR0C05220		NO_HIT_IN_SET	unmapped	NA	NA
+Anc_5.500	PDR5/PDR15	Candida glabrata (= Nakaseomyces glabratus)	post-WGD	post1	CAGL0F02717g	Nakaseomyces_glabratus|g005085.m1	MAPPED	C_PDR15	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Saccharomyces bayanus var. uvarum (= S. uvarum)	post-WGD	post1	Suva_2.583	Saccharomyces_uvarum|g003179.m1	MAPPED	C_PDR15	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Saccharomyces kudriavzevii	post-WGD	post1	Skud_4.680	Saccharomyces_kudriavzevii|g003970.m1	MAPPED	C_PDR15	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Saccharomyces mikatae	post-WGD	post1	Smik_4.678	Saccharomyces_mikatae|g003923.m1	MAPPED	C_PDR15	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Saccharomyces cerevisiae	post-WGD	post1	YOR153W	Saccharomyces_cerevisiae|g002312.m1	MAPPED	C_PDR5	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Zygosaccharomyces rouxii	pre-WGD	pre	ZYRO0D11880g	Zygosaccharomyces_rouxii|g003780.m1	MAPPED	none	outside pair clade	Y
+Anc_5.500	PDR5/PDR15	Torulaspora delbrueckii	pre-WGD	pre	TDEL0A03640	Torulaspora_delbrueckii|g001309.m1	MAPPED	none	outside pair clade	Y
+Anc_5.500	PDR5/PDR15	Saccharomyces cerevisiae	post-WGD	post2	YDR406W	Saccharomyces_cerevisiae|g004097.m1	MAPPED	C_PDR15	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Saccharomyces mikatae	post-WGD	post2	Smik_15.333	Saccharomyces_mikatae|g002235.m1	MAPPED	C_PDR5	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Saccharomyces kudriavzevii	post-WGD	post2	Skud_15.317	Saccharomyces_kudriavzevii|g002236.m1	MAPPED	C_PDR5	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Saccharomyces bayanus var. uvarum (= S. uvarum)	post-WGD	post2	Suva_8.204	Saccharomyces_uvarum|g005086.m1	MAPPED	C_PDR5	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Kazachstania africana	post-WGD	post2	KAFR0E03440		WEAK_HIT	unmapped	NA	NA
+Anc_5.500	PDR5/PDR15	Kazachstania naganishii	post-WGD	post2	KNAG0C04500	Kazachstania_naganishii|g002763.m1	MAPPED	C_PDR15	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Naumovozyma castellii	post-WGD	post2	NCAS0H02420	Naumovozyma_castellii|g002659.m1	MAPPED	C_PDR5	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Naumovozyma dairenensis	post-WGD	post2	NDAI0C01220	Naumovozyma_dairenensis|g003821.m1	MAPPED	C_PDR5	inside pair clade (C_PDR5 or C_PDR15)	Y
+Anc_5.500	PDR5/PDR15	Tetrapisispora blattae	post-WGD	post2	TBLA0D01780		NO_HIT_IN_SET	unmapped	NA	NA
+Anc_8.517	PDR12	Vanderwaltozyma polyspora	post-WGD	post1	Kpol_513.9	Vanderwaltozyma_polyspora|g000371.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Tetrapisispora phaffii	post-WGD	post1	TPHA0L01500	Tetrapisispora_phaffii|g002540.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Tetrapisispora blattae	post-WGD	post1	TBLA0H03470	Tetrapisispora_blattae|g002314.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Naumovozyma dairenensis	post-WGD	post1	NDAI0E02950	Naumovozyma_dairenensis|g000077.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Naumovozyma castellii	post-WGD	post1	NCAS0C02250	Naumovozyma_castellii|g000192.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Kazachstania naganishii	post-WGD	post1	KNAG0A02100	Kazachstania_naganishii|g000095.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Kazachstania africana	post-WGD	post1	KAFR0A01180	Kazachstania_africana|g000978.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Candida glabrata (= Nakaseomyces glabratus)	post-WGD	post1	CAGL0M07293g	Nakaseomyces_glabratus|g000312.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Saccharomyces bayanus var. uvarum (= S. uvarum)	post-WGD	post1	Suva_16.256	Saccharomyces_uvarum|g002462.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Saccharomyces kudriavzevii	post-WGD	post1	Skud_16.225	Saccharomyces_kudriavzevii|g002648.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Saccharomyces mikatae	post-WGD	post1	Smik_16.179	Saccharomyces_mikatae|g002591.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Saccharomyces cerevisiae	post-WGD	post1	YPL058C	Saccharomyces_cerevisiae|g002739.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Zygosaccharomyces rouxii	pre-WGD	pre	ZYRO0F08888g		NO_HIT_IN_SET	unmapped	NA	NA
+Anc_8.517	PDR12	Torulaspora delbrueckii	pre-WGD	pre	TDEL0B01210	Torulaspora_delbrueckii|g000636.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Kluyveromyces lactis	pre-WGD	pre	KLLA0B09702g	Kluyveromyces_lactis_var._drosophilarum_NRRL_Y-8278|g003243.m1	MAPPED	C_PDR12	C_PDR12	Y
+Anc_8.517	PDR12	Lachancea kluyveri	pre-WGD	pre	SAKL0H10670g	Lachancea_kluyveri|g000923.m1	MAPPED	C_PDR12	C_PDR12	Y

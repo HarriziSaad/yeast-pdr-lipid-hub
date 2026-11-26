@@ -1,0 +1,31 @@
+{
+ "nd": 2000,
+ "nd_registered": 1000,
+ "workers": 8,
+ "phases": {
+  "G_s": 8.886604070663452,
+  "observed_s": 1.026599645614624,
+  "null_s": 283.96345567703247
+ },
+ "placement_done_s": {
+  "9S4U": 30.15813946723938,
+  "9S2H": 35.34832429885864,
+  "9S2C": 35.352052211761475,
+  "9S4T": 35.355146408081055,
+  "9S4S": 41.792176485061646
+ },
+ "stats": {},
+ "total_s": 293.89182233810425,
+ "verdict_registered": {
+  "n_entries": 4,
+  "n_p_lt_0_1": 4,
+  "all_delta_negative": true,
+  "label": "consistent"
+ },
+ "wall_total_s": 293.98380494117737,
+ "threads_main": 8,
+ "versions": {
+  "python": "3.14.3",
+  "numpy": "2.5.2"
+ }
+}

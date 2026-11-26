@@ -1,0 +1,932 @@
+{
+ "calibration": {
+  "7P03": {
+   "d_NBD": 35.78629286118061,
+   "g_cyt": 28.21498368217304,
+   "g_ext": 25.637072151216795,
+   "d_gate": 12.339723014792982,
+   "n_set": {
+    "NBD1": 313,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  "7P04": {
+   "d_NBD": 34.73714819848505,
+   "g_cyt": 27.690080149138108,
+   "g_ext": 25.193091817766437,
+   "d_gate": 11.696404955227317,
+   "n_set": {
+    "NBD1": 313,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  "7P05": {
+   "d_NBD": 34.89298706950839,
+   "g_cyt": 27.82624214079583,
+   "g_ext": 25.273822778245126,
+   "d_gate": 11.726704240955984,
+   "n_set": {
+    "NBD1": 313,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  "7P06": {
+   "d_NBD": 29.71536850601589,
+   "g_cyt": 22.710365886527992,
+   "g_ext": 25.221037199015292,
+   "d_gate": 13.326371366301728,
+   "n_set": {
+    "NBD1": 313,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  }
+ },
+ "rows": [
+  {
+   "name": "Pdr5",
+   "evidence": "C-AlphaFold",
+   "TM_7P04": 0.92785,
+   "TM_7P03": 0.92194,
+   "TM_7P06": 0.96896,
+   "best_ref": "7P06",
+   "d_NBD": 32.19233288533177,
+   "g_cyt": 24.002923723473252,
+   "g_ext": 25.103463089967757,
+   "d_gate": 12.742748151004259,
+   "s_NBD": 0.5464675167834327,
+   "s_cyt": 0.751434504389086,
+   "s_gate": 0.5847361034125587,
+   "state": "outward-facing",
+   "NBD": "NBD intermediate",
+   "label_by_ref": {
+    "7P04": "outward-facing",
+    "7P03": "outward-facing",
+    "7P06": "outward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 313,
+    "NBD2": 304,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "Snq2",
+   "evidence": "C-AlphaFold",
+   "TM_7P04": 0.90351,
+   "TM_7P03": 0.89105,
+   "TM_7P06": 0.95471,
+   "best_ref": "7P06",
+   "d_NBD": 31.140212446735553,
+   "g_cyt": 22.474873830204576,
+   "g_ext": 24.431797293075633,
+   "d_gate": 11.047071378793616,
+   "s_NBD": 0.7439056853285241,
+   "s_cyt": 1.0569021493479498,
+   "s_gate": -0.6217843456105377,
+   "state": "occluded",
+   "NBD": "NBDs closed",
+   "label_by_ref": {
+    "7P04": "occluded",
+    "7P03": "occluded",
+    "7P06": "occluded"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 310,
+    "NBD2": 304,
+    "cyt1": 42,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "Pdr10",
+   "evidence": "C-AlphaFold",
+   "TM_7P04": 0.93395,
+   "TM_7P03": 0.92868,
+   "TM_7P06": 0.95616,
+   "best_ref": "7P06",
+   "d_NBD": 32.57230182170185,
+   "g_cyt": 23.88327603196478,
+   "g_ext": 25.055715299330544,
+   "d_gate": 13.034035098611016,
+   "s_NBD": 0.4963913485430505,
+   "s_cyt": 0.7744433685872184,
+   "s_gate": 0.7919947417218497,
+   "state": "outward-facing",
+   "NBD": "NBD intermediate",
+   "label_by_ref": {
+    "7P04": "outward-facing",
+    "7P03": "outward-facing",
+    "7P06": "outward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 313,
+    "NBD2": 299,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "Pdr11",
+   "evidence": "C-AlphaFold",
+   "TM_7P04": 0.85647,
+   "TM_7P03": 0.85154,
+   "TM_7P06": 0.88032,
+   "best_ref": "7P06",
+   "d_NBD": 31.918929658955303,
+   "g_cyt": 22.273465696282393,
+   "g_ext": 24.383063479737952,
+   "d_gate": 11.793285442130289,
+   "s_NBD": 0.5938382541169509,
+   "s_cyt": 1.0840181454298041,
+   "s_gate": -0.09083260910089191,
+   "state": "occluded",
+   "NBD": "NBD intermediate",
+   "label_by_ref": {
+    "7P04": "occluded",
+    "7P03": "occluded",
+    "7P06": "occluded"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 303,
+    "NBD2": 285,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "Pdr12",
+   "evidence": "C-AlphaFold",
+   "TM_7P04": 0.90743,
+   "TM_7P03": 0.89524,
+   "TM_7P06": 0.95551,
+   "best_ref": "7P06",
+   "d_NBD": 31.202440012359265,
+   "g_cyt": 22.811044536991062,
+   "g_ext": 24.456740396944312,
+   "d_gate": 11.12070677106666,
+   "s_NBD": 0.7208036345360812,
+   "s_cyt": 0.9806389795996023,
+   "s_gate": -0.5693907479595887,
+   "state": "occluded",
+   "NBD": "NBDs closed",
+   "label_by_ref": {
+    "7P04": "occluded",
+    "7P03": "occluded",
+    "7P06": "occluded"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 310,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "Pdr15",
+   "evidence": "C-AlphaFold",
+   "TM_7P04": 0.92367,
+   "TM_7P03": 0.91459,
+   "TM_7P06": 0.97622,
+   "best_ref": "7P06",
+   "d_NBD": 31.597541547344647,
+   "g_cyt": 24.041543003141935,
+   "g_ext": 25.069665136667435,
+   "d_gate": 12.970863757887946,
+   "s_NBD": 0.6529559210998723,
+   "s_cyt": 0.7440078190086705,
+   "s_gate": 0.7470466032418817,
+   "state": "outward-facing",
+   "NBD": "NBD intermediate",
+   "label_by_ref": {
+    "7P04": "outward-facing",
+    "7P03": "outward-facing",
+    "7P06": "outward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 313,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "Pdr18",
+   "evidence": "C-AlphaFold",
+   "TM_7P04": 0.85857,
+   "TM_7P03": 0.84473,
+   "TM_7P06": 0.9156,
+   "best_ref": "7P06",
+   "d_NBD": 30.990097989549504,
+   "g_cyt": 21.837442509162397,
+   "g_ext": 24.11772294519837,
+   "d_gate": 10.89538366990365,
+   "s_NBD": 0.7478162905046674,
+   "s_cyt": 0.9979136859537154,
+   "s_gate": -0.7297143035131941,
+   "state": "occluded",
+   "NBD": "NBDs closed",
+   "label_by_ref": {
+    "7P04": "occluded",
+    "7P03": "occluded",
+    "7P06": "occluded"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 307,
+    "NBD2": 304,
+    "cyt1": 42,
+    "cyt2": 43,
+    "ext1": 60,
+    "ext2": 54
+   }
+  },
+  {
+   "name": "Aus1",
+   "evidence": "C-AlphaFold",
+   "TM_7P04": 0.85241,
+   "TM_7P03": 0.84762,
+   "TM_7P06": 0.87725,
+   "best_ref": "7P06",
+   "d_NBD": 32.054706146394935,
+   "g_cyt": 22.438564858053557,
+   "g_ext": 24.317171415339406,
+   "d_gate": 11.794056762619936,
+   "s_NBD": 0.567401651994716,
+   "s_cyt": 1.052268730589241,
+   "s_gate": -0.09028379345467824,
+   "state": "occluded",
+   "NBD": "NBD intermediate",
+   "label_by_ref": {
+    "7P04": "occluded",
+    "7P03": "occluded",
+    "7P06": "occluded"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 303,
+    "NBD2": 285,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "YOL075C",
+   "evidence": "C-AlphaFold",
+   "TM_7P04": 0.80145,
+   "TM_7P03": 0.78989,
+   "TM_7P06": 0.82104,
+   "best_ref": "7P06",
+   "d_NBD": 30.791798665204436,
+   "g_cyt": 23.95667398609553,
+   "g_ext": 24.00798563948959,
+   "d_gate": 12.146153643233164,
+   "s_NBD": 0.7472959710110506,
+   "s_cyt": 0.7603285658883663,
+   "s_gate": 0.1602427770917112,
+   "state": "occluded",
+   "NBD": "NBDs closed",
+   "label_by_ref": {
+    "7P04": "occluded",
+    "7P03": "occluded",
+    "7P06": "occluded"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 286,
+    "NBD2": 298,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "Adp1",
+   "evidence": "C-AlphaFold",
+   "TM_7P04": 0.43176,
+   "TM_7P03": 0.43175,
+   "TM_7P06": 0.41323,
+   "best_ref": "7P04",
+   "d_NBD": NaN,
+   "g_cyt": NaN,
+   "g_ext": 31.61403154067203,
+   "d_gate": NaN,
+   "s_NBD": NaN,
+   "s_cyt": NaN,
+   "s_gate": NaN,
+   "state": "NA (fewer than 10 aligned residues in a descriptor set; half-size or truncated model)",
+   "NBD": "NA",
+   "label_by_ref": {
+    "7P04": "NA (fewer than 10 aligned residues in a descriptor set; half-size or truncated model)",
+    "7P03": "NA (fewer than 10 aligned residues in a descriptor set; half-size or truncated model)",
+    "7P06": "NA (fewer than 10 aligned residues in a descriptor set; half-size or truncated model)"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 0,
+    "NBD2": 298,
+    "cyt1": 0,
+    "cyt2": 50,
+    "ext1": 3,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "CaCdr1_AF",
+   "evidence": "C-AlphaFold",
+   "TM_7P04": 0.91732,
+   "TM_7P03": 0.90909,
+   "TM_7P06": 0.96635,
+   "best_ref": "7P06",
+   "d_NBD": 31.836134114832635,
+   "g_cyt": 23.656683068165655,
+   "g_ext": 25.071535633697884,
+   "d_gate": 12.696064566396728,
+   "s_NBD": 0.6192128138761706,
+   "s_cyt": 0.8180183566757866,
+   "s_gate": 0.5515194548237743,
+   "state": "outward-facing",
+   "NBD": "NBD intermediate",
+   "label_by_ref": {
+    "7P04": "outward-facing",
+    "7P03": "outward-facing",
+    "7P06": "outward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 310,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9IUK",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.95742,
+   "TM_7P03": 0.97655,
+   "TM_7P06": 0.85562,
+   "best_ref": "7P03",
+   "d_NBD": 35.77794755574599,
+   "g_cyt": 27.605496934628658,
+   "g_ext": 25.71812328821572,
+   "d_gate": 13.52224895996851,
+   "s_NBD": -0.10844031815862007,
+   "s_cyt": 0.0586412149052294,
+   "s_gate": 1.1393722707873777,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 309,
+    "NBD2": 302,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9IUL",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.95671,
+   "TM_7P03": 0.97573,
+   "TM_7P06": 0.85492,
+   "best_ref": "7P03",
+   "d_NBD": 35.78846734630169,
+   "g_cyt": 27.633139080630514,
+   "g_ext": 25.723464275963195,
+   "d_gate": 13.434236520832513,
+   "s_NBD": -0.10865032325951413,
+   "s_cyt": 0.0533254885800239,
+   "s_gate": 1.0767490106671471,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 309,
+    "NBD2": 302,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9IUM",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.95033,
+   "TM_7P03": 0.96899,
+   "TM_7P06": 0.85463,
+   "best_ref": "7P03",
+   "d_NBD": 35.95063555560862,
+   "g_cyt": 27.097548619595646,
+   "g_ext": 25.693882701548795,
+   "d_gate": 13.48753726062724,
+   "s_NBD": -0.13781313014388052,
+   "s_cyt": 0.1563222788097271,
+   "s_gate": 1.1146739463413906,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 309,
+    "NBD2": 302,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "22FR",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.89448,
+   "TM_7P03": 0.90829,
+   "TM_7P06": 0.82075,
+   "best_ref": "7P03",
+   "d_NBD": 35.02696059385835,
+   "g_cyt": 26.73389733337897,
+   "g_ext": 25.12148748939351,
+   "d_gate": 13.198301376094037,
+   "s_NBD": -0.05467983707593487,
+   "s_cyt": 0.22625428463905115,
+   "s_gate": 0.9088746955645783,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 296,
+    "NBD2": 302,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9VT1",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.93152,
+   "TM_7P03": 0.92153,
+   "TM_7P06": 0.87738,
+   "best_ref": "7P04",
+   "d_NBD": 33.99858101848162,
+   "g_cyt": 26.66935561640248,
+   "g_ext": 24.836545714794646,
+   "d_gate": 12.958524289498515,
+   "s_NBD": 0.2029600164146206,
+   "s_cyt": 0.23866598755035365,
+   "s_gate": 0.7382667336429641,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 310,
+    "NBD2": 301,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9VTM",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.90567,
+   "TM_7P03": 0.91772,
+   "TM_7P06": 0.83353,
+   "best_ref": "7P03",
+   "d_NBD": 35.30933999213366,
+   "g_cyt": 26.860283346476574,
+   "g_ext": 25.171271517938486,
+   "d_gate": 13.637790190384104,
+   "s_NBD": -0.021977910615691296,
+   "s_cyt": 0.2019496066695623,
+   "s_gate": 1.2215830196083133,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 307,
+    "NBD2": 302,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9VTO",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.86889,
+   "TM_7P03": 0.85522,
+   "TM_7P06": 0.97692,
+   "best_ref": "7P06",
+   "d_NBD": 29.80837541215357,
+   "g_cyt": 22.26889772159295,
+   "g_ext": 24.704981216641762,
+   "d_gate": 12.511392093636589,
+   "s_NBD": 0.9662949301182725,
+   "s_cyt": 1.0848965903706533,
+   "s_gate": 0.4201199343442365,
+   "state": "occluded",
+   "NBD": "NBDs closed",
+   "label_by_ref": {
+    "7P04": "occluded",
+    "7P03": "occluded",
+    "7P06": "occluded"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 310,
+    "NBD2": 302,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9VSU",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.89952,
+   "TM_7P03": 0.91252,
+   "TM_7P06": 0.83052,
+   "best_ref": "7P03",
+   "d_NBD": 35.21649679281243,
+   "g_cyt": 27.09452318683458,
+   "g_ext": 25.427453218804718,
+   "d_gate": 12.954151074839354,
+   "s_NBD": -0.005395480124042894,
+   "s_cyt": 0.15690408503316805,
+   "s_gate": 0.7351550716796016,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 306,
+    "NBD2": 302,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9VSV",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.90854,
+   "TM_7P03": 0.92299,
+   "TM_7P06": 0.83541,
+   "best_ref": "7P03",
+   "d_NBD": 35.386584715934106,
+   "g_cyt": 26.914858137861167,
+   "g_ext": 25.17452466646953,
+   "d_gate": 13.27769529182551,
+   "s_NBD": -0.03864918890477951,
+   "s_cyt": 0.1914545946239637,
+   "s_gate": 0.9653656403176617,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 308,
+    "NBD2": 302,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9VSW",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.89408,
+   "TM_7P03": 0.90098,
+   "TM_7P06": 0.83805,
+   "best_ref": "7P03",
+   "d_NBD": 33.93764310345817,
+   "g_cyt": 26.279701481472685,
+   "g_ext": 25.424709862666063,
+   "d_gate": 13.181545363683425,
+   "s_NBD": 0.15096326590946335,
+   "s_cyt": 0.3135984744358657,
+   "s_gate": 0.8969523339749151,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 299,
+    "NBD2": 302,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9VSZ",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.89779,
+   "TM_7P03": 0.91321,
+   "TM_7P06": 0.83104,
+   "best_ref": "7P03",
+   "d_NBD": 35.45433680542792,
+   "g_cyt": 26.919701847376814,
+   "g_ext": 25.4061694346119,
+   "d_gate": 13.313806319489181,
+   "s_NBD": -0.047915222789150204,
+   "s_cyt": 0.19052312446306352,
+   "s_gate": 0.991059625176969,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 306,
+    "NBD2": 302,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9VT2",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.8967,
+   "TM_7P03": 0.91064,
+   "TM_7P06": 0.82101,
+   "best_ref": "7P03",
+   "d_NBD": 35.66174187089858,
+   "g_cyt": 26.94503541118019,
+   "g_ext": 25.455901381217384,
+   "d_gate": 13.173939231549049,
+   "s_NBD": -0.08223127749729554,
+   "s_cyt": 0.18565135032469404,
+   "s_gate": 0.8915403627145365,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 303,
+    "NBD2": 302,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9VTN",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.86973,
+   "TM_7P03": 0.88208,
+   "TM_7P06": 0.80096,
+   "best_ref": "7P03",
+   "d_NBD": 34.532415161839694,
+   "g_cyt": 26.80073468230685,
+   "g_ext": 25.31966500901744,
+   "d_gate": 13.400224935170606,
+   "s_NBD": -0.032690883995607815,
+   "s_cyt": 0.21340111993979008,
+   "s_gate": 1.052548836272298,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 288,
+    "NBD2": 280,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9S2C",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.88809,
+   "TM_7P03": 0.87716,
+   "TM_7P06": 0.98785,
+   "best_ref": "7P06",
+   "d_NBD": 29.642748741004805,
+   "g_cyt": 22.511555256917713,
+   "g_ext": 24.76174140340054,
+   "d_gate": 13.17983254750864,
+   "s_NBD": 1.0133899800415922,
+   "s_cyt": 1.038232302856626,
+   "s_gate": 0.8957336183717047,
+   "state": "outward-facing",
+   "NBD": "NBDs closed",
+   "label_by_ref": {
+    "7P04": "outward-facing",
+    "7P03": "outward-facing",
+    "7P06": "outward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 313,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9S2H",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.98273,
+   "TM_7P03": 0.98046,
+   "TM_7P06": 0.88787,
+   "best_ref": "7P04",
+   "d_NBD": 34.35889291718563,
+   "g_cyt": 27.407212880467732,
+   "g_ext": 25.183885492507795,
+   "d_gate": 12.468206168447267,
+   "s_NBD": 0.12958296504989714,
+   "s_cyt": 0.09677225460456866,
+   "s_gate": 0.3893919661932251,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 311,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9S4S",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.96325,
+   "TM_7P03": 0.9635,
+   "TM_7P06": 0.88193,
+   "best_ref": "7P03",
+   "d_NBD": 33.98255065798597,
+   "g_cyt": 27.41696847559405,
+   "g_ext": 25.24410412662892,
+   "d_gate": 11.96109795963313,
+   "s_NBD": 0.19803385692400466,
+   "s_cyt": 0.0948962036703346,
+   "s_gate": 0.028570591607735674,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 310,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9S4T",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.92912,
+   "TM_7P03": 0.96005,
+   "TM_7P06": 0.83162,
+   "best_ref": "7P03",
+   "d_NBD": 36.23761390625726,
+   "g_cyt": 28.4784530272495,
+   "g_ext": 26.166110130304812,
+   "d_gate": 12.530124538864463,
+   "s_NBD": -0.21277911494909715,
+   "s_cyt": -0.1092327150704519,
+   "s_gate": 0.43344858199574043,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 309,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  },
+  {
+   "name": "9S4U",
+   "evidence": "E-cryoEM",
+   "TM_7P04": 0.962,
+   "TM_7P03": 0.96269,
+   "TM_7P06": 0.87925,
+   "best_ref": "7P03",
+   "d_NBD": 34.190564864378686,
+   "g_cyt": 27.308982266876466,
+   "g_ext": 25.125818740091347,
+   "d_gate": 12.249636667836123,
+   "s_NBD": 0.16183100460982597,
+   "s_cyt": 0.11566250496983044,
+   "s_gate": 0.23387378233775102,
+   "state": "inward-facing",
+   "NBD": "NBDs open",
+   "label_by_ref": {
+    "7P04": "inward-facing",
+    "7P03": "inward-facing",
+    "7P06": "inward-facing"
+   },
+   "n_residues_in_sets": {
+    "NBD1": 309,
+    "NBD2": 305,
+    "cyt1": 43,
+    "cyt2": 50,
+    "ext1": 60,
+    "ext2": 56
+   }
+  }
+ ]
+}
